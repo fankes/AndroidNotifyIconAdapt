@@ -14,11 +14,11 @@
 由于国内厂商 APP 的不规范彩色图标影响整体图标的美观，现在开放第三方 APP 以及定制 OS 的通知图标适配。<br/>
 欢迎为通知图标优化名单贡献宝贵资源！<br/>
 
-- [CONTRIBUTING](https://github.com/fankes/AndroidNotifyIconStandard/blob/master/CONTRIBUTING.md)
+- [CONTRIBUTING](https://github.com/fankes/AndroidNotifyIconStandard/blob/main/CONTRIBUTING.md)
 
 # 通知测试
 
-你可以 [点击这里](https://github.com/fankes/AndroidNotifyIconStandard/blob/master/tool/NotifyTester.apk) 下载工具测试通知图标是否符合原生规范。
+你可以 [点击这里](https://github.com/fankes/AndroidNotifyIconStandard/blob/main/tool/NotifyTester.apk) 下载工具测试通知图标是否符合原生规范。
 
 # 许可证
 
