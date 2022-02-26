@@ -15,8 +15,8 @@
 
 - 在下方的 JSON 文件中添加新的 APP 通知图标适配条目
 - APP 对应了每个定制系统共同使用的图标，OS 中的图标只会分发到指定的定制系统生效 
-- [进入 APP 适配文件](https://github.com/fankes/AndroidNotifyIconStandard/blob/main/APP/NotifyIconsSupportConfig.json)
-- [进入 OS 适配目录](https://github.com/fankes/AndroidNotifyIconStandard/blob/main/OS)
+- [进入 APP 适配文件](https://github.com/fankes/AndroidNotifyIconAdapt/blob/main/APP/NotifyIconsSupportConfig.json)
+- [进入 OS 适配目录](https://github.com/fankes/AndroidNotifyIconAdapt/blob/main/OS)
 - 使用灰度位图转 Base64 来得到 Base64 的位图数据字符串
 - [BitmapToBase64](https://github.com/fankes/BitmapToBase64)
 - 新增条目的模板如下所示
@@ -38,6 +38,6 @@
 
 ## 同步列表地址
 
-- APP [点击查看 Raw](https://raw.githubusercontent.com/fankes/AndroidNotifyIconStandard/main/APP/NotifyIconsSupportConfig.json)
-- MIUI [点击查看 Raw](https://raw.githubusercontent.com/fankes/AndroidNotifyIconStandard/main/OS/MIUI/NotifyIconsSupportConfig.json)
-- ColorOS [点击查看 Raw](https://raw.githubusercontent.com/fankes/AndroidNotifyIconStandard/main/OS/ColorOS/NotifyIconsSupportConfig.json)
+- APP [点击查看 Raw](https://raw.githubusercontent.com/fankes/AndroidNotifyIconAdapt/main/APP/NotifyIconsSupportConfig.json)
+- MIUI [点击查看 Raw](https://raw.githubusercontent.com/fankes/AndroidNotifyIconAdapt/main/OS/MIUI/NotifyIconsSupportConfig.json)
+- ColorOS [点击查看 Raw](https://raw.githubusercontent.com/fankes/AndroidNotifyIconAdapt/main/OS/ColorOS/NotifyIconsSupportConfig.json)
