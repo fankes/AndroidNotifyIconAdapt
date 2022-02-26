@@ -932,5 +932,14 @@
     "contributorName": "YifePlayte、naicfeng",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "Clash for Android",
+    "packageName": "com.github.kr328.clash",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADQAAAAyCAYAAAATIfj2AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAN5SURBVGiB1Zk7aBVBFIa/ucQQXzEaDRpEr+I7CPGFpFCCjVooiMYHaCtYCIpgKXaKIIKCWFqKSkRBUmoXK60MPgpLBTFqAiYg+Fvs3rh3sg+dmcXND8PdnTnzn/PfMzM7OwsBIOmmpGeSNoXgy/FzWdKFMn0gqVd/8LosUbGYBvaV4aPh6Jya8UrS/MA+NksaT/i4EpLfdvZI03E1sI+7Fv9wSH7b2YcUQZK0JxD/gQz+jhD8trO5Gc4k6WkgH0MZ/AdC8NvOduQIkqQjnvyHcrgvp/Wp+TgEegraz6YE2SGprmh17Je0LKf/+Zy2bWmVLQUBFWFjQftuRXOpBTgJnEozkjQOvEuUIWAusCuHe2tapSkIKBeSHgMHfTg80W2M+Zis8B1y6z37+2K7XTHTBU2bR86CJP1vMRBSEP8/O5CyMPgI2uDRNxS67WXfR9Aqz2BCoWlh8BG00jOQUGiaR2UK+gyMevA3MBpzZSGYoBU5bdeBHmNMJ3DLw8etmKMn5kzDGg/+CJI6Czal/Za9EyyO/gyziaSda4aKhtuUoKxd8d/A6tufYdYmaWnjxmkvJ+kQMJhjMgYMA7+A/S4+Ehgi+uP7gPYMmz5jzAtw320XZagd2OvIbeNv/pA68ALch9xyx342fgTiqTcuXAV1BwhiBLgWgAcSI8Z1yOW9ZRbheVy2Es3hQaKXOZ8hOpUh10XhLbDOI4DQeGOM2QjugsaAoIeJnpg0xswGhzmk6FS0SmIg8SxyWRR85k+ZqIOboBArXBnIFyRpjqQtKU0zL0PxHuo98FLTj1yrmqGVYD2HJB0n2qYng7aX565y43JGHRKCJD0EDltGI0SbwySWlBuXM7ohHnKSdpIuZsAYM2LVLy4/Nic0Lds3rMYsMQCdZUblgS5JphYvAH1W46kMMVDdIQfQUWP6cdRtY8zLnE5VzRDEglZblQ+yrCUtBBaVGpIfUgXlocrDDWBBDWi1Kk/kdKjycIM4Q0+sytOSjmV0qHqGZteAxykN9yRdlGSfHVQ9Q60GQNJ9YCDF4CfRacpwXNYS7hygDJyeemPNEZXEJ+InckVxdmq3bYw5CtwBJnM6VFkMQGvT64Mx5gywBbhKlI2ZhlmZhySS5hGJ67V+q4xL/3TqE39VaAM64rIw4zp573L2N0H0XShZviZ+v8Xle+L6G/DlNzUgbRZOQRbKAAAAAElFTkSuQmCC",
+    "iconColor": "#ff2a4677",
+    "contributorName": "fankes",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
