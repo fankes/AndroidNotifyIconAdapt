@@ -18,7 +18,7 @@
 
 # 通知测试
 
-你可以 [点击这里](https://github.com/fankes/AndroidNotifyIconAdapt/blob/main/tool/NotifyTester.apk) 下载工具测试通知图标是否符合原生规范。
+你可以 [点击这里](https://github.com/fankes/AndroidNotifyIconAdapt/raw/main/tool/NotifyTester.apk) 下载工具测试通知图标是否符合原生规范。
 
 # 许可证
 
