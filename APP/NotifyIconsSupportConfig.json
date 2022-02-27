@@ -941,5 +941,14 @@
     "contributorName": "fankes",
     "isEnabled": true,
     "isEnabledAll": true
+  },
+  {
+    "appName": "今日头条",
+    "packageName": "com.ss.android.artcle.news",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAA8hJREFUaEPtmY9RE1EQxncr0A7ECpQKhArECtQKxAqECoQKhAqUCoQKhAqECowVrPPL7Gaey929l3BeIpOduUlu7vLefvvt3xeVRyL6SHDIFsimMbll5L9lxMxeishbEeFzCrkWkXNV5bMqVdcys6ci8lVE9qqr/ZsXLkXkjarOhpYfBOIgfooIYNYptyKyOwSmBuT7GpnIhrtU1f0+a/YC8Zj4sU4aOvaGlc6YGQJyIiIfNgzIqaoeduk0BIQge7UhQH6LCExcrxvIjYiUWQelynuCmSvkVlXL+6o9Wxi5S5ugQOmn+V5UFTYnlWodmVSbB2w2ORAz+yQiV62sUctqxRD8kwIxswPvEtgb9+Oi2JZtD9/LAvxRVcmggzIKEDM7EhEsTbzQTtyLkQd0CceqyvrjADGzdyLy2a31V5UtgLAZQL7lXc2srEsXnjBKwPNMZWY7zlqwNC4QFDMzstULV3KxQQKynxlJXQKp+ExEfonIRfi/A4BVDBZyLiKHo8eIK4QVn/hOc+s3AMHniQ+U5PcojOCKsBfPSwBHy9SS5hhxEACAerLOomDVgJRu5panzQBUGCRe6Y2xsWPkS2HJ54VbRLDz+J5rdQApXYj2IwPChYkpjHXXwkwzIx4jZcAuAr7GiJkxlNG3EcC4GAIAYgUXmnky4dnrZP3xg93BhE9ze9IYIyVjAMAgXMTGM1d8bnlP07hdAD5TVQAPSjMj7tuxaSwa4y+f8b1sCG/oVp0RnkdwxzooHFkqCmSsHYWSuX0cIGZmNYv0PMfKO8n1ll1qPNcys66OF4VKfz711Eqdobidk+mY6AoguZ3H6lGXroqWBcZglveZQaotfbNrpcyDAszzUX2p1LgIG0YG6iqM+H0E/bG7Y9SUueVTB9A7EWZaVwVCGg7fZl7B8mSeMqhzGwP4OJHpcrkAwnulQXrn9BLM0kC8DY8mjgy0FwcCnnE6WTEzApYDPuQ9AZyAly0PRoqaNXh6EmCagAwE+70WOymHf+96xoMNhEw2d0mvHcEs9WTRRJoZ1R92AFKdOJcFUgZr50GAs4ISJIiZW562hmvpWbw1xTUBaV1sne9tBJCOYhsM5uI4L7BdBhsFiJnl86984J3H13zfSiZdd+dh+tBxEEFIYcozdb5vVWKM91YC8miOTKGQ6r1Jsvwhtuf5TTr/7XUrdK39P0L2oHnLE9zULC3aoL6Nq1nLUyPtxbpO5umKD2onKVUgYQEfjuhep/wzlOlwnD9Dp/ahVfdrZmTVDab63RbIVJZu3WfLSKulpnrvDyduvkKsZVMaAAAAAElFTkSuQmCC",
+    "iconColor": "#ffb9240a",
+    "contributorName": "fankes",
+    "isEnabled": true,
+    "isEnabledAll": true
   }
 ]
