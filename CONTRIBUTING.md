@@ -19,6 +19,8 @@
 - [进入 OS 适配目录](https://github.com/fankes/AndroidNotifyIconAdapt/blob/main/OS)
 - 使用灰度位图转 Base64 来得到 Base64 的位图数据字符串
 - [BitmapToBase64](https://github.com/fankes/BitmapToBase64)
+- 你也可以使用在线工具来完成，注意删除后方生成的 `data:image/png;base64,`
+- [Base64 图片在线转换](https://tool.chinaz.com/tools/imgtobase)
 - 新增条目的模板如下所示
 
 ```json
