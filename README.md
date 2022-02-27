@@ -7,7 +7,7 @@
 # 支持的系统
 
 - [MIUI](https://github.com/fankes/MIUINativeNotifyIcon)
-- [ColorOS](#) ComingSoon
+- [ColorOS](https://github.com/fankes/ColorOSNotifyIcon)
 
 # 开始贡献
 
