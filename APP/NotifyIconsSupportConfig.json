@@ -950,5 +950,13 @@
     "contributorName": "fankes",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "快连VPN", 
+    "packageName": "world.letsgo.booster.android.pro", 
+    "isEnabled": true, 
+    "isEnabledAll": false, 
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAQAAAD9CzEMAAABdElEQVRYw+2WK08DQRDHF1MFX6BpCW9ficEQENgawvENWgGivg6+CTlzyBpSR1tEa9tg8AgeRwIpj/wwe0vLPXpzdyRA7q92dybz29uZ21mlcuXK9S9FhSYXXPPEGze0OWEzu+BVhgRpiMVc2uBLXBKlHstpwm9xyyw9sJ08/NiEGWNjscY8BdbZx56wPbOT7HC+du+w6rMv4hj7HStygHf27zRCfY750F5dYbqpmt01Iv2OjJ8lA3iF6ZiVAnU6uLh0qFMw6+eIpaiY1Oqzp8hgymdA0eTiVQ5o6pFtdt/3efW9r+BMDmjr0YEOUQv0q2nrnhww0qMNHaKr5y1KlGh5lSOuTANw9WhBG7x5WSmlKOuZ+4sBP35EGSX5e+DMyzQckNGPFgrI6qqIAqS67MIAaa7r3uR1HQ8gaTj30/ZYAEHLfGE3pN6jATGb/qO/I89KuuTZchXUjQWAyIfXiMPgTiwEBD4dT6OejgkAuXLl+nP6BHO9RhFdjrGiAAAAAElFTkSuQmCC",
+    "contributorName": "daifiyum" 
   }
 ]
