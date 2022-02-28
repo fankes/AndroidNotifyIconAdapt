@@ -950,5 +950,14 @@
     "contributorName": "fankes",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "肯德基",
+    "packageName": "com.yek.android.kfc.activitys",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAC4jAAAuIwF4pT92AAADHklEQVRoge2ZTYhWVRjHf+98kG7KhFTEmoIxTJmxGWc3Bk2oE0HRzha6c+NKWrhyI2i0kaBEJBfiR2i0iClaRIhCQSQDbfoC+8BSDCcXCX4x0/hrcc9t7pw5531nIXSR+4fDO+9z/uf/3P95zj08w9tSeRjQ9X8/wINCY6RuaIzUDY2RuqExUjc0RuqGxkjd0BipGxojdcNDY6QHaAHl/7v7gHHgboUjcB94CngZuBrix4A+YLrCXQL0A0eAz4HDwO2Kfjv0AmeAU1F8CHgJGAn5loX4XeAm8CvwXk8wMxse9grwQibRR8CNyvcLIXGMSeBi4L64CANVTFT+3gXsBoY7rBkD/kbtCoMwzrsQ31XmUR9RT6j3K5yb6njEu5DQagfUZ9TJzPzv6tfqT1F8tJq0HDFJdV9lfq36czR/SX0y0ulWpxJab6rD6pC6Xh1Q96sn1UH1XmLN0bCmqr/euU0nNrHK+btcYmOY365OR3OfWVQo1tqQ0JlO8MrxRCL3rLqlzRrUdWorDm5NJL+m9qoHE3NvtUmwPcG/bLFZT6vPhrEm8M8m+Ds6mPhvxIHdmeQ/RLEZdVsH8f0JrWkXVvT9wI9xdbEmVHqiG6A/cSv0JWItYKbDbTKQiPUmYp9mcvzWQX8eYiPPJTjfUNzhVW438AXwGHAno/18RmsKWAo8CgwGnbEEN7WpeUQlupIo8ePqgURc9cNMqVe48MWdUXsSPNRXM/pvLPZoVb+sTgjNOHeV5rA5IbwlwfuxzYOsyGjfyehXR5c6r9falCjYDYr3YRbYmynqRCI2lIj91eZgTAGHEvGlwFfAceA1YC3F+7SZop16h7JfrDg7l9iRW+ryCueTzM6dc/6xOZ3gXHfh0YpHTj+Hj8u1qCMWJczh7SjZu224ZYtyLTP/pe2NoO5R/1icD18v17XUAWAnRRcpxbVadrTdwPfAt1HJ+4BRYCXFsesGlgOngUvAKxS3EhRXruHzNkXz2QldwNaQoz9otZjreP8EfgE+AP4BaGnzi1Wt0BipGxojdUNjpG5ojNQNjZG6oTFSNzRG6oZ/ATfKdCGDp3QcAAAAAElFTkSuQmCC",
+    "iconColor": "#ffff0024",
+    "contributorName": "scrpr",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
