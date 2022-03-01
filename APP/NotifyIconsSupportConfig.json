@@ -1029,5 +1029,14 @@
     "contributorName": "fankes",
     "isEnabled": true, 
     "isEnabledAll": true
+  },
+  {
+    "appName": "去哪儿旅行", 
+    "packageName": "com.Qunar", 
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMsSURBVGhD7Zi7axRhFMWziSG6Ymy0tAlooYhNGvGJ/4G1FoKktBLESrAWYiU2dhY2iqIiWAgRLC1sxYAWikpU8BVNjKvnfvNz2I+d2Xl9sxNhfjDMzrnnnnsn2WUfYy0tLS3/H71eb+pPDuQ7Qsv6hD3zsIGW9QlLZoK9Moqa1H93i85dpDAo9KbbNAPspdGcRaI8pK/o2IctDAqc1tFjhgeWwihuloihyLdESzgU+p78GGmbKOdGPQdoz4X8q7SGg+wYDXlOKTe0FkJz7tEeBgU+JjtG2k7Kmcj7k7bCqPcBMWEg10NDdlNORZ7X2EujjN86bSOyGgq7FcX6SH+DxUP6diyh6TCiPAQ1jv5Is6xUDgXsJatxWKk8uplnZDWK9vjOSuVRiL34God1qqGbSXzXHzEHWacahDWG/panWaU6CvtC7sjR7LDfixR4jOyRorn7WSEsCj7LjJGgeVcZXQ8aMKXjLvNSkeeljhM6pml16PorlkxoqQ8ts5lZacxgHUC9N/BkIu8h2upBA34xKxFsiaj3ODaHrpd16kZXg9AWHmWPRyMitIj3Bmo3iTUR1b1fc3R9mJLVPiP3s5VyWDTM+xiDtsqlLfbDGYeA1YEUo/5PlBy6vkMpHMrdGMVHINvweSQbfBs5FazmXUbykL6GxYEcDg2IXxt6vAPZgWz6FaRUsJp3DslDJe/pK8YpVUdDLxBqCywix1Cy2jxSKliN1AWVcw6PZe5Crg6ZDgV7/w2DktUuIqWCNfMpg80yHyJVR2GPyLXggZ9zKBnnkVIxkzISXx/9yOPeeHVeQwqDMrsKjX810eM9lGzoE7RLSInIMoPvOlIqsk2Y10AKi3JPRfFuoW867GOL+yym82Vsiah+0jXm/KEBbz03Yii7o6UGvoBJuoYlEdVfmY/LTP7N4LI+NOejDepjgVIieIrcyFIRfyU056kNMzR4BTkRbEVu5F0Rf2U08IUN1Dn1s5Zqc+YxkDJRz4ci/sq47QBpAC3lnu86vUXKxAUKLuuHeQ4kD8mdqOpu5AxyJrQ0cyNiAjlGy9+nZhxFHop8k5F9hDfS0tLSEoixsb+BcVQqe5feFgAAAABJRU5ErkJggg==",
+    "iconColor": "#ff19D2DC",
+    "contributorName": "PedroZ",
+    "isEnabled": true, 
+    "isEnabledAll": false
   }
 ]
