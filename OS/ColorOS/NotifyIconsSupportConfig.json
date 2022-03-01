@@ -82,5 +82,14 @@
     "contributorName": "fankes",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "OPPO 商城",
+    "packageName": "com.oppo.store",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAA3RJREFUaEPtmUmoVUcQhr9/qQgOQYWoQRJFEeImrkTkiZAoxBmjoDFIogsFR/QtNcsYHBLQhQPiBA5onCBRkIhIVnGjECIOiBOoOEHQZYWSey/Hw+l7+l7POT6er6G5i66uqq+7bnedLtFNmroJBz0gXW0nP7wdMbOvgU+BUcCYknfkH+A6cFvS2RhbUTtiZkeBuTEKS5A5JumbPL25IGZ2Dxiap6jk8fuShjWz0RTEzK4Cn5fsZKz6a5LGhoSDIGa2GVgTa6UiuS2S1mbZygQxs+nAqYqca9XMDEmn05NCIOuBn1q1UJF8p6RNsSC7gB8qcqxVM7slLYkF+RPoaNVCRfIXJU2qCuQ/4C/gUa273cG1Ph7o8w7QpYPcBH73Lsl/g83MpgL1PqJFqNJAbgHrJP3WokNvxM1sFvAz8Fnk/FJA3HmHcJi2m5k5hMM4VF4rHCSYA5lZX+CTWvdE09tt4K53SS+zvI3M6QoF2SSpM+2MmX0BLK31Ziu7E9gp6UqGDr+//B4LtcJAzkmakrRiZr2AbREAaeccaJWk1yl9fwBfBUgKA1ko6VDdiJkNAfYBk/OCOzB+AfhO0oOEzgXAwTJBnkn6KGGwP3ARCGalkXCeZXdIep7Q/RQYkDG/kB05KalxspjZPOBwpLN5YvMlHUmA+Ik4syyQbZJWJ4ztBr7P8zByfI+kRn5nZlv9/1MVyHZgWaSjeWI7JC1PLFKpIOnQ8geJM3keRo5PSz40mFmpofVE0qDEqvnFd6mgP/vE5EVpZo+BgWWFluudI+lEAuZjYC/wZeTKp8XOA4slPUzonA0cL/P4dd1XJI1LGinhQvwb8CwhqxVy/NYVH5C0KG2loBRlP/Btk90tFMTt/ChpY5ZBM+sHDE90F7tT75JeBOa5vg05IVo4iNvrFml8feG6xYdVMgrqn7q+9Y1TLRBCfir544Z/7naZT90sX18BlwOPDxOA3m0e1T6tlP/IO/jT9tSWQIrModr2ODDxrZysLhN6Ml0B/FK0BwXpWynp17SuEEiRyWBB/jfUvJVcNt0RH4x80SjayTx9wZebvEJPV6hW1eGaVq1iSm9doWrVtFrlpLkgtTB7n9WrYJUqGYdRIDUYr2KNBka2cRvnxX563LOEG8C/WdWpLGXRIK16UrV8D0jVK55nr2dH8lao6vH/AY+CkkJMsaz2AAAAAElFTkSuQmCC",
+    "iconColor": "#ff58d37d",
+    "contributorName": "fankes",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
