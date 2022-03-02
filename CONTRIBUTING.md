@@ -40,7 +40,7 @@
 
 ## 测试图标
 
-- [点击这里(正在开发)](#) 下载图标测试工具，并安装在 Android 设备上进行调试，建议使用 AVD 模拟器，Android 版本 11 及以上
+- [点击这里](https://github.com/fankes/AndroidNotifyIconAdapt/raw/main/tool/NotifyIconDebugger.apk) 下载通知图标调试工具并安装在 Android 设备上进行调试，建议使用 AVD 模拟器，Android 版本 11 及以上
 - 请确保通知图标能够正常展示，不会出现黑白块的情况，否则不予合并代码
 - 友情赞助：可尝试在 [完美图标补全计划](https://github.com/pzcn/Perfect-Icons-Completion-Project/tree/main/icons) 内找到已制作好的 APP 分层图标，在此基础上进行修改适配
 
