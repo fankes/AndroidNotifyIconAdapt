@@ -1,4 +1,4 @@
-# Android 通知图标规范适配
+# Android 通知图标规范适配计划
 
 ![Eclipse Marketplace](https://img.shields.io/badge/license-AGPL3.0-blue)
 
