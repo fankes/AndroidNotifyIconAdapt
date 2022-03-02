@@ -37,8 +37,12 @@
 
 - 图标大小建议保持在 50x50
 - 提交时请将后方的注释删除，否则不予合并代码
-- 注意：图标测试工具暂时还在计划开发，敬请期待，你可以暂时使用本地离线文件测试图标
-- 提示：可尝试在 [完美图标补全计划](https://github.com/pzcn/Perfect-Icons-Completion-Project/tree/main/icons) 内找到已制作好的 APP 分层图标，在此基础上进行修改适配。
+
+## 测试图标
+
+- [点击这里(正在开发)](#) 下载图标测试工具，并安装在 Android 设备上进行调试，建议使用 AVD 模拟器，Android 版本 11 及以上
+- 请确保通知图标能够正常展示，不会出现黑白块的情况，否则不予合并代码
+- 友情赞助：可尝试在 [完美图标补全计划](https://github.com/pzcn/Perfect-Icons-Completion-Project/tree/main/icons) 内找到已制作好的 APP 分层图标，在此基础上进行修改适配
 
 ## 同步列表地址
 
