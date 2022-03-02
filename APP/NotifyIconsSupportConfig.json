@@ -1109,5 +1109,13 @@
     "contributorName": "PedroZ",
     "isEnabled": true, 
     "isEnabledAll": false
+  },
+  {
+    "appName": "一淘", 
+    "packageName": "com.taobao.etao", 
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAtZJREFUaEPtmruvDVEUh7/f3yBCQqGSEA0Kj8YVCleikHAJGpUgKDw64WppkKCUkEguUWgoiEPhqkRzCxURlUdPY8k62XMztjlzzpzHzJxxJjnFPM7a69u/tdZe8xAN2dQQDpoPYmYbgMPACmBZxcr9AD4D9yW9y/IlUxEz2wU8rdj5TsNPS3oWn/wHxMxOA9drCpG4dUbSjbSPf4GY2Q7gec0hEvd2SnqR7MQgV4FzYwJyS9LJTiD3gCNjAjIvaWsnkJfA1JiAIGkxouLQmoBUoeJEkSpmPW/MiSJDVKSVstV3laxCkbuh8ZwOANsltczMIbxS9rWVDXJTkvdvmNkbYAuQBimiyFpg/+IiWPI6clSSK+Igc8GRNkhRGWIFy1bEbwdOAOuA28BKwCFmi4BkhWLZIFn+Fk32zJwqG8TVOAWsSREVTfZagCwHfoVm9FA6R0LMd4swr2oDgRROxsgjr0YLkjw32puZrQI+Arsldb2VNrPVwIdBQfqqLMHhzcB88N+TuhWSdS/wOByfAb6lSml74jJUGliRxbLZTfv4vJktBb5Gxx3gN7Avw96spMsBxDLODxRabq9QiYwcuJQzAXHYvkqBxCu9h+jAIEXF6HT9jKSHZrYHeOITlDieN4CZbQLe1gXkkaR2W2FmV4CLvYKkQq0WilyQ5E9nHMQrlT/8i7eR58gwQmubpNcB5DuwJLQoiW3PgSyQJI9qkSOffEWX9NPM/Bnyl+B9OlS8KMTJPpW0H2bmVazy0JqTdCCokSS67+auUe583UDOS7oWQHydSEpybtWqI0hel5vXAnlepHMk007Z3e8wCkamjQnIyKa2T8MTRfqcuJH97b9Q5AFwcGRTOFzD7yWtT0zG70d88To73PFGZu2OpOOdQJrxMjS0EuP/ejqRqREfDKRg/BOOY8DG8BtZsPdgeCHc8vor6d4/4ejBcO0uaf7XQbWb8i4O/QGyW8RC4+JPegAAAABJRU5ErkJggg==",
+    "contributorName": "fankes",
+    "isEnabled": true, 
+    "isEnabledAll": false
   }
 ]
