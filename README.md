@@ -2,7 +2,7 @@
 
 ![Eclipse Marketplace](https://img.shields.io/badge/license-AGPL3.0-blue)
 
-为国内 Android 不规范的 APP 和厂商适配原生通知图标与规范图标修复。
+这是一个在线规则平台，为国内 Android 不规范的 APP 和厂商适配原生通知图标与规范图标修复。
 
 # 已支持的 OS 模块
 
