@@ -174,5 +174,14 @@
     "contributorName": "PedroZ、sddpljx",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "MIUI+",
+    "packageName": "com.xiaomi.mirror",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAQlBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////8IX9KGAAAAFXRSTlMAECAwQFBfYG9wf4CPkJ+gr7/P3+8OgMMtAAAA7UlEQVRIx+2V0RKEIAhF1VytzEyN///V1VzTZnRiX5vuUwkniIAIefVIUT5+WM84WgAnaHXC9Q5BS9vfwiE/nO6/kw4xZSvMxz3boIg2AFfMa8zaVP7AG0Bt95FQfwApLebPB5BbALY6iEAA4KMXMyGK5WRAAAE5MmexQhsKCOVKL0sXQAIhipIyfm40kPUCGdi15KPDAzo1/WCQwHpeMYcCBkJn752IXSo9Asjt749RMAjAXLp0uge689YB2KVJQ8VolZZrRdiL3aY5KGugOaPqMpx1HcC0V59O0cd6a0kLuxW95crVqvj7A3qmvp+ANiDRLP9mAAAAAElFTkSuQmCC",
+    "iconColor": "#ff0066af",
+    "contributorName": "PedroZ",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
