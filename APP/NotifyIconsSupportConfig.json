@@ -1117,5 +1117,14 @@
     "contributorName": "fankes",
     "isEnabled": true, 
     "isEnabledAll": false
+  },
+  {
+    "appName": "喜马拉雅", 
+    "packageName": "com.ximalaya.ting.android", 
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAiFJREFUaEPtmbFrFUEQxn8f1qYQxFSi6H9gZaHExlKwU6zsrESL2CZpYxcLK8FCME2qFGJl0MLG1k5Q7MQu/8AXVu7CvZe923u5u+fl2IXj8bhhZr75ZnZnbsVEliaCgwxkbExmRjIjA0WgVWrZvglsA5eLZyB3ZtT+BsLzQtLXlMEkENubwEZK0cDvtyQFP2pXIxDbD4D3AzvZVv1DSbt1wikgn4FbbS0NLPdF0u3TAvkJXBnYwbbqf0m6elogbmtlGXKSajMolVp1QD4ATyX9mAdge63YHMJvuZLFWtVj+x3waF5330D+SFptYsD2DeBbIXMg6U5bxopA7AEXhgbyL7q2LwJvgPMVgyGPH4f/tj8BgZVSPjj2dk4+hq/K5Mz7vhkpHQsGg7NRYxEgUfm2TAW5DMR2rNgzI7FUPKuptUjPdqLoR1Eji0S+slGMdteqxSPpwPY14CVwPyY4CkYS40DjBlKCykB63n6bBrTMyHHaJZq/Pg/EzEgu9jICudjj80iukaFrpDohHjd45ekbGaxGx8iJmb2Ys8O0uC/pnu0w/h4WkSwPu9EBCf7NfEWxHeb0Z8A6cA7YAa7PAfkI3K05t0qwr4EndWdb373WIh15kN0CvgOvgEt1QIAV4HmT8v8N5C8Q6qnz6gJkMp9MJ/MRexrXCiGpJ3HRU+m5zv7VW+etZkkKkneIS/Kjs5kMpHMIe1aQGek5oJ3VTYaRIzZBIlEam9F5AAAAAElFTkSuQmCC",
+    "iconColor": "#ffda471e",
+    "contributorName": "fankes",
+    "isEnabled": true, 
+    "isEnabledAll": false
   }
 ]
