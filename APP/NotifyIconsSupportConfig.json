@@ -1101,5 +1101,13 @@
     "contributorName": "PedroZ",
     "isEnabled": true, 
     "isEnabledAll": false
+  },
+  {
+    "appName": "时光相册", 
+    "packageName": "tc.everphoto", 
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAB8lBMVEUAAAAAAP8A///l///+/v7////+/v7////////////////////////+/v7+/v7////+/v7////+/v7+/v7////////+/v7+/v7+/v7+/v7+/vn+/v7+/v7////+/v7/+/v++/v+/v78/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7////+/v7+/v7+/vz+/vz+/vz+/Pz8/Pz6/Pz6/Pz6/Pz6/Pz8/Pz8/vz+/v7+/vz+/vz///z///r//Pr+/Pz8/v78/v78///8/v78/Pz+/Pn+/Pn///n8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/P78/v75/vz5/vz+/v7+/v7+/v7+/v78/Pz+/v7+/f3+/v7+/v7//f3+/f39/f39/f3+/v7+/v7+/v79/f3+/v7+/v7+/v79/f39/f/+/v7+/v7+/v7+/f3+/f39/f39/f3+/f3+/v79/f39/f3+/f3+/f3+/v7+/v79/f39/f39/f39/f39/f3+/v7+/v7+/v7+/v79/f39/f3+/v7+/v7+/v7////+/f39/f39/v7+/v7+/f39/f3+/v7+/f3+/v79/f39/f3+/v79/f3+/v7+/v79/f3+/v7+/v7+/v79/f39/f39/f7+/v7+/v7+/v7+/v79/f39/f3+/vb19f7//+X/AAD///9vQKYqAAAApXRSTlMAAQEKCQgHBQQDAgEMDQ4RExgaHCAoKSotLjE4OTw+QEJDVlhZWltcXV5gYWJiY2RlZmdoaWtsa2loZ2ZmZmhoZ2ZlY2NhYF9eXFpZWFpZZGVvcXJ0eH+DhYaIiYqLi4yNjY+QioiIlpqeqKytrq6vsLGxsrK0tLO1tre3uLm6uru8vb7AwcHFxc7Y293e4OHi5+ns7vL4+fn7+/v8/f7+/R0bCgHZfYBhAAACYklEQVR42qXTU4PkQBTF8dNGdta2e9a2bWFse23bNlLj8z23mUluKr36vf8fzq0E/2dVD3/nWhA24+Bf97vmbhCTMORxDYxtzOtJFIsewhIn64AdzOMZkFCPYJlCshI4Rk/3okiYtCVzmdSU5wY3gig0aU/KmFIJw+MG94NYqOhI3jOtDsZqr+WKjmTkN6Z43eBJajmdyXjmVGqau+nlIjlNSxOwske++QKTMmnnkEZxg7tBLFaUifGSNnXw227wLLNcJsMUnQ2Oy+UymUmnRusGDyKpF9QkJRSagNU9meWJXuqSW5Qa4V/Tw7vpN9cmr+lSB2P7k6hVyCRE6pqkQkV9sos6B4C+HnokVdQ4HwKwpccjOUO3CyEUNgJbu/WJosv1CPaZrPMZS7XJBLrcBA6pzA0265L5lK7GMMfMfQd7NUk5hXMhzPvKjGZgWY8reS6Ks2HM+277DgY3KJFE5PLMP2ipM7BJJFN1y+1qgCXOZL9cPt+U32iqsScVYnnqVkITsKHHlnzkkK7kckW3RgMbe6xkxBda7sVw0KROnTG43EomOpbP7iU9GuzJJUXM6YqJHfIGu7PJRdsLykLeYJNKJcYrZlwOI6EoyBtseAigoDu7IyoK7R5jMoAZTLsEHBLLNWqQUsqUK1GxQ+dF9c7hSLqdfvMwDucrfn5uWzs9gKy3JK+GkPhOD29vF0/ph81AannMY/mHRw1HCmIQVpDXgTnu4k7riTHQqtEsf1O7fhq8dXSGcNQqfnxuPTW9APl1hXFQMan73dPiWaPxB6KYZ/LTo/pdYmY+o1pOjsXf+AU5ljML5ltREwAAAABJRU5ErkJggg==",
+    "contributorName": "PedroZ",
+    "isEnabled": true, 
+    "isEnabledAll": false
   }
 ]
