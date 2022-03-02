@@ -4,15 +4,15 @@
 
 为国内 Android 不规范的 APP 和厂商适配原生通知图标与规范图标修复。
 
-# 支持的系统
+# 已支持的 OS 模块
 
-- [MIUI](https://github.com/fankes/MIUINativeNotifyIcon)
-- [ColorOS](https://github.com/fankes/ColorOSNotifyIcon)
+- MIUI 系统 请参阅 [MIUI 原生通知图标](https://github.com/fankes/MIUINativeNotifyIcon)
+- ColorOS、RealmeUI、OxygenOS 系统 请参阅 [ColorOS 通知图标增强](https://github.com/fankes/ColorOSNotifyIcon)
 
 # 开始贡献
 
-由于国内厂商 APP 的不规范彩色图标影响整体图标的美观，现在开放第三方 APP 以及定制 OS 的通知图标适配。<br/>
-欢迎为通知图标优化名单贡献宝贵资源！<br/>
+由于国内厂商 APP 的不规范彩色通知图标影响整体图标的美观，现在开放第三方 APP 以及定制 OS 的通知图标适配。<br/>
+这是一个公开在线规则平台，欢迎为通知图标优化名单贡献宝贵资源！<br/>
 
 - [CONTRIBUTING](https://github.com/fankes/AndroidNotifyIconAdapt/blob/main/CONTRIBUTING.md)
 
