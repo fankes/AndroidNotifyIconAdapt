@@ -35,14 +35,16 @@
 }
 ```
 
-- 图标大小建议保持在 50x50
+- 图标大小建议保持在 50x50，最高不得超过 72x72
 - 提交前建议优化图标文件体积，Windows 平台可以使用 [pinga](https://css-ig.net/pinga)
+- 图标必须可被调试工具识别为灰度图标并检查通过，否则不予合并代码，详情请见下方
 - 提交时请将后方的注释删除，否则不予合并代码
 
 ## 测试图标
 
-- [点击这里](https://github.com/fankes/AndroidNotifyIconAdapt/raw/main/tool/NotifyIconDebugger.apk) 下载通知图标调试工具并安装在 Android 设备上进行调试，建议使用 AVD 模拟器，Android 版本 11 及以上
-- 请确保通知图标能够正常展示，不会出现黑白块的情况，否则不予合并代码
+- [点击这里下载](https://github.com/fankes/AndroidNotifyIconAdapt/raw/main/tool/NotifyIconDebugging_1.1.apk) <strong>通知图标调试工具 v1.1</strong> 并安装在 Android 设备上进行调试，建议使用 AVD 模拟器，Android 版本 11 及以上
+- 请确保通知图标能够正常展示，不会出现黑白块的情况，否则不予合并代码，示例如下<br/><br/>
+  <img height="40" alt="image" src="https://user-images.githubusercontent.com/37344460/156614741-8a955d55-f406-4e04-9d47-550376782d3d.png"><br/>
 - 友情赞助：可尝试在 [完美图标补全计划](https://github.com/pzcn/Perfect-Icons-Completion-Project/tree/main/icons) 内找到已制作好的 APP 分层图标，在此基础上进行修改适配
 
 ## 同步列表地址
