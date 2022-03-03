@@ -1,4 +1,4 @@
-name: Validate IconRules Json File
+name: Validate NotifyIconsRule Json File
 
 on: [pull_request]
 
