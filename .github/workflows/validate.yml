@@ -1,4 +1,4 @@
-name: Validate JSONs
+name: Validate IconRules Json File
 
 on: [pull_request]
 
