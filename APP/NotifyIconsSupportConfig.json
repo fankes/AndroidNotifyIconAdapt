@@ -1197,7 +1197,7 @@
     "iconColor": "#ff444444",
     "contributorName": "fankes、xl0911xx",
     "isEnabled": true,
-    "isEnabledAll": false
+    "isEnabledAll": true
   },
   {
     "appName": "MT管理器（Beta）",
@@ -1206,6 +1206,6 @@
     "iconColor": "#ff444444",
     "contributorName": "PedroZ",
     "isEnabled": true,
-    "isEnabledAll": false
+    "isEnabledAll": true
   }
 ]
