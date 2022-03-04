@@ -2,8 +2,6 @@ name: Validate NotifyIconsRule Json File
 
 on:
   push:
-    paths:
-      - '**.json'
   pull_request:
 
 jobs:
