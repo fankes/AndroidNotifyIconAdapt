@@ -1,14 +1,17 @@
 name: Validate NotifyIconsRule Json File
 
-on: [pull_request]
+on:
+  push:
+    paths:
+      - '**.json'
+  pull_request:
 
 jobs:
-  verify-json-validation:
+  test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - name: Validate JSON
-        uses: docker://orrosenblatt/validate-json-action:latest
-        env:
-          INPUT_SCHEMA: /path/to/schema.json
-          INPUT_JSONS: /path/to/file.json,/path/to/another/file.json
+      - uses: actions/checkout@v2
+      - name: json-syntax-check
+        uses: limitusus/json-syntax-check@v1
+        with:
+          pattern: "\\.json$"
