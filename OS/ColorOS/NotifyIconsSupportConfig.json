@@ -147,8 +147,17 @@
     "isEnabledAll": false
   },
   {
-    "appName": "屏幕录制",
+    "appName": "屏幕录制·OnePlus",
     "packageName": "com.oplus.screenrecorder",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAjpJREFUaEPtmb2LFEEQxX8PDAQzQXNRwUAwOdHAQBNBMBE0ED9B0MiPQAVNvIvESFATRRAEEyNBA6PzwOhA/APEwFjBf+FJLz3H3u3eTO/stMwN3bDRVL3qV6+7dqpGDGRpIDwoRPqmZFGkKJIpA+VoZUpsa9hhKmJ7AbgC7AO2t05PuuNf4BfwRdKndLdJyzVFbD8CFucBm9N3SVLr+CMitk8DH+fcSBfuhyV9awNUEXkNXGsD0LHPC0k3mzBt7wDuAseBoORKReQ3sKsJ4D88/yzpVF0c2xeAe8ChaPdB0pmKiDdxfgo8lvTH9lXgTWYyK5JOTIth+0hU4eyG5yOfOiKrko6OO9l+CVzPSGaCiO2dUYFwlLZNid1IZKKK2A5VJVS3XGsdEduXgQfAgZqAjUReSbqxQZH3wLlcLIA1IrbfApcSYjUSCRi3JD23Hf4gnwG1FzEhaJPJaFO2jwFfm4zj8yQiiVidmVVEZjnChUhn6d+sAs1YVIoiRZGEDJTL3vSulZDETk2KIn1VZD/wI1Hr/pbfQMD2feBJApl+E4lkzgMPgYPzvP0mJKNzk2n9SGhrb8ff7jb9SOe7TACs6xD3jBEah+r/0ZpGPLa8QaFw7MJ6J+nilhs+VORsnwT2At8lrW7JcdA0pYY1oIulbpauLOHezmyyKGlpZq/osG4aH4fYd2JvHsYwuddPYDmMazsbYufecW78YX4fyZ21nPhFkZzZbYNdFGmTtZw+RZGc2W2DPRhF/gED9CdC1bas6QAAAABJRU5ErkJggg==",
+    "iconColor": "#ffdb762f",
+    "contributorName": "fankes",
+    "isEnabled": true,
+    "isEnabledAll": false
+  },
+  {
+    "appName": "屏幕录制·ColorOS",
+    "packageName": "com.coloros.screenrecorder",
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAjpJREFUaEPtmb2LFEEQxX8PDAQzQXNRwUAwOdHAQBNBMBE0ED9B0MiPQAVNvIvESFATRRAEEyNBA6PzwOhA/APEwFjBf+FJLz3H3u3eTO/stMwN3bDRVL3qV6+7dqpGDGRpIDwoRPqmZFGkKJIpA+VoZUpsa9hhKmJ7AbgC7AO2t05PuuNf4BfwRdKndLdJyzVFbD8CFucBm9N3SVLr+CMitk8DH+fcSBfuhyV9awNUEXkNXGsD0LHPC0k3mzBt7wDuAseBoORKReQ3sKsJ4D88/yzpVF0c2xeAe8ChaPdB0pmKiDdxfgo8lvTH9lXgTWYyK5JOTIth+0hU4eyG5yOfOiKrko6OO9l+CVzPSGaCiO2dUYFwlLZNid1IZKKK2A5VJVS3XGsdEduXgQfAgZqAjUReSbqxQZH3wLlcLIA1IrbfApcSYjUSCRi3JD23Hf4gnwG1FzEhaJPJaFO2jwFfm4zj8yQiiVidmVVEZjnChUhn6d+sAs1YVIoiRZGEDJTL3vSulZDETk2KIn1VZD/wI1Hr/pbfQMD2feBJApl+E4lkzgMPgYPzvP0mJKNzk2n9SGhrb8ff7jb9SOe7TACs6xD3jBEah+r/0ZpGPLa8QaFw7MJ6J+nilhs+VORsnwT2At8lrW7JcdA0pYY1oIulbpauLOHezmyyKGlpZq/osG4aH4fYd2JvHsYwuddPYDmMazsbYufecW78YX4fyZ21nPhFkZzZbYNdFGmTtZw+RZGc2W2DPRhF/gED9CdC1bas6QAAAABJRU5ErkJggg==",
     "iconColor": "#ffdb762f",
     "contributorName": "fankes",
