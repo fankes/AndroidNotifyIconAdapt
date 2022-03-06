@@ -1287,5 +1287,14 @@
     "contributorName": "HeMing505",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "每日法语听力",
+    "packageName": "com.eusoft.ting.fr",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAACyElEQVRoge2ZvWsUQRjGfyenhqAS0kRERAVNqoCIWgnBVCEIgkGxEWxEEIOIhSApYqGFiOQvSCxEUbtE0cLSIgHFj8aPQIxisAghSpT4+Vjs6W3W3b25d2fjGe4Hwx3vvc/M++zu7O3MFiSxFFj2rwvwRd1IrVGMiQ0AB4ELpe9ZWQecAT4Cc8BzYAyY8tD3Hwoxkz0cKHgYYycwGol9B8aBp8AgcDfzKJKi7bKk95JOxPxmae2qzANJHVnGiTsjACuAr5mPUkA78MQxdxQ4SnCmqiJpsvsyUS27CEz3VitcjLtWg0EzAAxVI0i6tHyyHjgHrARagDXADkftCLDXKdPThK62tUnqlzTrcCO46tLnYhXekBBvltQr6UMFM/2Vxsjr0uoG9gGbSq0ZeAjMAsPATeBzKL+lFE+75LYCrxJ/9XzUL0l6XeHoStK0pCFJrZE+rqVoJtLG92WiU9Kkg4E4jkT6epeSezJPI8eNBsLcDvW3IcXMVF5Guj2Y+M3pUL97UvI68jAy79GItHDOPErIGYmrJcs/+1mCPzmf3ACWl75fTMjpApqiQevttxH4ZBE6sIXgEX8VMEPZWJhDwPVwwHpGDhh1LnSVPueAWwk5rdGA1chuo86FU5QXdG8TcpqiAauRuCWyLzZSrutlQs7aaMBa0HajLo4xoIfyEvtHqQFMJ2i+RAN5Hlkf3AfaKBuDoOaZaKL1rnUFOGwqzY0iC4uviHWOzBt1LowDP6sVWY24biZYGGThlpQTViMjRl1ufVuNvAHOG7VpTADPLMKsK8R5/D5vbQMeW4RZt4P2Z9SH6cNoAvCysOrz8Ph+L2sdvpa6PQr2iy0c81GDLyNIalSwoTDjUPw3ScP6e/PB3PLYDloNdBJsCW0mmMBF4AUwCdwheI2Q+/uR/5Il8+qtbqTWqBupNepGao26kVqjbqTWWDJGfgH1kY3Q4hlCoAAAAABJRU5ErkJggg==",
+    "iconColor": "#ff004ff6",
+    "contributorName": "HeMing505, scrpr",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
