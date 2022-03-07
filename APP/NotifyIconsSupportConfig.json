@@ -1313,5 +1313,14 @@
     "contributorName": "TOBY",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "HMS Core",
+    "packageName": "com.huawei.hwid",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAACClBMVEUAAACZmZmdnZ2lpaWpqampqam5ubm/v7/CwsLLy8va2trj4+Pi4uLn5+fz8/P19fX19fX4+Pj9/f3////////////////+/v7+/v7////9/f3+/v7+/v7+/v7+/v7+/v7+/v78/Pz6+vr5+fn////////////8/Pz+/v7////////////////////////////////8/Pz7+/v////////////////////////9/f38/Pz8/Pz9/f39/f39/f3+/v7+/v7////////////+/v7+/v7+/v7////////+/v7+/v7+/v7////////+/v7////////////////////////////////////+/v78/Pz6+vr4+Pj29vb4+Pj////////////////////////////////9/f3////+/v7////////////////////////////////+/v7////////////////////////////////////////////////6+vr8/Pz39/f8/Pzv7+/r6+vf39/f39/h4eHl5eXm5ubg4ODh4eHm5ubj4+Pc3NzW1tbb29vo6Ojr6+vr6+vt7e3x8fH6+vr8/Pz8/Pz9/f34+Pj////////////7+/v4+Pj29vbt7e3o6Oj8/Pz////////////////////////+/v6pqanR0dHt7e3////qZuP+AAAArXRSTlMABhgaDQgeGiEVL0BHPS4nIBYXFhgaHB4hJikrLS4vMTM5OC87REVSVlZVVFhaXF1eYV9maGprbXJycXV2eHp6e3t8gIKDhIWGiImMjY6QkZKTlJWWl5iZmJqZnp6mpqisrbGzvcHCxsjL0Nve4OLj5Ojp6u3v8fP09fb3+vz67Ofbw8uvpJ+foIR4bmpmYU5ZcH6AgoODhI2TnJ2faU5AHxEICwwNDxMFATSe9zfVvw0AAAIsSURBVHja7dQDc11BGMbxp02t2KoR27Zt27Zq24hq6f2OfWez55y7tcb7Gz27M/nnGpqmaZqmfdeBtLS0fZAOpqWnHRLLMS4u7jBsxOfmpL2B5BSRkpYqZRyD0EJEZZBa+VAuViivNlheEdsvD0/myMYwhCqeuZCq+ZAnVhCv4ocfIcWU9vOFP4QeUvRBqOCZDanSPJzgldS7aAfhOK118YWfONSTavSXoZQ6GrXb6FBmN1/4gjkQm2ksr5FW1n8dWiEa3QwE8M4xQ4k8zmyDwghlQSpVQukdRDSyZS+xii4jVMfjHr4fivs2FMDr+k1iY6eIRfQaoWIeLT8IDTyODw4Ijs9vmTJDgbwe4BNJ4Rg3QgHErj1/5+zs7OLyQQ1ZlFApcImEBLyfMkJbTxM7OT07Ozs/P9S8+4ehHDNUBOAysXjg7aQRwm1S3P9OaH7GeERmCFeIEgG84RD5QFgnxV0rVOJxJDA44Ki/Y7l4C5UQLhRDCbFdTWcXlhYXF+eWRGk7wMp4JUMqUUKFMKkh5urm6urq5H7rM1+nm6FHkCp/O2S4any5fzf0euL7oTt83fkfQpvO83XDt6GKn4WMt/9pdaVUtjxIbM8fh7zFbCfVOeuHLR9SrfLDVgLLmym+8JJ/oRjZCWHV9l+v8aHA/PbXqT+1RqiNbF18gQ320ZFRO2AdIh3EehsQHOYJy4djsTEhL8V8lp6akpqakpKSmpZ6wxOapmmapv3IF1Uet0+pE0t8AAAAAElFTkSuQmCC",
+    "iconColor": "#ffde5552",
+    "contributorName": "PedroZ",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
