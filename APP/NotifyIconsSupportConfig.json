@@ -1394,5 +1394,13 @@
     "contributorName": "SRainerc",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+    "appName": "百度网盘三星版",
+    "packageName": "com.baidu.netdisk.samsung",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAOXSURBVGiB7ZlNqFVVGIafJSH9GRGEDTKixMDIMq2BJWhhP1ISxY0gHAVZYWDQjXCig0YNLlGjaJKQE6MMGwRWKCL9wS26qHDph8TA8mJBFwu91NNgnxPH01lrr73vyltxXtiTtdb3vt+7z1nf/vbaMMQQQ6QQShOq84F1wCpgIXBFZ+oH4EfgAPBxCOGX0tpFoC5SX1FPWo/T6m71prnO+yyom9WjGQb68bO6Za7zB0Dd3sJAP176P5jo4o25MvFAQRNdbG+bT6uqpV4K7ANSm/UUcASYAGaAZZ3r4hr6tSGE/W3yagx1tObO7lCvGhC3WN1TE7vrnJjoJPRZIpFtGfEP1phZei5MrEskcKABz6YET+u9kg2rZ8YgTKvXNeTaG+F6u2le85oGADdExidCCJMNuQ5Hxpc15GllZElkfKIF13hk/NqmRG2MxPBHi5jfS4mXNNKm0hRrGs9LTaqLgI3AeuCynmsQrm+hHy0O6hRwEjgBvAnsaNz6qxeoY1btdhO81kDj3obc36rb1AtzBe5QP2oo0osNmTpt8bn6SB35yCwEerEpofFCIY3He3lDj8AIULLPeZ/qOTFO1TTeCKwA7iqo8VeDGQDUq4FPqN6x/0v4Arg9hPBrt/w+TdrEfuB54H5gLfAQ8HrhpH4Cdnb4FwPnA6uBMeBMJGY5MAqAerN6JvFffCKmbNVAHirwfz9kouNV71GPRWJPqctRn0kIPFd3G9Wltjt4yDLRo7MiwbEV4y86B+vIe0RiHXEREz06r0Z4PkjV86znQUdggfrbP2mio7M6RpbqtbLbgRDCNFXVy8Vh4OEQwpEGMQDHYhMlm8ZctDVBCOG72FxJI387bBiA1iYA1DWxuXnAu5G59Q0EbgOuqVk2KxMdrIyMf5gqv9Pqqhx29Z3SG3uAxiXqVIR/a119rk1A3dXGhLpGnVTfU59UF9ToHExorOwuitXnbiKj6pI+4g015CkTjw5Y+6l6Z9+6K9VnazR29gakfpVe7Otc32esjf6a6luJuONW7xyTmTnd3U++JTMwB3W901eFdAYf5FnmM0HOvtpYQCd9GqneNwvyvXUmenRebqlxXH0sRwP1VqvNl4uj6uYs8rN1RtRvGujstk0ZtyqRY+qXEeI9VhUodkSUo3G5+pRVEenHaXVcfVG9JcWT/aFHvYjqEG4GmAJOhBBm2hqIaMynelNdSPWh6OvSGkMMMcQQ/w78CeKTxkSm6OrCAAAAAElFTkSuQmCC",
+    "iconColor": "#ff58c6ff",
+    "contributorName": "fankes、TOBY",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
