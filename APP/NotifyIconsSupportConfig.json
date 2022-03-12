@@ -1439,5 +1439,14 @@
     "contributorName": "PedroZ",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "三方应用异常分析",
+    "packageName": "com.miui.thirdappassistant",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAADdUlEQVRoge2Zy0tVURTGf0aSaaVpiZNKIgp6G6VIkFmBBQ3KIrNBWDhv1rSof6Bhg6BB0cOwWUSBvTSiKEmsKBEiqKjUur3F0NVgX+Ok+zz2Pvvce4k+ONzLPftba3/nrrP2WnvniQj/AqZkewKukGkheUkZzrSQxOL4nwmtqTG4hcAKYCWQD4wCL4CHwLf4UzODqZACYDuwE9gClGvGDAD3gB7gFnAjxvyiQ0RMrgNijtMiUmrox/gyfUe6UOFjghbgCVBryDNCnsWCOAcVMssMeSPARlTYOYeNEFBibgLLDXnDwCLgjY3TINim30GgHug15BUA7ZY+A+EnJB+VmYoDuIOoUHll6LMGaDLkhMMnCxxMZ5yuCBmjySKTdWcqazWnP9cDVwkOwQcWz68KWGvB84VuguWokBnHVuA6Ktx0KLL0vc2Sp4VOSBWTV/zNwDUfG62WvmsseVrohPgtXPWo9WMDUAYsBI4Ahyx9V1rytNDVWkHvQx1wG/iJSqVx+otZMbiToBMyLQJvugPfww5s/IHu6T926SAAAy6N6YQkUgtp8MilMZ2Qt8Azl058cMmlMZ2QEeCCSyc+2O/SmF/1W4qqoWa4dKbBeWCfC0N+qfYjcMKFgxA0A+dcGArqR/JRa0ainV0aF4G9cQyENVZFQCeqbEkal4FdtuSwxuo7qs6yqXBN0Qi02ZKjtrqFQDewxNaRAdqwaLyitro/UP3DMeCdqRND7EGFmRFsNh9KgB1AA2rzYT7qXUoBQ6itn7uop1ptatwDowRgu4viRSlqvfmcvsYxE7gDrI5hO3KYuRAShBLUv7M0ho12YHfYoKjviG3fkUK1zf2WfFApOXTRTFoIqHK9GrNC9D3Qh2rgQFUAwfVf0pvLnqtMRJ6HbBN9FZEWESlOcypF5Izn/lE/+5kUgohUiEi/j4gxEWn04V1Jj/klIqtyQQgiMltEnmqEvAzg1HrGHdaNycbR2yfUJkbfhN+HAjgfPN8rdAOydYY4iNpW8p61aCeYxjzP9y/aEVkILe9VLCK9nrBp9RnX6RlTpxuTbSHI39lsTESOi8gaEVksIg0i0uERcdbPTtIre1TMRR2aBh0c9aAW15TuZq6cs48vmieBsQn3RoFTqL3ilJ+BXPlHvFgHbAIWAK+BDuB+GCkXhVghV0IrNv4LyTX8BrGy6vUd0ChZAAAAAElFTkSuQmCC",
+    "iconColor": "#ff68e68c",
+    "contributorName": "HeMing505",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
