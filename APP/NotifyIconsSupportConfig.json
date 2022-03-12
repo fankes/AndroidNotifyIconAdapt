@@ -1433,7 +1433,7 @@
    },
    {
     "appName": "优酷",
-    "packageName": "com.oplus.battery",
+    "packageName": "com.youku.phone",
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAABQVBMVEUAAAD5+fn+/v79/f3////7+/v6+vr8/Pz+/v7////+/v76+vr7+/v9/f3+/v7////9/f39/f35+fn29vb9/f39/f38/Pz6+vr7+/v+/v79/f3////8/Pz////////////+/v7////+/v7+/v7+/v7+/v7+/v7+/v7////////////////+/v79/f3////////+/v7////////////////////////////////////////////////////////////////+/v7+/v79/f3+/v78/Pz6+vr6+vr+/v79/f3+/v7////+/v79/f39/f39/f3+/v7+/v7+/v7+/v7+/v7////+/v79/f39/f38/Pz9/f39/f3+/v7////////////////8/Pz5+fn4+Pj7+/v29vb4+Pj09PT9/f3+/v7////Q7eNdAAAAaHRSTlMAIBoXDwwPBgMiKC0zNzo8QkZES05SV2BkZGhqcXN6foKLkJWZm56ipairrbC0tba6u72+v8DBwsPFxsfIycrLzMzO0NTW08vb4OPh5ujq7fDx9Pb3+Pr5+Pb9/v7+/fz75bmUi4qCcaR/BogAAAJ5SURBVHja7dPToltREADQuYht28LZsdBe27Y0//9eO9k4Sd/a9QEjwD/F9ZSTMk8GmNr98t32+vKDGqaiW73Ary43nTC5d5f4i41ZmNA2/u68ABPZxRGHjyBfE8e5s4FM5lccb1nmqFaR5rIIMqiukO7kGYQ9INOW6KhUa8jRVoKIl3PkuU2BgKdX5LsNAZfzBEXc6YBnEcUsKICtgIJuYsCkQ2FnfmDZQXEbOqBzoQyvCaBbQjk2gO4W5dgEKscRyjH4a929AJ3/AMXdKoChcInCcsAy8x5FHSuAybOLgtzA8XiCQlaVwLNyhQJO7cClWUO+8xcQ4OWP6sYHQkJvyHbrARFax/tjzv5dwDcXqvUK0eHttK15Cv0GIbVEevVtmmGb08Mm+awiJXM7SHNq5QwnWutWyDf1TLJ8hOO1gEURrAyr5KcKKUUXznEcMzA4s92WRP6QjW1e4Yh9oDMlOx0ySqrFc6P3+QA0s+FaryqRcWqFyPtT/M020FjLvRqhqqcTi9f4CxtQWBo9wlIlyewd/vAMFOZGUyJsFZLI7+FXj0ChyvYkwlXNJQvniPj6DDTeXoWIqGeTd7jvoP9ooUWESK1myg50RsE41X49OAt086E2EdFpxQzAokt1CFelOcg4gM2Q4QaSGr2SXw3TBpKq3Xp4Frj0aXYgqduN60DAbJQZqNnLuUGMvc3oalj0gagZUiPj1XqNiAbEhftkrHYnrgc5ZsptiYxo9bJOkMnRro101ZcCCpAt0GlIv824Vw1rYBKBdve34aTMMCFbrt1rVb58Va+Td8LkFJ5ksft+MOwUUx4FTGfG6fX5HBqYntZoMv6M899H9iXfXE1YaesAAAAASUVORK5CYII=",
     "iconColor": "#ffff0f6c",
     "contributorName": "PedroZ",
