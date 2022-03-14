@@ -17,6 +17,39 @@
 相信与我有同样想法的人存在，那么这个项目就可以帮助你完善这个愿望，顺便，你也可以帮助这个项目贡献图标资源。<br/>
 有人说，用类原生系统不就好了，但是在国内的环境，类原生系统真的已经不合适了，毛坯房终究还是要自己去补全，在这个吃快餐的时代，显得有些狼狈了。
 
+# 不规范收录
+
+允许 API 19 以上 APP 使用彩色图标但保留原生单色图标<br/>
+甚至自己的系统 APP 都在用彩色通知图标
+
+- EMUI(≤3 ≥5)、HarmonyOS(Android 9、10)、MagicUI
+- ColorOS、RealmeUI
+- OxygenOS(≤12)
+- MyOS
+- RogUI
+
+完全破坏原生单色图标全部强制使用 APP 彩色图标<br/>
+方法 `setSmallIcon` 失效
+
+- EMUI(4.0 、4.0.1、4.1)
+- MIUI(≤9 ≥12.5)、JoyUI
+- ZUI
+- NubiaUI、RedMagicOS
+- 360OS
+- CoolOS
+- WaterOS
+
+只能强制通过系统预制的 APP 白名单设置通知图标<br/>
+方法 `setSmallIcon` 失效
+
+- Flyme
+
+通过系统预制的 APP 设置图标但保留原生单色图标
+
+- MIUI(10、11、12)
+- OriginOS、FuntouchOS
+- SmartisanOS
+
 # 开始贡献
 
 由于国内厂商 APP 的不规范彩色通知图标影响整体图标的美观，现在开放第三方 APP 以及定制 OS 的通知图标适配。<br/>
