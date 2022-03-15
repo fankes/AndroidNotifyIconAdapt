@@ -7,8 +7,13 @@
 # 已支持的 OS 模块
 
 - MIUI 系统 请参阅 [MIUI 原生通知图标](https://github.com/fankes/MIUINativeNotifyIcon)
-- ColorOS、RealmeUI、OxygenOS 系统 请参阅 [ColorOS 通知图标增强](https://github.com/fankes/ColorOSNotifyIcon)
+- ColorOS、RealmeUI、OxygenOS(≥12) 系统 请参阅 [ColorOS 通知图标增强](https://github.com/fankes/ColorOSNotifyIcon)
+- Flyme <strong>或许可能，敬请期待。有需求可提交 `issues`</strong>
 - 类原生、Pixel 的国内用户 <strong>暂无计划，敬请期待</strong>
+
+# 需求适配
+
+国内 OS 的适配按需求人数决定，小众、无法 Root 的设备不会适配，如有需求可提交至 `issues` 共同讨论。
 
 # 项目起源
 
