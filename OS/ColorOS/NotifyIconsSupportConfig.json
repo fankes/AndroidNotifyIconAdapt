@@ -222,5 +222,14 @@
     "contributorName": "PedroZ",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "主题商店",
+    "packageName": "com.heytap.themestore",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAACwVBMVEUAAADU1NT+/v7////////////////////////////+/v7+/v7////+/v7+/v7////////////+/v7+/v7////+/v7+/v7+/v7////////////////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7////+/v7+/v7+/v7////+/v7+/v7+/v7////+/v7+/v7////+/v7+/v7+/v7+/v7+/v7+/v7+/v7////+/v7+/v7+/v78/Pz8/Pz8/Pz8/Pz+/v7+/v7+/v7+/v7////+/v7////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v78/Pz8/Pz8/Pz8/Pz8/Pz8/Pz7+/v7+/v7+/v7+/v7+/v6+vr6+vr6+vr6+vr6+vr6+vr5+fn5+fn////+/v7+/v7+/v78/Pz8/Pz8/Pz+/v79/f39/f3+/v79/f39/f39/f3+/v7+/v7+/v79/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f3+/v79/f39/f39/f39/f39/f39/f3+/v7+/v79/f38/Pz8/Pz9/f39/f3+/v7////+/v7+/v79/f39/f39/f38/Pz9/f39/f39/f39/f39/f39/f39/f38/Pz8/Pz9/f3+/v7+/v7+/v7+/v7+/v7+/v78/Pz8/Pz8/Pz9/f3+/v7+/v79/f39/f39/f39/f3+/v7+/v7+/v79/f3+/v7////+/v79/f3+/v7+/v7+/v7+/v7+/v7+/v79/f39/f39/f39/f39/f39/f39/f39/f39/f3+/v7+/v7+/v7+/v78/Pz8/Pz8/Pz+/v7+/v7////+/v7+/v7+/v7+/v7+/v7+/v77+/v+/v7////4jOBuAAAA6XRSTlMABgcIBgUEAwIBCQsMDQ4PEBESExQVFhcYHiAiISUmJykqKy0vMTI0MzY4Ojw9Pj9AQUNERUZHSElLTVBRUlRVV1hZWVhdX2BkZmdoaWtsbW9wcXFuZ2RjX01FQ0JBPzw7Ojc2MSwKdnl7fH1/f4OEhYeKi42Oj4+OkJGSk5SVlpeYmZqbnJ2en6ChoqOkpaanq62vsLO4ucTFxsfIycvNzNDS0tPU1NbX2Nna29zc3d7d29nY19TY2eLi4uPl5ufo6Orr6+3w8fDz9fb3+Pn5+Pb19Pv8/f7+/fz7/P3loqGgnp2cmpeTlr9I+M0AAAO1SURBVHja3dWDl9xAHMDxnIL27na3tm3btm3btjSzrm3btm0me7U7/0S1mEwwl2ye2u/j6fPm97tJlvnnEhKz54zjrTuJfRqMGV+9dKYEi07ahouc0Ak/DyvPWmHYzF0gBH9yTS9t4UwJ3UbPhyDU1G5CtA7X+xsEkeD87nyU5yk2DciDc8twUe2n1GwISGlhZT6KuQp/A8ogqBBreq6S0yBQSzOrmJS4knOBVs55leJNnaf4VKCdc3YP1sSey8+AQCf4tbJhhy8ywwl0g+7ynMHz9JviBLTm9OANnaf/TBegBueUNSBxBSdiR0+aXjIm1bnK4f1QmlyJoztcX7qDn7tyHP0+T4LAUHBWT97EfaZWXtDdT+FpwESeQjpSQqlv0DizyL9veR7tuYrNBiYc7wHp5bKsjLrYEtPMnMd36gVCb6Y71FDhGWacxYdeot+dKaVaU3LzRSYcz96/Dro3RPl2Smy8EBjPeyIF/U30JZFOfH1oYjD3cQkF++EnIT7vOJeJuXYEUKhHo+LIG1QDmrk/EQddrsiTUE1o/Dx/5wr2xpOeiRJa5NuTEnGkVXkEBVTjo9E975NQpPV51beovcuYsw3vR9xUVOUwXKFZ0MjzdUw210o8lyxbswUGnKOyuTYMxI689M0Wpfp/P/0CO9er671q7S1dqTgHX2In5V0yo9eg1k7qXKffINydjox+yS29tD2/QLJuNWIoxbbRPZPrhITk3RvK0aR0rQHUPI9rawARiRty0CAhc0sn1Jpr72+H7MHwNAwtRyuodty7JaTqYk2WKmVo7VU/p8+ROvFAbbqUto2bhNx4LrLzXelSYmtyz9tlDtneGrFUyd4MYshzQtdB4oVO9I0Parog8j7cI8n+UFIu/VKTRKqUvuPC8HMawMzNtUtWngsopJEZ6begJQx+vr/EzvaWuZKyVFt6n5SejbdTJVsH+NvZhZ8vaXUvjvld5hHXSOnJp3wcTUpu4fPvx464Kh8f/EFi27uk9HxjBZ4mcW12yt4bW/II+AdPSUncU4F6psQ620QU7NU6+Xuea3cbkZ0oJtAktuS64Jler8hF/GLisMckFJiYzNDiB3w/fO3G1ZMTsguKBY69RQ63pohAlYTkQlVrVcmvvnSZppJ7ulDvN0SneJ4XNL6dzUfczCtd6BAZKS1/gXBbytIgevl2YUf6kJGJvkrnI9DbGpwFiK19JHjPxLOtBzFWiq27+Z4kSg93dk7DWIvN3fLL+8+DC8QylktITm/DzP/bL+FGvsPScDgSAAAAAElFTkSuQmCC",
+    "iconColor": "#ffd943a5",
+    "contributorName": "PedroZ、fankes",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
