@@ -1475,5 +1475,14 @@
     "contributorName": "troublewind",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "豆瓣",
+    "packageName": "com.douban.frodo",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAYAAABV7bNHAAAACXBIWXMAAC4jAAAuIwF4pT92AAADJElEQVR4nO2bPWgUQRSAv01ifhB/0ULRIGgsBKuXUhEsRVBBUNKEgCRYqEUgQRAMKFqkEAQxNv40QipFMZ2BNFZ5KgiK2AgBFUQQlGiiMRa5IiIz73Zv9i7F+5qDfbPvzX23Mzuz7GWLi4s4YZoa3YGVjgsycEEGLsjABRm4IIOWWDDLMkSkGdhbp/7Um1equhBb6kQFVVgDvEjWpZXFBuBrrIEPMQMXZOCCDFyQgQsyyGK3uCzL6tiVxhFz4FeQgQsycEEGLsjABRlUsxf7DxE5CJxN3Jeyua6qk3lPKiQI6ASOFDy3UTwscpIPMQMXZOCCDFyQQdFJOsYt4FMJeathPXAuZcIyBI2p6ssS8pqIyA4SC/IhZuCCDFyQgQsycEEGLsjABRm4IAMXZOCCDMrYakyIyHwJeash+fcpQ9CWEnI2DB9iBi7IwAUZuCCDopP0JHAsZUfqwPMiJ5X2+ouIbAf6gClVnSqcKF6jh6XHrOOq+qVonqiDlIIqrwwfAvorn03AO2Cvqs7lSmbXyoC3QBcwD0wA94AJVc21DqvL+0EiMgi8Bx4Bh5fl7gLOp6qzjH2V3ACtwFHgAfBRRG6IyOoURVJO0j+AbYHYsIh0JqwFcCpwfCOwH5hNUSSloDHgWSDWDoykKiQim4ETkSajqprkn4LJBKnqH5Z+1V+BJr0isidRuQGgLRCbAcYT1Um7DlLVN8C1SK2LtdYQkVbgdKTJlbyTdIwyFoqXgQ+B2HER2Vlj/h5gayA2A9yuMf8/JBekqt+A4Ui9waK5RaQFuBBpcinl1QPlbTXuE1659onIpoJ5TwKhK/A1cKdg3iClCKpM2EOBcDvQmzeniKwiPocNqervvHktStusqupTILTF6K+shPMwAOwKxB6r6pOc+aqi7N38SOD4buBAtUlEZC3hq2cWOJOvW9UT3Yt1d3dfJX5LrYZ1geNzwM8qc7QAoa3DAvA9b6eWcXN6ejq4FbIed3QQ/oK10kZ4sZeHZmrrY0cs6A/MDFyQgQsycEEG1iQ9CtytQz8ayedYMHqbd3yImbggAxdk4IIMXJCBCzL4C5BOpa+p07FhAAAAAElFTkSuQmCCBn8BcsO1j0icdzgAAAAASUVORK5CYII=",
+    "iconColor": "#ff00b51d",
+    "contributorName": "Gregorywx",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
