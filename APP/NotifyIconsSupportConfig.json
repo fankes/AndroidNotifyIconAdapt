@@ -734,7 +734,7 @@
     "iconColor": "#ff27af50",
     "contributorName": "fankes",
     "isEnabled": true,
-    "isEnabledAll": false
+    "isEnabledAll": true
   },
   {
     "appName": "AcFun",
