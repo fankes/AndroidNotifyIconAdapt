@@ -7,8 +7,8 @@
 
 # Developers
 
-<b>发起人</b> [酷安 @星夜不荟](http://www.coolapk.com/u/876977)<br/>
-<b>图标绘制</b> [酷安 @PedroZ](http://www.coolapk.com/u/1157881)
+- <b>发起人</b> [酷安 @星夜不荟](http://www.coolapk.com/u/876977)
+- <b>图标绘制</b> [酷安 @PedroZ](http://www.coolapk.com/u/1157881)
 
 # 已支持的 OS 模块
 
