@@ -5,6 +5,11 @@
 
 这是一个在线规则平台，为国内 Android 不规范的 APP 和厂商适配原生通知图标与规范图标修复。
 
+# Developers
+
+[酷安 @星夜不荟](http://www.coolapk.com/u/876977) <b>发起人</b><br/>
+[酷安 @PedroZ](http://www.coolapk.com/u/1157881) <b>图标绘制</b><br/>
+
 # 已支持的 OS 模块
 
 - MIUI 系统 请参阅 [MIUI 原生通知图标](https://github.com/fankes/MIUINativeNotifyIcon)
