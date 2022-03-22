@@ -1600,5 +1600,22 @@
     "contributorName": "PedroZ",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "Notify for Mi Band",
+    "packageName": "com.mc.miband1",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAYAAABV7bNHAAAAAXNSR0IArs4c6QAAAy5JREFUeF7tnD2MTUEUx///TkKrJwqKVVLQEJ8VCQ2hsAiW0PgIFSrioyHWEssWhIaEymdoKGxJQSH0WhLdX2ZzN3l7PW/e3Dtndl9ypn33/GfO755z576Zc4fw1pMAnU9vAg4oEiEOaC4BkrQNwBIA8xum9m8A30g+aWifbFYsgiR9AbA0eYTdDb6SXJZJa/Yf0pLeAliT2aF3JNdm1vxHzjyCJO0A8NDIkZ0kHxlpT8mWAHQawAUjJ86QvGikXQzQOQBnjZw4TzLom7USEeSAet0+SQ7IAbXIcI+gCDxJNwEcasG4l+kYyREj7WKz2HsAq4yc+EBytZG2PSBJiwB8ArDAyIlfAJaT/GGkb/uiKOkegD1Wg690J0gOW/Vh9h4kKYAJgEq0YZITFh2ZAJK0DsDTFssaqb6GZZCtJN+kGsauzw5I0hCAZwAWxzrP/Pt3AFtIfs6pawEoTOlhaq+3B1VU/WzpwMIQLQB2ddEZITnWUn+GuQWgGwAO1wa5meSLnAOXtAnA85rmKMkjOfuxAFRfHHtNckPOQU9rSXoFYH2HdvZFtBKAbpM8aAToFoADgw7IbM2my/+8gYwgB9SZPl0W6B2QA0p4wnoERWA5IAeUkE9dLvUI8gjyCOokUOKvhr8H+XtQQtb5Q9of0gnh4tN8OixPMU+x9KjxWSyBmaeYp1hCuPgslg7LUyw9xa6TPJaOOm4h6RqAo4O+7fOSZNgFzd4khd3ajYMG6AqA4zUau0mGvflsTVLYm79fE7xK8kS2Tiwq7SXtBTDeZZCjACYBtK0GC1VrK7rs/4cu95G8O9cBeflL7A55AVWMEAAvwesPkhdx9uJUlQGHkrimn2DGbkOoTRwa2DLg4J2kj9WsE3O2ye+TJFc2MezXJvuuRr1jSXfC9NvvgBKvGye5P9Em6fISgPxzqMhzyAE5oKSsnXmxfy8WgeeA4oBOArjUIgh7mZ4iedlIe0q2xCwWzut4bOTEdutzPMwBVS+LOc/tmGZd5PyOIoAqSDnP78heMP6/CC8GqIIUzvEIC17zGqbcn7DgZn1eR+fYigJqCGVWzRxQBL8DckDtMvQvDF7aWFFkmw0AAAAASUVORK5CYII=",
+    "contributorName": "PedroZ",
+    "iconColor": "#ff1195f5",
+    "isEnabled": true,
+    "isEnabledAll": false
+  },
+  {
+    "appName": "欢太健康",
+    "packageName": "com.heytap.health",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAABcVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+IgnmZAAAAenRSTlMAAQMEBgcJCgsNDg8SFBUXGRobHyAiIyQlJykqLC4xMzU3OTs9QEFDR0lMTk9SVVdaXV5iaWtucXV3eHt+gIGChYiNjpGUlZaanaChoqSlqayvsrS1uLm8vsHCxsjLztHT1dfa3d/g4ePl5ufp6uzu7/Hz9ff4+fv9/tcE8NIAAAT7SURBVHja7dYDnwJbAAXw00y1tm3btm22ttXuNp1P/+6t7jTpWfr/PDjXwP/+97fmSErNravOTE5wIgpnQnJ6eX1RarLjJ1JyWmbP3RRu9peaUhAmpWlp/8pL8vN8tiXnR7LKpl9osdedBYus7j1avEyXIbqc0QeGcbXB1OZimIfRHERRf0Sf96Pd9c3ja4OSe1iHjz7spmTcnOys7xy90+eoHhE6HiltdtflpiUk5Zc1zd9QWkiEkLhA6Wa+qbwgNV4MR/cmpccOhMn35dy2p0JxFg/6mjrlABxTvqYMFjuhpLbf+pLyw8bDRWEj9Kmt7IzkdyvQ+k3yrMwWWvYGBVcKrCYozMUjTKHMdxcWuuUfhQgTP0dhAhZVdyR3bFCSU9UIyIijIxkXpV9tOyTvqmByzMsHxTA1dSJgwKCPMYAoiu9IzjugVD+RnnaY9PWDJNV5m/TZTEE07R7yqRpKL8ltHab69y+zIVWvFF6rEJW+TbIXyirJNpgcO+QgArRFgzQWNUTXRnIVyjH5mQ3FJgd7Px0BRW/kWxFiyP4kj6Hck2cJUOzHJD3Bhs8YxgxiSTgj76F4yJ1gUI+XwqDZmMyPj8zYQTukBwrJFaf56o7SSTqU0VHE5FwhaQ1a1a2TXAqOk8OBmPRVa5BB7hZk+RW/k29XJCc0WGg2KHpmdpapYJc0oDySl1fXflcGuTdK8iYFFhUtZlLb2d216eqSfIRyxhBGa/4dyXoEafOX+fBLOWaYMyjbDHHg0OZJLiCozc0RHZJtzMsw2yGbyMXTs9/LTS3QTfIlFUrxLflSCqn2leTrc8DTRchG0ukhr0tKA0oAlFxaV41thcJ8HIDkHZIPNea316SnE0rlDWnUQVG/riOg20NBLmTNt630QKkzyJtKKPoayV0bLHq+yZd8+FR90Gc3AWWyYVvJZnm7JNd0mJpfSXc7LHLOya8eSM4T2ZoHkp1JmyTfy6G0u8nXZgQlHJJ0xcFCVnJbk6VOG+Rj+7wckEGS3jGz6nEukocJsGj7JL8HYdHpJp/K/CNPTqL6jeQzyYNMKIPfamc1aask74sQlHIpowMHnisdtgX6uBugFN2T3HUgRPa5fJiOoBUvua8lbpF8LAVQ8khpzo6A9F1Zx9JoeyYXk2Bq+SIfy30jPwRp2iO7KQMBSYs0J6OVfZmkMaRBibsg3cdPJHcSIaU+kp9dZmcMGST3khEh85SkuxamGS+9FK5y4Dfk4YrZsFo3yesCRNEuf3sPvqrzUPKa88R+8VqMgIJ3+aoL0djH5J/n2QjQjynNOKF0dIeMjWfMjqj08S/Zkjz42cYoHGcjUt4Vya9xHTFoUxTuK9Su+EW+liNSxT2FKQ0xJS9QeGmEj2Ofnj5EanyhsJCMH5EwS+GtC5KtnxuJiND1RmE2AT8qfsp/B9UgVLryEE7z30qn4vETnOMUjOUsAGktCJe1bFAYd+In2fvcFE4aAZsjontOKLj77PgZtLYbCh9DOsLoQx8Ubto0/DwlBxS8q2E9lLfqpXBQgp8tZeWTwnmzBpPWfE7hcyUFv4Ct947C91CeWZ2hbwp3vTb8MrUuSqdddgj2rlNKrlr8YnlzL5RWq4HqVUrvC3n4FbS6PUq3IyO3lI4adPw6GX1PNLknc/Gr2cqWvum3V2PHb+GsPTNI73VLAn4rR9/T01ASfgd6eaWO//3vx/wAFZ4ansSUV7sAAAAASUVORK5CYII=",
+    "contributorName": "PedroZ",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
