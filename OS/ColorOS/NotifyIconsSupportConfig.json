@@ -231,5 +231,23 @@
     "contributorName": "PedroZ、fankes",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "游戏中心",
+    "packageName": "com.nearme.gamecenter",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAABYlBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8kSK3AAAAAdXRSTlMAAQMFCAoMDQ8RFRcZHh8gIyQnKiwvMDIzNTg6O0BBQ0dKTE5QUVJUVVhaW2BhY2VoaWpsb3Byc3Z4enx/gIOFiouMjpKUlZeZmp2foaKkpaanq62usLK0try/wcTFxsjKzM/R1NbZ3N/j5efo6uvt7/H09/k8NuRKAAACFUlEQVR42u3UA5P1SBgF4DO2bdtmdmxLGdvC+f8XnQo6uS7ul6eEFl7A5XK5/gFZg+rh5tJ0dxJsknunlzYP1f4chJQ8dELN90IhLPKWfqhRx4sQVMU5TX6mqkwGXmny0YMg+hiBZQS0xYhcZ8JZOyOkwFH8FTWPxzOrZx8M6SUTTkYoXFTCb56OvrbV4FdKfabfHKCpogO1GBii5iUNds30u4Qhn3b9AFK+qGmB3QJ9PnMAFP+3sdIDr9FQGy3D7p4+owA66HMeB+Al+NP4CJty+tUBeKTfMIAD5882VEM2Tr8cIIvCrohkcFOQndIvyfjiYwBNtLiZ7VdJfh1UzT7Q7wqSbAplQCqFFQCLNHvPB4q/yDEAvRTyYNVFoRPAvvFdVzRbhNc2mQkgk8IgrHYpbAJIPyb5MwqgkhYqvG7IWgD1xgeYJfxZsj6roiQeXhe0GkpJ7CW504gChcJfAsxqqYNhjrKvd/qp1DXDbJGGBgg5lwzHKsyeLUNtGUDp0CfD8gqTEkpuPxi2UhgUxkCx/GoM1mBYYwxUGA4YgycYVMYChn7G4AiGPDpRqmR00id3I9lvImQqHWQhRCLNwKaBdvuw2KfsLRN2Z5Q95sIi946SDjhopawJkgJppwEgnJ1aYVOwTsOnAoSx00kDnNRuflKYz0NABZN3FPa6EVBV/6Kq1GUiuMqJwc6mmiS4XC7X/5oHYxHgzKy7rXsAAAAASUVORK5CYII=",
+    "contributorName": "PedroZ",
+    "iconColor": "#ffe04d42",
+    "isEnabled": true,
+    "isEnabledAll": false
+  },
+  {
+    "appName": "家庭空间",
+    "packageName": "com.coloros.familyguard",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAABdFBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wdlxEAAAAe3RSTlMAAwUHCQsNDhASFBcYGhwfICIjJCgqLC0uMDI2ODs+QEJER0lLTU9RU1VXWFtcYGJjZmdqa25wcXN2d3h6e3+Ag4SHiYuNkZKVmJudn6GjpKWoqaqtrrGztbm7v8LGyMrMzs/Q0tPU19rc3d/i4+Tm6Ons7vDx8/b4+ftN5m3lAAADbklEQVR42u3WA5f0SBgF4PuN0WPbtm3btm3h/vmtSmdygkp3Zvdwd5/jsPQC//vXiUnNy4oPwz+TWL9Cv9PubPxtKRM0Wy3A3zPwQptpGJrqMuHRFp32oaO00uRDcG/0e9kaLKsbXD7+oPQCTS39HgZ8COKcmo3cP/BLXqN0CimDP64KENAKpa9umAxQGoM0ccUfBQhggNI8rMKOKLRBk9U4eUpNGlz5HijswYHCUyp0EfOUrtKCDCgBDhW2gRZSmoObawpdUFiikA5DKqViqJVQOAqFQi6FZsDQF2hIUxRmoXRk24RQeeEOagcUeqE0Q/LA8desAEtUDqUWktcwaaZQCaVXCkmwM870K0zSKbRC6ZtCGJQiSH5bL7ivw0OAaReQfIBJIYVGKJ1RqIFSJ8kzmHRTKIXSDoV+KC2S3HGEt899Z7gEpUvbitRR2IFaKoX3XCg0UCgEDI8UBuBin8IuFO5J3kbAMEfhwQcX9XT5zzKFdvzwbRoPutimBLsUy0gTW6nZg7syakpgUUypDChtrxhdvaDfOwLpombCB0PqIqUR4EBRoVwNUHPVWRgKIb5Cv7AJZNJkBcE0Uve1P7ZyRd0wgNB30rCQi2Cq6NTgv7NHkzEEU7ZNq4Uc6MLiMwumP+i3G4Zg6vdp+NwsgVV0y6F+KwsBRdavf9PkuCsTNk36p3xwV7L4Roe9/hhYzVK6gZuCFarddIXDYpjSFJRyZmlyt3duHtx5CywKKQ0EPkI7PbnxkCLTKiYvqNtKdKaW5yQ49NBvujISFpntZ9TcF8BsUn2cVqjZLIJTRN8zNfUwibkk+ZkJqxdKp3VQS5mkpt9RJMdhcUNpJQ6u2qjJtzeuFzDbMDbTXcErpTR7Ss0GDCOUhhDEAYXzGBhiKPTYagtXEdQthXXAsGMpSiHHRk4OIolSBwx9lialncJRGDyopvCQYKmp39BFXZL8yoYnkxQmrB+Og18vhRF4k/JsOQNFFHL1Ad2TvPHBoz7rer+T7+bRtcOriDOSX7HQ9Z+fD5jazBt410GhDg6hHyRn4F22S4ddbvzAqyt1h71sbKBXMxQyYXdK8gS/UUGhAnaPRiH3KpVCM+yM3ORZlDLpx1Lowq88q1JXptFbe3dMcg02yUa3792CMnmtkbP4HZ9RTixyivFrA5H4j/gLJtwHBpielcoAAAAASUVORK5CYII=",
+    "contributorName": "PedroZ",
+    "iconColor": "#ff29d583",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
