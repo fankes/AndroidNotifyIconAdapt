@@ -14,7 +14,7 @@
 
 - MIUI 系统 请参阅 [MIUI 原生通知图标](https://github.com/fankes/MIUINativeNotifyIcon)
 - ColorOS、RealmeUI、OxygenOS(≥12) 系统 请参阅 [ColorOS 通知图标增强](https://github.com/fankes/ColorOSNotifyIcon)
-- Flyme <strong>或许可能，敬请期待。有需求可提交 `issues`</strong>
+- Flyme <b>或许可能，敬请期待。有需求可提交</b> `issues`
 - 类原生、Pixel 的国内用户 <strong>暂无计划，敬请期待</strong>
 
 # 需求适配
