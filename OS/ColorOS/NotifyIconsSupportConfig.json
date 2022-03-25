@@ -258,5 +258,14 @@
     "iconColor": "#ff29d583",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "设备互联服务",
+    "packageName": "com.oplus.linker",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAA41JREFUaEPtmU2oVVUUx39/GhRlKJEpkWAgKWapCEFBlChRElGIDUyHThR0ItTM50xq0geNalQiqdggiKJJNmjQrKhEREEciR+loARO/rIe+8jxds/n3fe+y+NtOJzBWXut9Ttrf6y1t5gnTfOEgwWQaYvkQkQmGRHbq4AvgH2SzgyzPfURsb0c+AHYAPwNvDsMZk5AknPhWDzrAQO/A2clfVf8cduLgD+BlaUonJa0eTAqEwWxvRj4ID1Vo/MCcFTSjO1/gSUlwYDdIen8nIHY3pkAnus5vy4CL0q6PGdzxPYMcKgnQHS7AayQdKtKx9iHVgYIJDX62Sgwwl8kB0Sy/76kD+t8GRtIRojw/xqwWtI/Ex1amSEK3w/HSjZpkNgXcrfPJO2fNMh24DjwQEaaY5LemyhIGLP9NvAN8GAmmB8lvTFxkATzZorMwxlgvpS0Z05AEkz8xRhmj44Is13StxMDsR07+I5ylmr7tQRTzpu6cMWy+5Sk/7KDJIdjOdwmKdLsmBcBUSyR96XctrekOfN4F4Ik+6mkA9k3xAGH429tBd4qQYTN/9UOtl9NMMs6wJwFXpF0JSvIAEShO9LqqOKKVlkA2X45wTzZEma3pKNNsp1SlAqIQRuVEIWg7ZcSzIoGB2t383Lf1iC5IEowL6QFoFz9lX1rDRGdWoHY3gV83RTe9L1uWK2dNZoOEGxvSpEpD8sQ6QTRCsT2E8AvwJqWIFUTPSBOJB33DhBsR90eGcDq9K0zRFuQT4DKZK0G7l5kbBcQzxZRk7SuNMyi/A2Yk3UZbu9Vy/ZDwCVgaYdolEVnYVIkCoj4PiPpcE+dQ7vVzhHbr6czpVFsBsxYIRqHlu3Pgb2jUAz0zR6JQn9TRL6PFCQTyLmUf/2RSd99appAvgJ2ZzR8Hdgp6aeMOmdVNYF8DNQma30canO801VvE8ioB2vD/BnLPGkCiSw1ss++dcQgyFggGodWCNj+CDjYNdRD5McG0QokwYx6vDNWiEYQ24+lnf2RESIydohakHTd9SsQSWOfFhc0RyQd69O5a5+hk932RuAU8HRJ4W1Ji2zHTh9POe0YtHskQdzs6lBf+SqQn4Gor4t2FXhGUtxTzDbb7wDPJ6A7wG+pTv+rqb7u62xdvyqQctodN0WbJcV7alvlPlKqIXZJiru7qW5NG+LaqnvtaaNqVbNPm9PD/FkAmbYozZuI3AVCzD9CuKQtXwAAAABJRU5ErkJggg==",
+    "contributorName": "fankes",
+    "iconColor": "#ff426bff",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
