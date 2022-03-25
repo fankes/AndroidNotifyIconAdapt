@@ -210,5 +210,14 @@
     "contributorName": "fankes",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "小米互传",
+    "packageName": "com.miui.mishare.connectivity",
+    "iconBitmap": "UklGRsYBAABXRUJQVlA4WAoAAAAQAAAALQAALQAAQUxQSEgBAAABkIJt//lX72zb9hrrloxk23a21fad19aWrLSEg3qabft8yu/3+X//37QYEQzctm0kp7evu+4fcEtS4B3S6e9VmwImidWs8dTyUJ7RmF3xvHCTx+3wQQKAmB987Epjeky0DAD9xKtAllGi/6ma6l7yvPGUI+c/0Qg0Cv/Gx54UYR+IjkyhVQfxKpfA5j7RQzcAVnFWgMkFz3tfw+wQ/UwAYD8hWgEEf+Zj3yAtRFQPwLRLiGEAaCRedQZI+UW0DgC5Qoh4TVWOeD4Fsng8IbpjDSB2RYg8aPD/yMeZCcc+0btgAC7zQvToM6wiXq0MCUT/MjRZCjHjCL1ODGTooKdDNwvNV4QIB0MR8UpXjeobxZ9IZ5Qvm5HiWaF4ximezapXiuQqPJZehdIrfFRyhRvhHmly7qHYmRS7nmpHVezWincC1bvMLUgAVlA4IFgAAAAQBACdASouAC4APlUei0WjoaEeNAA4BUS0gxQAAIGNH2m+w67WkuGxAAD+9fd//2Gv/+wkf//XxUd4zj/8QDD65kz90b//9hr//r+X//2Bcz//0UoAAAAA",
+    "iconColor": "#ff7f98fc",
+    "contributorName": "fankes",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
