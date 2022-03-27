@@ -219,5 +219,14 @@
     "contributorName": "fankes",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "语音唤醒",
+    "packageName": "com.miui.voicetrigger",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAABrVBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////ZME2zAAAAjnRSTlMAAQIDBQYHCAkKCwwNERUWFxkaGxweHyEiIyQlKSorLC4vMTI3ODk6PD1AREVGSU1OUlNUVVpfYGJjZGVmamtub3Bzd3h5fH2Ag4SFhoeJiouMkJGSk5SWl5ibnJ2hoqOkpbG2t7i9vr/BxMbJyszOz9DR0tXW2Nrb3t/h5Obn6ers8PHz9PX3+fr7/P3+1uIj3QAAAaRJREFUOMvN00dXIkEYheEPRx11IjPjJBPmHDEHzDlnMOesmLOCImC8v1m7BIrqanSp76ZP3fNsuk81vauiTL3tBTp6tSEoHeS8wsJ24Mn0MlyCr/SXXDl4ruDATueEXyOBYSeEEgO57xA7CASnoapC28VC3d0nTWgFrOayjNjo1MLWWRuT41rOhN5w5RkSRkoxlhsACbL7P/ePotpWL/CUc3eiKISo0YldGX6luA34t5xNZEGzLPugbj+PcpCmdovQyBb5tz5CdPMS2h6uLjYvZQaHC65JpU5qQ4n1kYTiRXZlpKDyRQeAvbECAVoFN0n6KX7aTOLOKLgG6oYQf/FrnM30DM2de27CGsRu9R437k4hlr77HqV0yIl4hQ0tFDm4dna8MphKlBl6BCk7c7oPNOpdLup+Q6MbYv2ygZdrgZyLuQh/ZyQqkaGbQTN4XcqQJsEtBt182CBW0oMK1rDZwb/XF3ouRZT2ILYu+IZs8ma49IeG5zEZniqJ92PdxxxZ3jHfpZxPc0mowc7Y/dg3vv2s6h+okH7hz8bm/o7SP/TmPQIsRWoU9oW3QgAAAABJRU5ErkJggg==",
+    "iconColor": "",
+    "contributorName": "HeMing505",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
