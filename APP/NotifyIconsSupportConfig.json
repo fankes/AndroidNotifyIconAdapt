@@ -1680,5 +1680,23 @@
     "contributorName": "HeMing505",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "讯飞听见",
+    "packageName": "com.iflyrec.tjapp",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAQAAAC0NkA6AAAAAXNSR0IArs4c6QAAAnRJREFUeNq11ktIVFEcx/G/VkYPwyQjF5VFGFjSpk0S1iKKWkhIm0KtRdLTR7mKSCwoaCxqiELJorQgQaIHlBE9KXuREoqikBhIoEWmkxLE9G11OHOle+ecuTOf9e/yXZ17jpghgx0EecBr2mjjBc0cJY8kiRc285T/+8ZZFvgPrKGPaC6R4idRh5kQ62MLzKYDG1X2iTQ+M1k/16mmnMMEeMQEk9XYRj7i1ESuOJBCEb04HbBJXCFSB4tdl/txyjNNFBKpPsp6Od/RPplG+tAuGuwX8QPtkEmiFO2JGCEfbZDpEg3vUP6SLYYIoBVHG+einRNjzGUE5V60cTlajljgPMoYad7TZpQ2scImtHzv6QeUoGUknTGUUu/pV5Q9YolelGPew1GU7daRk4TooptRtnkPf6IUSaIwgFKZuMhLlKuJi9Sj9HmsZtLCNebEGtmFttF1tRuA3+yNLbKQMMod11UVSj9rxR4taAUumzIitZJpG9mANkyGZ0QLkGyXuY/2zDACE2yxieQQqcYwAgMk2WQOEmmlYSQodmhAu2UQ6Wa12CKJHrQVnpFQzP85tqKdEAcq0GpJltjxFqXdJfKQTPGHSrQsicAyQgySL/6xyv3sM42pEg/MYBhlnyQK7SjViYu8QTntscriFe95Tic3mWIfaUVpMno9/2KefeQCyhf308ANlC6xRwnaTpfNUsIoDWKP+YyjDJER9WIo8PuwgG7SZRIa0XokNizhD9o4ZSTrJza9RCqRWFGBU4jHNHKXIZxuix9cJrpOpok/1OGtnVniH8WEcROUeCGVU4zgFKaZbIkvklnHEQKcoZbjFJJq9t0/S91IEKs/9lsAAAAASUVORK5CYII=",
+    "iconColor": "#ff0d1c38",
+    "contributorName": "scrpr",
+    "isEnabled": true,
+    "isEnabledAll": false
+  },
+  {
+    "appName": "Keep",
+    "packageName": "com.gotokeep.keep",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAQAAAC0NkA6AAAAAXNSR0IArs4c6QAAAj9JREFUeNq910tIVFEYwPFvYNJq7aLHoiIosl0UYVD5KDXaGdYYtGzfJghpUyCtopieFmVNL6kJDbJwykB0UbQPwoI2RbVq0Xuyvwx3Ll79jvfMeD/87fwO8mfO+RgYCbCWbo6xXsywga2sjA42UgBgnHajxGFeMsEQ28PBMj4RKrLJIJFlWmMwOkpUb+LEGaJGWVEa9hE1njBxiZk+sK00vkLUWKLERWZ7S33poJeo0QSJ82hHSBtGyKLdDs5UxPBTXBcxjHAWLSdiGOEC2l2RmIhJ4o6IYYRz7osyiKiEuiiDSMxF9YkYRsii3RQxi5DisvuiLCMn3RtlG9lCN9+IuiWKxZvU805dlE2EWuqkjOW8AeCGiGGE47znMyM0lP9exUceiRhGuE9oko7yrI6UYYQ8M2XCE6MIafJoXYYRUmFCZ+wiAygqkyzCQ+J1JovohFtHogh5KpOZZ4Q0D9DukeG7J+OPxG7Uc9IitFFE66o+Moj2hEXl02b+xGS8kbE5n/uxRNDEz5hN80QGRehHG1b/18h/96b5I6/IoT1jsSi08httvzviU2CpONHOL7QD1UdGqIlZmz3886+AjuiNikWLc9MOxkT0RvnRxI+Yt/FEnkqF2Mkk2j5/pECtVIzdzk3rjI8Ms0SqQpsz0zp35IXeKD/2ojdtgobS0TX9Fu6EH7v4y2ynXT8ph0jJvNGiNq0nGKuNSoIdFJn2mnXBuIfQADWSGM18JfCFzdHvoKvkOCRGWMMp+jnBalkoUx8RsIXflRh7AAAAAElFTkSuQmCC",
+    "iconColor": "#ff5b4c73",
+    "contributorName": "scrpr",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
