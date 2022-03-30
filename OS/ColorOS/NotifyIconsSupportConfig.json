@@ -15,7 +15,7 @@
     "iconColor": "#ff85c3af",
     "contributorName": "fankes",
     "isEnabled": true,
-    "isEnabledAll": true
+    "isEnabledAll": false
   },
   {
     "appName": "天气服务",
