@@ -27,11 +27,11 @@
 {
   "appName": "", // APP 名称
   "packageName": "", // APP 包名
-  "isEnabled": true, // 是否默认启用替换彩色图标 - 关闭后将全部停止替换
-  "isEnabledAll": false, // 是否默认启用替换全部图标
   "iconBitmap": "", // 位图数据 Base64 字符串
   "iconColor": "#ff232323", // 通知栏中显示的图标颜色 - 不设置使用系统默认颜色 (不设置颜色可删除此项)
-  "contributorName": "" // 贡献者昵称
+  "contributorName": "", // 贡献者昵称
+  "isEnabled": true, // 是否默认启用替换彩色图标 - 关闭后将全部停止替换
+  "isEnabledAll": false // 是否默认启用替换全部图标
 }
 ```
 
