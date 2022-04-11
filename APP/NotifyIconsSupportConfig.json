@@ -1858,5 +1858,14 @@
     "contributorName": "Mars、fankes",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "小牛电动",
+    "packageName": "com.niu.cloud",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAchQTFRFAAAA+eXl/fj5/fn5+uvs+evq/fr5/fj5+eXl+M/T/fn5/////f399tXX9svO/fz8/fr688zP+/Lx++jp+uXm+/Ly9tja/v38/vv79MrP78LE/fr6/v39993f/PX1++7v+uzs/Pb2+Ofo/v7+9+Dh9drb//7///7++Ojp9Keq/fj4/v39//r7//v7/v39/fn58bm++u3s////+u3u/PT0/Pf2+unq//7++uzt+u7v+/T0+/X1/v7+/vr6+vT1+vT0/vn6//7++/X2+/T0++/w+/Hy//7+9Nra9NXV/v39/PPz8NHS/fr6+ejp+Ojo/vv79tnb+u3t///+8MPF9cXG/Pj4/O/v6p6i/Pj3+u/v+u7u///+/fn47rO5+OTl/v39/vz89dXW9tPS/fv7+ufn/PX1+/Py+/Ly/Pb29drb/fz7/v799+Pj9uDh/v39/vz8+ODg+vDw+/b2/Pb1/PLy8c7O/fn5//7++evq+enq//7+/fr69NLT+evr/v7+/fn69NfY8dHR/fn5+u3t/Pb2/fv6/fr6/ff35pmf+OLi/v39+ebm+/Hw/PPz78DF+/Ly/v7++/Tz887R+Orp/Pf3/vv7/fj4+evrsHXdYgAAAJh0Uk5TAB+suD03tq4jBNT/8Q8K7tsGaSoicxHu4AYE2vEVlU9Gnyj6Jh7/+y8BvurU1OjGAkL+S32IMvo7O4SX+NOKis/5mYU/bf8YEv12Btc4MN0HSf4DAr5SAbRdU/+9ASD56AwJ4yeSf3abDen3IBr17RBlq6FuA839Pzf81AU8/dAGBchFps7LsAEZ9B5rdAJ193wDLZjCmzEO0cP0AAABdUlEQVR4nO2T5VPDQBDFF5fD3R2KtEhxd3d3d4q7u7sV/l1uU0Knncs1zDB8yvuQ7L57v0uycwFQpOg/ZWVtY2vu2dk7OEoTTs6EuLiaem7uhHh4SiJehMrb1PNBz1eK8POnqwGBpmZQMDVDQiWQMNww3NyNQDeSTURF42KMuR0bR11VPItISESCJKmpNOofaZIFOyWVgaRpCU/pDCSDS5BMBpKVzSNUOayPyc3LLxCWC4uKi75VIhilZeUV7JEBVGKgqtpo1NSiUyeVp6pvwESj0WjCmTS3cBBobcOBtottRydu0cUjoLsHM71i29dPu4FBLgJDwzQ0MmpoxsZxVhN8AmASHzNlqKexnrFEwOwcjenmsVxYpOXSskUEVnDrVazWsFq3TMDGJg1ubQPs7NJib18GAgeHNHp0fHJKb9ozOQTAOb7QxSVer67lITe34mHU3ckjAO7FX+dBLgGPT8/CAX55lY0AvL3r9R+fvwAUKfpDfQGKmz2bVu399wAAAABJRU5ErkJggg==",
+    "iconColor": "#ffcb0006",
+    "contributorName": "Absinthe",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
