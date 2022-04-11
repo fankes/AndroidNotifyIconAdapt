@@ -1858,5 +1858,14 @@
     "contributorName": "Mars、fankes",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "小牛电动",
+    "packageName": "com.niu.cloud",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAlJQTFRFAAAA6qWp+eLl+Ofo7b7A7b/B+unq+ePl6q6t6by+/Pb1/v7+/v/+/fn59dzd9tjb/Pn4/v////7+/Pb2983Q++3u/v7+////+vHx++/w++3u9+Hh/vv6/fT1/PT0/fz7+OHi/PLy+uzt+erq/PPz+OLj/f39/fj44YSH/Pf3/v7++OPk7ra2/PX0+uvt+enp/Pb28sHD+ezt/fb1/ezt/+7v/+7u/u7v/PT1/v7++u3u9Keq/fn5//39//39/fr68bm++u7t+u/v/PX1/fj3++7u+/Dw9dPW/Pb2//7+/ff39dna67u/6M7O+Orq/v3+//7+++/v6szO58zM58vM6czN++3t/v7+//7++uvs6c3O6bm8+/T0/fv77L2+6Kiq/fn5/Pb1893e/fv7/v39+OXm+Obl/v39/vz8+OLj+u7u///+/Pb2+/T0/PDx6p6i/fn5+Ojo+efn/vr67rO5+erq/v7+/Pj49Nja9NbY//7++u7t77a8/PT0////++/w++/u/Pb28cDD99/g/v39/fz789PT8s7P/fv7+OPk+vLx+/Lz7ru96ams+/Lx/PT09t/g/fv6/fz89+Xl9+Tl/vz7/vv7+OPj+uvr/ff3666s45KV/Pf2+u7t8by+/Pj4//7++ejp+efo/v7+/fn568HD+Ojp/f39+Ojo+Ofn/fn5/v7++Orq88LD/v38/v38/PX19NDR9tfY/vz8/v3999/f+/Dw+/Ly78DF+vDw+/Ly887R5bq/+e3t/fn5/fr6+u7v78XF9dfZ/e7v/e/w+NzcVCNLDQAAAMZ0Uk5TAAElMAUELicCA7L+/90TD9f//7oEUP//fG9bFeKgkucaiVBFlB/5yAG/+ycCpFRFrwRLsCkoKCin/FUC1Pz73ARYZJWiXGkGsP24CAwXSfn5YxcWFhZb9/tQFw2c2gYD0qcU4fMsJfDmGWL/sqdtAtE/NtkESPrICQb8UgKg/nRprAMd+OwNCeckhZABAYSQE9/zLCXv5RdLxAEBu1YCzv5AN/3XBDT1KibV+D0C8/GnAxHx9RZ1gAN6hAQCVtPXXAIcOToeTUtyoQAAAdtJREFUeJxjYBgFwxAwMjGzYBNnZWPnwK6Dk4ubh5cPU5xfQFBIWASrFlExcXFxCUxxSUGguBQ2HdIyQBlxWUwJOZC4vAIWLYogGXElTAllHpCECqaEqhpIQl0Di2GaIBktbXRhHV2wJXrYnKwvBJIyMEQTNtICazE2MTUzBQIwAQXmFmApSytUHdY24hBga4cBbKFS9g4oWhzFiQBOKFqcidHigqLFlRgtbiha3D0sCWnw9PJGCzIfXz9/sFRAYFBwCAyEhoWDBSMio6KxhX8MWDY2DlksPgEkJpiITT0QJCWDpFNSkcXS0kFiGZk4tDBkZYPkc5CFcsE25+HSwZBfAFZQiBAp4gYJFJfg1MJQWgZSUV4B41eCU2RVNW4dDDW1ICV19TB+A9iSxiY8WhiaW0BqWtsgvPYOEE+rE58OBoYusG+6e0Ds3j4wpx+/DoYJE0GqJk0GsadMBbGnTSeghWEG2OSZsxgYZs8BM+cS0sEwbz5I3YKFDAyLFoNYS5YS1MKwbDlIpf2KlatA9Oo1hHUwrIUktXXrwdSGjURoYdi0GZHit2wlRgcDwzZPmI667cTpYNixMwKio2rXbiK1MOzZuw9UQu4/cJBYHSBw6PCRo6SoHwVDEQAAzql5f+rvHXQAAAAASUVORK5CYII=",
+    "iconColor": "#ffcb0006",
+    "contributorName": "Absinthe",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
