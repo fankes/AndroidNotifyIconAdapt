@@ -1955,5 +1955,14 @@
     "contributorName": "HeMing505",
     "isEnabled": true,
     "isEnabledAll": true
+  },
+  {
+    "appName": "网易新闻",
+    "packageName": "com.netease.newsreader.activity",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABIBAMAAACnw650AAAAD1BMVEUAAAD98/P99fX++/v////Zp7uMAAAAAXRSTlMAQObYZgAAAZ1JREFUeNrtk8FVBEEIROc9JgPNwATQIgAV8o9JCujX467evLm1h+6lP10MzBwPPTQS3MeQ0mvAAndprUskwrnITpYo+b4LAWWuwSJ0XSTfDc07FykmT4Qx3W6VFS/IvUVDUhXtosRV4PD2XFCk1HxBdCYkUHFp6P0Mc79Cni5e51yOsROVXLcd8Ik8NTUsaD/SyNinPIWaLgil8JtmQgUGVBgx0g05TA8DLIhPw933WNrZcGBBFBCKK0TijRzd0JAkZNfZCZRl05GbCr1FBtw2xbi4dFn1B5SEcp57LDUH1uS0O+kjz560NdSJAT6QRaCuhYolhwO+oGlmd3CiiCRweVmAKl28vIeh2TeIllcIr0Ez6IbEBacjIbIf3W+aaeIL4jErqreB0TOcDHoYN9CHRRCS8slNldUyGvEQqSkCFBld0FNCc9irgO002H6fQgn5BerRWtU/ggpvXp0tiDYoZkv3FvP9dNX/SaIH5ptQ/o4Teg/hBpIfISWkPdzZ3kNAoT0msj9AutLL7zdI5qaBAr8+3Yb8f033oT/RF2P/gNWdt5WVAAAAAElFTkSuQmCC",
+    "iconColor": "#ffd21112",
+    "contributorName": "Basstorm",
+    "isEnabled": true,
+    "isEnabledAll": true
   }
 ]
