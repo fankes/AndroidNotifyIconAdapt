@@ -288,7 +288,7 @@
     "iconColor": "#fff7bd00",
     "contributorName": "fankes, Gregorywx",
     "isEnabled": true,
-    "isEnabledAll": false
+    "isEnabledAll": true
   },
   {
     "appName": "美团外卖",
@@ -297,7 +297,7 @@
     "iconColor": "#ffffd100",
     "contributorName": "fankes, Gregorywx",
     "isEnabled": true,
-    "isEnabledAll": false
+    "isEnabledAll": true
   },
   {
     "appName": "QQ邮箱",
