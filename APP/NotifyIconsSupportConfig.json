@@ -1973,5 +1973,14 @@
     "contributorName": "Basstorm",
     "isEnabled": true,
     "isEnabledAll": true
+  },
+  {
+    "appName": "网心云",
+    "packageName": "com.onethingcloud.android",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwAQMAAABtzGvEAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAIhJREFUeNqVy7ENAyEQRNGPCAgpgVJo7OSjNEqhBMIN0K2HowH7a6WX7PBPxV7cAYJ7F8l9iLzqFKVHE7WxxEcnLqjCoEAQuRHmYYSWGnHEnjphpSGS5ymyF4uDsjHqZnHzcqGXB0ODjebOBA7kQzlUx8R9cOeC4A83ZFFdLcohb4y0GYRN4+e+ljJdxMSnWREAAAAASUVORK5CYII=",
+    "iconColor": "#ffe5c082",
+    "contributorName": "Basstorm",
+    "isEnabled": true,
+    "isEnabledAll": true
   }
 ]
