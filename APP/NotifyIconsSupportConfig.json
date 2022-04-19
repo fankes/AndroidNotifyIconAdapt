@@ -1956,5 +1956,32 @@
     "contributorName": "HeMing505",
     "isEnabled": true,
     "isEnabledAll": true
+  },
+  {
+    "appName": "网易新闻",
+    "packageName": "com.netease.newsreader.activity",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABIBAMAAACnw650AAAAD1BMVEUAAAD98/P99fX++/v////Zp7uMAAAAAXRSTlMAQObYZgAAAZ1JREFUeNrtk8FVBEEIROc9JgPNwATQIgAV8o9JCujX467evLm1h+6lP10MzBwPPTQS3MeQ0mvAAndprUskwrnITpYo+b4LAWWuwSJ0XSTfDc07FykmT4Qx3W6VFS/IvUVDUhXtosRV4PD2XFCk1HxBdCYkUHFp6P0Mc79Cni5e51yOsROVXLcd8Ik8NTUsaD/SyNinPIWaLgil8JtmQgUGVBgx0g05TA8DLIhPw933WNrZcGBBFBCKK0TijRzd0JAkZNfZCZRl05GbCr1FBtw2xbi4dFn1B5SEcp57LDUH1uS0O+kjz560NdSJAT6QRaCuhYolhwO+oGlmd3CiiCRweVmAKl28vIeh2TeIllcIr0Ez6IbEBacjIbIf3W+aaeIL4jErqreB0TOcDHoYN9CHRRCS8slNldUyGvEQqSkCFBld0FNCc9irgO002H6fQgn5BerRWtU/ggpvXp0tiDYoZkv3FvP9dNX/SaIH5ptQ/o4Teg/hBpIfISWkPdzZ3kNAoT0msj9AutLL7zdI5qaBAr8+3Yb8f033oT/RF2P/gNWdt5WVAAAAAElFTkSuQmCC",
+    "iconColor": "#ffd21112",
+    "contributorName": "Basstorm",
+    "isEnabled": true,
+    "isEnabledAll": true
+  },
+  {
+    "appName": "PushDeer",
+    "packageName": "com.pushdeer.os",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABIAQMAAABvIyEEAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAP5JREFUeNqtz4FGBVEQBuA5Dg7gAIjc8xxXezvokUJhayeLniK9SSYIoEe4c4UAbcI9y9pJM2e3F7g/+Aw/88PJ4xEcqsIbXFW9u09S+f3DF5rEicnNIICqCWbHqgKTCQqVD9Mt85FUO+ZazsydAhKpTJf2Q3zl1mklHErrVV5EROX+hOsNTEnmKpRpEUCV/ItM7ihcNfbF5KftbAqlEVyUSRWxiaxKAN60WdWcgzO1m6pQEgTTkERIxXFVUKlF2BRLHlYVUxquXxb9PJvyII9o+paeTIexZ1XHowxVd1XCecuqzPHMtOPwRKot+T2qLsiJ6QZBFNAh3Ffp5lPnF2X0lSmSEVy8AAAAAElFTkSuQmCC",
+    "iconColor": "#ff3b4688",
+    "contributorName": "Basstorm",
+    "isEnabled": true,
+    "isEnabledAll": true
+  },
+  {
+    "appName": "网心云",
+    "packageName": "com.onethingcloud.android",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwAQMAAABtzGvEAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAIhJREFUeNqVy7ENAyEQRNGPCAgpgVJo7OSjNEqhBMIN0K2HowH7a6WX7PBPxV7cAYJ7F8l9iLzqFKVHE7WxxEcnLqjCoEAQuRHmYYSWGnHEnjphpSGS5ymyF4uDsjHqZnHzcqGXB0ODjebOBA7kQzlUx8R9cOeC4A83ZFFdLcohb4y0GYRN4+e+ljJdxMSnWREAAAAASUVORK5CYII=",
+    "iconColor": "#ffe5c082",
+    "contributorName": "Basstorm",
+    "isEnabled": true,
+    "isEnabledAll": true
   }
 ]
