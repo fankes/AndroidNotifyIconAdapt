@@ -1964,7 +1964,7 @@
     "iconColor": "#ffd21112",
     "contributorName": "Basstorm",
     "isEnabled": true,
-    "isEnabledAll": true
+    "isEnabledAll": false
   },
   {
     "appName": "PushDeer",
@@ -1973,7 +1973,7 @@
     "iconColor": "#ff3b4688",
     "contributorName": "Basstorm",
     "isEnabled": true,
-    "isEnabledAll": true
+    "isEnabledAll": false
   },
   {
     "appName": "网心云",
@@ -1982,7 +1982,7 @@
     "iconColor": "#ffe5c082",
     "contributorName": "Basstorm",
     "isEnabled": true,
-    "isEnabledAll": true
+    "isEnabledAll": false
   },
   {
     "appName": "货拉拉",
