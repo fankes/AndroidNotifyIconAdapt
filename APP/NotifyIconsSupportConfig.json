@@ -2089,5 +2089,14 @@
     "contributorName": "fankes",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "阿里云",
+    "packageName": "com.alibaba.aliyun",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAmJJREFUaEPtmbuKFEEYhb+T+ABeAlEwUDNRvGAiiIKBJl6SRTHXwAcwEXQDQXwAQU1FEEHWRFEDF4RdVFxwQVgFIyNBDAxMDI6U9MjsbFdPdbc7M9tWQyXT/+2cv6q66ozoyKOO4CADmbRO5o7kjqwSA3lqrRKxjcPmjjShzvZOYEtN3wVJP4b5VHbE9jVgdzG2DwvW9/6upAtl9rZfAMdqxAqmz4E5SdMxv1IgtjcD94EjNRP2zC9JuhUBEsi52jDuR+C0pKVB/xVAbG8FvjRM1HM7JGkuAuQE8KRl/HWSfvXHKAOyAOxtkSiwtV/SzwiQ9cBrYEeLHDclXY4CKdZEk7Z/Bd4B78OQ9KCqSNtnC7ICYWFsbADquKRnPb9lHbF9DzifEPQz8AZ4WxS/KOlbgt8KE9ubgAPF2FcA25YQ67qkKzEggdGwS5U9T4FHAYCkxYREjU1sB0AB3LmKDeeVpMMxII5kvyPpYuPKWjjangFOlYWQ9HdGDU6tGJCjkmZb1NPYtWrdZiCNaW3hmDsSIe//WyO2w/ls2BltNnXzGNvU6gyQFuu61HVsHclAIgzkjnR9+11zh8a1dIz/IGlXFy5WDyVNxYA0VTjGcdWdlhTq/fOUiQ8vE44YVZ+LYeJDuNrOA3V0ssF8M5LO9P8Y07ViF6zU712VHHQSeJwaKGK3QdL3oUCCge3bQKlamFBElUB3A1gm5STE65mkC3T9QW0HaWjPP5ZMg6Z1sEbxn4CgtS3VlkxrJJkY0/y3wsS0Irb9TlqBqfXkqZXK1KjsckdGxXRqntyRVKZGZdeZjvwGHDUyQibVJksAAAAASUVORK5CYII=",
+    "iconColor": "#fff15d00",
+    "contributorName": "fankes",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
