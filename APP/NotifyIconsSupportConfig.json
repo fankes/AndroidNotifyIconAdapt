@@ -1937,7 +1937,7 @@
     "iconColor": "#FF3370FF",
     "contributorName": "HeMing505",
     "isEnabled": true,
-    "isEnabledAll": true
+    "isEnabledAll": false
   },
   {
     "appName": "杭州市民卡",
@@ -1946,7 +1946,7 @@
     "iconColor": "#FF21AF01",
     "contributorName": "HeMing505",
     "isEnabled": true,
-    "isEnabledAll": true
+    "isEnabledAll": false
   },
   {
     "appName": "时间锁",
@@ -1955,7 +1955,7 @@
     "iconColor": "#FF58D9B3",
     "contributorName": "HeMing505",
     "isEnabled": true,
-    "isEnabledAll": true
+    "isEnabledAll": false
   },
   {
     "appName": "网易新闻",
@@ -2027,7 +2027,7 @@
     "iconColor": "#ff6de9f1",
     "contributorName": "HeMing505",
     "isEnabled": true,
-    "isEnabledAll": true
+    "isEnabledAll": false
   },
   {
     "appName": "集享联盟",
@@ -2036,7 +2036,7 @@
     "iconColor": "#fff82e3e",
     "contributorName": "HeMing505",
     "isEnabled": true,
-    "isEnabledAll": true
+    "isEnabledAll": false
   },
   {
     "appName": "微电子移动门户",
@@ -2106,7 +2106,7 @@
     "iconColor": "#fff04d3e",
     "contributorName": "HeMing505",
     "isEnabled": true,
-    "isEnabledAll": true
+    "isEnabledAll": false
   },
   {
     "appName": "作业帮",
@@ -2124,7 +2124,7 @@
     "iconColor": "#ffe53124",
     "contributorName": "HeMing505",
     "isEnabled": true,
-    "isEnabledAll": true
+    "isEnabledAll": false
   },
   {
     "appName": "搜狐视频",
@@ -2133,7 +2133,7 @@
     "iconColor": "#ffee5257",
     "contributorName": "HeMing505",
     "isEnabled": true,
-    "isEnabledAll": true
+    "isEnabledAll": false
   },
   {
     "appName": "小马模拟器",
@@ -2142,7 +2142,7 @@
     "iconColor": "#FF55B97D",
     "contributorName": "HeMing505",
     "isEnabled": true,
-    "isEnabledAll": true
+    "isEnabledAll": false
   },
   {
     "appName": "抒发森林",
