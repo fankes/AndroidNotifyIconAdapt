@@ -19,7 +19,7 @@
 
 - Flyme <b>或许可能，敬请期待。有需求可提交</b> `issues`
 
-- 类原生、Pixel 的国内用户 <strong>暂无计划，敬请期待</strong>
+- 类原生、Pixel 的国内用户 [可在这里留言请求适配](https://github.com/fankes/AndroidNotifyIconAdapt/issues/102)
 
 ## 需求适配
 
