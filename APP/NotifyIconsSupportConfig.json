@@ -2259,5 +2259,14 @@
     "contributorName": "fankes",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "TapTap",
+    "packageName": "com.taptap",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAA4xJREFUaEPtmE1oXUUUx3//RVcWd60ogoKt4sfCz0XtQlNRhBhQpFkXaUAKRbqzujDBWpftQpBU0saFoAYSsFWQUpqiYEkotLQ0m5C6MG21q4DZ1MWR85j7GCb3vst79+aDxx14mzszZ87v/M+cmXmiT5r6hIMGZKsp2SjSKLJOEWhSa50C27PZ/lLEzEYljfYcji0wUQ4BvAZcquLPZgfCQawKQDR3bDNh+grEU+uzGlTpWZGQ3m8ATwGXgXFJP3fjU6tqmdl7wIvAg+G3HfDf2wXGxnK+z0qaLVrczJ4Bdsb9Pt7MxoEh4OFk7rCkqeDf48BbwDIwL+mfdJ2O5TdEKlXLHR7o4PCTwCvA7jBmFVgAPgeeT+YNBJh3gLNJX2udAh/+8CySdD6bUxuIme0BjgD7u0iJDMQjfitn3iKwq4O9w5K+8v5aQMxsH3ChC4BsaAskpM+/wAM92Hhf0nRlEDN7LqSFRzVuvwGngT/Dx4s5TsYgcyEl81iyvfdy2LvxmFYK1gFyDPg0WX1NBTOz+8C2vD0SFHHQ15P+X922pCthjBeMH4Fnk3EjdYBcB1yVrE1IOpiG1cxWQkWMu2JF8kCGJJ2LJ5jZq4ADelXN2mQlkJBWDpLrXOLAXeChLhVpgya2pgE/MrI2XxXkXWAmMrggyeVf08zMq1K6j8oUKQL5GvgwWmS1KsgIcCoyeFXSCwUgN4Gna1LEz7b4tr5SFeQT4IvIuWVJjxaA+Ib120M3e6RIkZ/CbSCztVQVZBj4IfLsP+AxSXdSGDP7HdhbE4hfVR6JbM1VBck7kf2RtuYuZmZ+P9pRFcTMJoAPEjvjlUDcmJndyKnr7QtfGPMl8HFOypVtdj8I3da9YOc4cDTHzmAdIH5mfJNj/HvAS64fXm/m7RtgUNIvwcm8c8S7/NI5HypeWvW8f0nSE5VBghNngAMFzmaffbO/lIxp3wDMrAikxGxLsalaQALM3+l7I/LAS7T/J/BdUXr1CNJO4dpAAsxJ4KPI2dt+N5Lk13vfT35PSq/52bsjTxGvin7AutpxWp0AvpV0LVurDMRfbf78bLdOr8CyHAgwhyLlZjJnChSJi0F2oVyU9Fe61pb5g64MpCxIDUhZhLrtbxQJEWtSq9vUKRtvZl6W0yfspKTszd/RxJZRpAy0rL8BKYvQRvc3imx0xMvWaxQpi9BG9zeKbHTEy9brG0X+BzsA2WAypBm8AAAAAElFTkSuQmCC",
+    "iconColor": "#ff38c0d0",
+    "contributorName": "fankes",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
