@@ -2358,5 +2358,14 @@
     "contributorName": "fankes、by32mu",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "R-安装组件",
+    "packageName": "com.yxer.packageinstalles",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAqFBMVEUAAACTk5MQEBAgICCQkJCZmZmampqampqfn5+fn5+fn5+ampqampqZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZlLLxKBAAAAN3RSTlMAAQINBwInWH6Lk18vLYKqsK2LOqVts6anop95NdLq89q4TgTO/psR3FLC4PoXDZMdvz4iRWjISC4XxAAAAm9JREFUeNrtle12ojAQhpMuwe1iSWJjSFAUxQ/EivhRuf872xmKrXtawJ6zPzs/Agfmycy8MwHyY//NKP2W+8PDA0LVeh9QLb+c9/suo4wQt/f78c/jb6/P7skPPJ58LqTkXAo5eCaEdROelOpqXAydDgaIoVYqMMbgEigrfIe05saIp20QGBUqrkJrgsCKEWknxhJ3tzqaTCfxzAYGmHlLapQkAw6IXSzLymIMaFbr5tQYecYgNirLZWVlqjDMhiTNyFAoY2dAvEVZlpk1SvoteTmQl7HbKwHXiYLcwsbMKFmHoCuflh/2IpBxmwSgZAeqKvlygyxnkBnvtyCwpeKfEPPUjOR70FhN3mspyynHXYpGlSnxJZS/uCk/xrz2zTOTkI2AcYH6lzUB1Rslhs3tp6TAAbN6WvUS9DpYlLDfMjEwlRDGWBmjBC9bDYSVo7ZRrgUwMPOHLNMWxgVqK1pPDCOu4hAHIAsAEIE8dpwxRp5WQmHHDbbVyuDYeZIZ2Y2krKNI4Z86ierrMB6tuNCah/6R3UEQmsDh2PXP5/N4BxsktMs7+bwpg6dfc6z2zk/947z3itabH/tF/s/b2/1xXY97fqizKE7TLVqaxlGmQ783zisfehsAHrjefhahX3Q5aL5C4zq7REhHs73n4hBeQwFcePaSbtOLGAzn49M6dyiak69Pz5vhXlfvQm9H6tGhxPUP6TbS/sZ1vizTcTcDyCA+jE4VA1+iKI0P/jF/yzFhjNafe7gyVsuVnwdZnC6qoQZkITAmqvK1mPRNr+JVL67nAIVMunsGkhYf5Sf3/BixE1c/du+flDLyY9+3v54CUuwzkobGAAAAAElFTkSuQmCC",
+    "iconColor": "#ff0dc765",
+    "contributorName": "66Leo66",
+    "isEnabled": true,
+    "isEnabledAll": true
   }
 ]
