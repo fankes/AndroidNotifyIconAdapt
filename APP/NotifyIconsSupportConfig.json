@@ -2444,5 +2444,14 @@
     "contributorName": "fankes、by32mu",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "掌上高铁",
+    "packageName": "com.crgt.ilife",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAEX0lEQVRoge3aTYiVVRgH8N91nCabJCdTMEyCFC0XlpTR2EZqadGnECO5cCO0sA8IChJa6qqPRaDYptYtImoVLiTCjz5UMh1poRKhlVZjmnr1tjjvjTvvPe+57733HTXxD4dhzjnPx/895zznOc9MrdFouB4w7Wo7UBVuELnm0Gg0oq0PDOA57MM5/J61c/g+Gxuo3N8pILIEjQ5tSdVEpmJrLa9oTneoaEVmYQwf44TOK3IimzuWyfbvb59ERrAeP+FiCQL5djGTXZ/puipEHsGeHpwvarsxeqWJvIF6hSSa7TLe7IVIrcjpWq1WpOsdbEzY+hVf40chBP+BGm7DMiFijWJOQse7eLmISBRdrshmxV9zHK9iMQYTTg5mc17JZIr0be7K3y6IbCgweAFbMDfhfBHmZrIXCnRvqJrIAzgbMfQ31vRAII81ma68/rOZ7cqI7IgYuYjVFZBoYrV4CN9RFZGnIsobWFchiSbWFdh6sgoieyOKt00BiSa2Rezt7ZfIMu3LPYEFU0hkQWaj1WYd96eIpJLGQTyD6bn+7ThWtfctOJbZaMUAnpYK64kVWYSd2m/ejmlEBRjNbLXa3olFRf7mv3ZeWf7dMI6jJRyZLazkpez3pjMD2c/fOsgfzWwtbulrZgRHYgIpIoswM9c3jpMdnNgkRJlBgUiTBIHIZXyJt3C+QMcJHDaZyMzMpyhSROZgKNd3Ujj8RdiEtxPjTSzHMF4qGK9r/2BDEtlD6rDHssaJDvOfSIznsVb6UXU20lfob4pIPdI3IzG/IWS6ZXFJWJUi3BzpK9wNKSITQjLXijs6yFxKjOVRF85LDDXcnus7j9NFylJOHdS+le5T/I6o6e6iTL1H5mJprm9CCABRpIh8i+O5viVYmJD5RLnwfBJbcapgfKH20P+zUBeLI3EhDuM9JR88LbhbuIUPRWSP4sXM0dRH3BKRfR/DveZaq7TnWqcxvwMZQog93iJ3Ds+WkJsvBI38k2EVvSeN0/SX/e5ukflB+wUbw9aIvb2ZL32l8WMRxQ0838GhERxomX9Q+oAT6sIxW2PNCf0QGRJflb+wogsi47gzMX8F/ozY2YObqiACD4vXsU7hhQLHZuWIHMa8grlrhIp9Xn89s/0fenmPtGIXXov0j+Cekjpak8c8HtJ+Acps7iqnvdyKNJE/iB9qTyybiG2tomg3jE9zuj/oyt8uiUzDR5mhfbi1aKKwtfa3OHYEdyXmzxPumYZQqY+iKiJNbMSDHeZMN7nIfVj6sMPjeF08854SImUwYnJJ9IxwFvrC1SCy3eQXYgOfS2/Hjijyt5dqfB5DuEVI8pYKJaRRxX9eO4RvhIr9fqFqfwb/lCUS9bcHIrOFULlQqMs+inuFiJR6OsdQxy8Cma/wnUD0tIICRb9EZgi12ceEQtlSfW6RBM4IZA7gC3wmJJwoJlL2jKwUz4GuRFtZxt+yN3vs/X6lUOr5XLi1/m+4bv4X5QaRaw3/AjqUdvTm/ksXAAAAAElFTkSuQmCC",
+    "iconColor": "#ff1064FD",
+    "contributorName": "HeMing505",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
