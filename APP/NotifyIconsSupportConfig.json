@@ -2584,5 +2584,14 @@
     "contributorName": "fankes",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "小蚕荟",
+    "packageName": "com.realtech.xiaocan",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAADYUlEQVRoge3ZTWhdRRQH8F9C1WpTbKtWRW1pF+1C1CoEpVoFtdqNVsUPFFwICiKiIIh00Z2CCwURwaWiGxF3CoofoGBD/QQXWYjVRWi1H6IGjZjU9LmYGd+8eZe8m/QRL3L/cMjcOTNn5n/vf86ZR0Y6nY7/A0b/6w0MCy2RpqEl0jS0RJqGlkjT0BJpGloiTcNIzXHjeAMn4vMo7sGXi1xvPa5CJ4u1VJyCg4vdw864eG7XL2HxhyvinIwdSIHrSmu2Zt8g1FVAXfy7h+U+I39k7WH8optLjRVDCLYYvC5oegYPYm/m+1o4d/OC/gdhJX5MD4nIat1DOCow3YfjNQKeiu3xrzhnQr/0XsV5+CGOuanwn45H4wbrYB7rot2fOq/Uf5DOzSZdW+G/Ovo2Vvg2VSw8zENe2sXpjPxdLHpCfQ1XjZuvOXdoSNIqc3odSSWkmpAnjqrs9DLOwm6clvW/KcjtQoXusVZ4KUej716ck/k/ieOPLudhfyRu5Pai/xA+xEfx+UmB6Aiexm+4EZfhz2Luz7gv77hcr+b+EqpwwkJn5CJdKSbbWEHk7ooYuf2CyaJvRkgaC817geVLv8/iqQFj1kbLcUaN2I/jzGER6Vi4am/Bx5jGdVgT+48Jieb8GmscxCpdskewH2OCKnDy0po3WFoJ+7Nxb8W+cTyDD4o4E3gCW+O4zyrmYvkrO/yUtW8WXsg+fBH78nT+mO7t9lZckfkO50ETkUGXuapasdR72vO4LbbH8Kkgk3cwJUgt7WuvkKl26cox4bmq4Nv0ftI54TqRsEO/tHZE3wb9WWvDADKfV8RLVsYq7TjuLAOmtzpX0Z8XxVUVm8kLV/lFBxXUnULtqMIgdcwIEnsl2ma6n7DMGsfwa/a8pfBP4vvYPiIUrTWZf73es1BiWiCzTUgkm4SCt1lvojiEr/CdUP3fw4vYk405jD2JyF3FQu/rvbbsLvyvZe1ZvCtU7YRb8E0xZxceEs5AR9D+VFxnLm5orCAyrZui1+EB/S/10tQ4W78Ox7OBF1T4t+rF9sI/q/86/lJFnGHZ6hW4Q6gD6R4zpZsK4Ya4sXSOJvFtscmJaJfE5zFBOm9nYw7gd8PHSlwz0v4PsWFoiTQNLZGmoSXSNLREmoaWSNPQEmka/gEKj0W0l4wMCAAAAABJRU5ErkJggg==",
+    "iconColor": "#ffff9000",
+    "contributorName": "HeMing505",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
