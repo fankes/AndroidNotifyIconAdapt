@@ -2782,5 +2782,14 @@
     "contributorName": "NekoMua",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "盒马",
+    "packageName": "com.wudaokou.hippo",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAElUlEQVRoge2Ya4gWZRTHf7v75qqUlam1ZVqRpLlWH0wslG4baWRFXwoipTKoSOpLBAVlUIRQWZFmF/rSlUoooiwSWSzKCpIUUbTLmhRRkdUauuvue+Is/8mz48zO7K5GH+YPD+/M85w585zb/znzUqFChQoVKlSoUOGwocHMyuiuAQuAi4FTgX3AJ8C7wLf/h/CUMWQW8BgwJ2PtT+BJ4EGgXvKdDwNXAr2D326fQzcAtwD9N+6GDDAWmVmnHcAeM9tsZh3WH2+b2cQCXclYZ8PDmiy9tRzLRwGPArfrvgt4ClgB7NT6ZYrEWcBVQCtwI/BxgVc3AieVjEji9XHABF23Z0sebN3pZtYefNZjZsvM7BQzm2RmUyRzopldYmbbUhFbUhCRRjMbaWbNJccIM1sR3tGWpTc9scDMdmUEvku/9dR8t5n1ZsivMrMxJVOtzFgrvb+Y2YQs+aTYG4B7VIiNCpanUI/WkpGEuyEEtR7mPfxH6f4LYBGwLSMRGpW2zoBbgRcGSK/xkjkO+ByYnZda483srVQq3W1mTUPw3HQz2xB0uQcvzZCbHGTaC3ReFGSX58nV5MljZVcHcCvwITATuA44OhWBhtSvoxv4CngeaAOWA4vlzSMy/HdmuM4u3gOYGa6/zJWSRV7ET5jZabq/2sz2DoEk3w+RvMvM7sjx4CPhmXkFEXldcr6fk/Pksg7EI+XdKcB24NMQgUQ4PlSX5y/XgXUz8GKBlz8Qfe9Vx/B9qM2o12n+PWAysEs036m9eBb88O9eMqybFrw1ZxD1sUbPPFsg587bIllnwX0DjO5U7SayXYqQ11dr3oG4G/gDOEb1csJB7UAqOxWRc3TfURANl38DWCrPNhfIJ2jSiLgAeBW4Iq/Xchq+t+QLIn4EzlMaDISayCAp+oZCzf3lfNNzgbN1vzivRXlA+eus1aJ8zYtKY2Ct+0oYgc6nVSU3nwfPlme0NjrPEH/RQxrNMiJ9EEbU9cx/iX60nmfIPOBCYEzYYJYRFtYaxHKrlWIJRivCY4fYuqOo/y09f2ku1ktvmlFqZrZyCOdHhLf4s4POlmHqS+AN6digd1lYuz7N3QuB23TtNbJDXt6tuR59EW4Xn6OvxR0hCs75z+k8cuwXCw4X64Hfg45z9esR+i6dWgv1+5NTmjZYV2HeAHwEXKsUeUftiNPfncBI4H5gCTBDrUW7Xn4+MGIQ7JSFn8PcjNA8bgY2RUNq6qsQA23UdZMedHymSHjtTNWcf0jt0XhThqCPIeSIrYcgIgncYY/r1He87PUTU6snFHZ3mJ8U+H6dfs8AJkpufZDdH667DuHmE7SKTNp0vwV4CUXheJ3MTSGv3ZvTlQrzlRZdWvf5ayTXqZN/lGRbw0unqocq8zdNk86fpBZbwp68M5+mU3x+2ONvwE1is75e67Uclkh/DdbDGGguS0/RcCwNvVjRHxSbzGxW+ntkXI6X0oWZVahlirdsgX8TojE3Y71XtfYKsDKcJ32oKcd2hvweDrMMBUlLvlbPego/rXR1ovhV+3N2+jpVvxUqVKhQoUKFChUON4B/ALMhNo22uTOzAAAAAElFTkSuQmCC",
+    "iconColor": "#ff2196f3",
+    "contributorName": "NekoMua",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
