@@ -1437,10 +1437,11 @@
   {
     "appName": "小黑盒",
     "packageName": "com.max.xiaoheihe",
-    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAMAAAANIilAAAAALVBMVEUTFxsUGR4TGR0PFxsPERQTGB0TGB4AAAATFx0TGB0AAAASFx0TGB0TGB0UGR4gMV0hAAAADnRSTlNC/t8hEO+fAaDPAGG2hQWKIfsAAAElSURBVEjH7dfZsoMgDAZgwiIFSd7/cUvr0gIGWWbO9OJwq9/oj5Cg8BND/CDGoMbxg2hRE5gI1QQmuU7gKr/HlegtmOVtmCRO4OvozZjIqRus0bG4jC5SakhWMEG6aL7xKl/ZajiL/sEibFfrON4gSozHtTtMsBbYsBhD/uwCE4dBbJMxin3Ke7FXOIEjDxPY6xlsZTO2atnGuRk7sLf5HurB/h//Jbb7GMF6XyRn1evB4qyZ7djoCUzHgWAIHx19EMfibMfxm/dgk9XXgCx2ZdEHrsjnGPCi3UhowRAE3+jqGKTgWqy6fPcvbLDW3NUCPHaob44VygGDm84kefQuHD+bnMBp9F6c8H78ig7j+Jy5MbwvmkH8jg7DOPLrA+/P/lc1jCdxxZTGA65cYgAAAABJRU5ErkJggg==",
-    "contributorName": "SRainerc",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAADfElEQVRoge2aXYiNQRjHf7tr1yJklwufxYUSJcr3tyK5dIELQkgSJSluxIXiVqKEklwqX1GUuBDJV+4lLeVzN61v1l/Dc3Kc5ux73nnfOXsu/Grabea8M/Of552ZZ5556/AgyZedhiPATeAC8DlrZaXU1Xm77ReSMXVI+izpiqSZOdT3T/JRn/doGS+AZmAJcBU4DIyP1NZvYgkptn0/YAtwH1gHDIrRYCwhzZ683sBJ4BawskRsZqoppMA44AxwCZhc60KSlj3X7lLgLrAHaM3aYCwhldIA7LOler3NpyB6yiKluBXtOHAZmBbSrxAhq4AJCb/pE1CvYy5wx0SNDazjL55NqEnSckm39YeVCZtWp7LzRtI+SSMq2RCThDRKmiLpXEm31icI6chBSIHXklZL6h8qZICkQ5K+eirfmCDkeY5CClyVNE+Sd/8pN0dGAg+BrUBT5UMQlUXAdWBXGiHbgTERe3UCeBzwnOvv3nIFPvpm6may+7ETWAAcNAczDQ1phGQ9kPxIKB8MtNtrMsMsVOm5xdu3WBvih4Ty9qL/24ANwArgdmiDPeWi+F69i8BC4EBIhbGE9A9s9wuwP6TBXiEPVcADYKA5gfVFFii8cu+7qcI7mZOIJWS5iWi1fcj5Xh+Br8Ab+1uOoGBFLCHfLHUEPpuanj6P5MZ/IbXGfyG1RqxVq9GW35/AMBuwV+aDubzOvBuMJeQ8MN02tyZr55vtJU5gS8JekppQId8Tyid5QqO9io4Hbtd/naeQ0DnivNWh3ZQnjXbme4tSQoXMshPe5jK+UWPC8zUjBDscuQudG8DUkrLgiGEo5YSkiZTPtqDAWWCi5cVc1r19KzfZP6Ws3FlgGTAfOG1XCN2R5dXqqviXkkZKehIhNlVgfEJcrBxdknb7+lzuFWizu4tTea/3RtJi4ONa6qNw0cg0SFos6WHOFpmYwiIvJe2QNChL7LeQBlr89VEVhbRJOiZpaB5B7NLk4sF7Jb2LKMQFzjdJGp3mejqtkEIabgHurkAhk2rlnt2FObcBcywelZbcvV8vKUeoXtIaSc9SWKSlVixSzE9bpp3He7SCcGle7UarsN2+cFhg55GqkvfIOLvfswDdWuBptcTE+sypQIudXZylRhXlDwHehlZazc+cSpPz3Q7bxaZjSN6TvVpCXHLujrshviypNVchwC+YrMff/QlqtgAAAABJRU5ErkJggg==",
+    "iconColor": "#ff212121",
+    "contributorName": "SRainerc、NekoMua",
     "isEnabled": true,
-    "isEnabledAll": true
+    "isEnabledAll": false
   },
   {
     "appName": "优衣库",
