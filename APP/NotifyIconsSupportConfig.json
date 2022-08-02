@@ -2856,5 +2856,14 @@
     "contributorName": "NekoMua",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "ZAKER-扎客新闻",
+    "packageName": "com.myzaker.ZAKER_Phone",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAACPElEQVRoge2YPWsVQRSG34m5SfzAH+A/sLW1UoIS5NrY2duIqKiISBBFCxX8D3YWlpaCf8FWCH5FTWmjGHMT88jAXLiuM+7ZjXd3LswL25zdmXOePWdnZo+KioqKivqQi/kEvkg6kmFGXki65Jxbr96YSwz4Ov2YWmko6XJsYAqEvOL/Q8OYMQUSLblMdLAJSM4Z2YkZUyBL043l/2s+MeOGpMMV+mmWm6+AUVgpF2ue3RczpkAuSDokabdid8FpDCplr5MftylpWdJjA8iHJiBrLQLai477/SH1IU9oW9JTsx+gy+sk8JZ6bQFPgAM5giwDHw0QP4GHwKIflxuIh3hngNgGHgDz47E5gZwG1gwQO8D9cSZyA1kxlpPPxD1goTpHDiCngHUDxC5wp5qJXEB8Jj4bIe4CS6m5+gSxZmIErKYy0TeI3yc+GSB+BYhB3Zx9gKwYM+E3u5uTS2xOINbV6QdwywrRNcgZYMMA8R24Dcw1mb8LEP9Wz/nmhQHiWygn19RPFyD7gZfGTFxv66er0hrWZMRn4upefHQF4q/z4a1X5feJK02/iT5BfN3fCOelsfxR/FqT1SkHEIXD3qMAsQlctGx2bUFSLVM79b/l/79XJb2R9CzSA2gl5/4OOwVyVtJRSVtjUwuHLnRhXPjXHkx0QJh4pokWJL13zj23grySdKLV65q+XjvnjlW9pBp0o0whlIptFlum0dhSIDOnWQRplJGcAQcxYyrgaKM4E0VBioqKioq6l6TfitVG3QZ3kecAAAAASUVORK5CYII=",
+    "iconColor": "#fff44336",
+    "contributorName": "NekoMua",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
