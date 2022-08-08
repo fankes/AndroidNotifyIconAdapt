@@ -2892,5 +2892,14 @@
     "contributorName": "NekoMua",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "夸克",
+    "packageName": "com.quark.browser",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAADhklEQVRoge2Z24tNURzHP+M+eXAneXMnjCeXIrdSrpP7kzdJeSJF/g15oITxPhfXF2ESJSGTolxLGcXgYdxn5quldXQca5392/vsM4rzqf1w9lnrt37fdfut/VvUqFHj/6AupFJSVvGjganACmAOMBwY7P/rBbqBB8BV4DHwLksjdXV/uj0oq8dFOEeXA3uABmCKsd4zoAM4BlwBvuXgy++4ETE+myXdUuXclrRVUp2l3TyFTJPUkoOAUlq97X4R0ijpVRVEFOj0I11VIfslfa2iiALfJR2olpB9/SCglIN5C1nve6m/6ZG0xSLEEkcmAzeBCfau+I2v/sfQjPXfAIv8dv2TUBxJEuL+bwEaUzT8EbgEtANdwBP/3gXKMcAyYI0PllbOAZt8UA0KCVI0jBtSTKU+SU2S5hq27zmSTvo6VjZnXSNDfKCy8F7SxhSBtLijuoxt3JNUn0XIyhQilmQQUXgWS3prbGt1FiHNBsN9GUcitCtapllzWiEjJT01CDmTg4jCc9rQnvNpZBohCwxGP0mamaOQqd5mEgtDPg+IaFll0HseeGTunWTcNt1qKLc+9DImZLbB4PUKnI7RbigzL/QyJsQSrN6mdjOZ14YyQZ9jQgZH3hf4VhSx88SdBPoS7A1MI+RvMSarT7FKvQn1hvizU56MB3Yb7AV9iyUfug0Gx1YgYhywFZgPTPRrcgYwyVA3OPViQh4aDC4FjhjKlbLOZ04sTofoMJeUtMgYEKenDHoTyxwSrSfhxSGfY2vkUfGHTIR64HDK3tzmk3gh3EdG0kHqWWy2xIR8MA7hTj9VrDSkKBuiw/tmFuI4ajDs6jcBweEOMD6D88UcL+dIDHcEuWsw7qbKWWCDoWyaz9tS3GhcS1WjaHE22tbfr8V6StKsyEIfIellwsIut+B/ZVNCJCUf3Ii1xU6cEbr9CLkR7QReAKOAfcDG0qaKFnm5jMJFnwDpIWMWBZ9dv1FBOugzMCzB0XKY0kGWc81Tf2WQdGyJUV+BCNejew2hIFI7PMcPpFgveXEo5EulQvC52P5InfbGROQlBH8h01lFEa8lbSvnQ15C8JcxbVUQcc5yfstTiHsGSNou6U4OAu5K2iFpoKXtEHnc6g7zt7i7Ul6GPgfuAyeAy8AXa4NZ40ga3HFlOrAWmOu/dwpbfJ8PaO56+oK/nu7K0og5G1+jRo1/DOAHecENGsymWcEAAAAASUVORK5CYII=",
+    "iconColor": "#ff6f64d1",
+    "contributorName": "NekoMua",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
