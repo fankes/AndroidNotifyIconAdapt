@@ -2946,5 +2946,23 @@
     "contributorName": "NekoMua",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "竹马",
+    "packageName": "com.zhumaonline.exercise",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAE6UlEQVRoge2aa4hWVRSGnxlnHFJHrXQsKUirycpMmrKokYqxULoMkmXRjW50oZL+VBYTQaGBIURCUFBoCApFIMp0/xFRdLELZTl5pXuKRuPoON7e2Lamzuw55/v2uXwz/fCFzTnfnLP2Xu/e66y91trDEfzPUBVVR1KltHsQeAf4vshOq6r+U7+6yI5L4CJgpT9xRaJSRGqAemAMMM4tNnAWMB0YUokBizSt84ErgWZgLDAaGGaT5a61wE7gN+A9YF5u5SOmVZOzr+OAWcAdZj7lcIy1BTnH7YesROqAJ4C7bPbToBM4CJwEbC2a0GE40wpoV0j6UPnRKald0r2SGgPH7tPyEHm4AAJx6JLUJml4pYkMkfR8hUhE8ZmkSytFpFrSqwNAIorHK0FkyQCT6MUCm8RCiNxakFIdGeXaiiDSJKmnICIXSrotg9w+SXPyEllREAmHFutzcwbZ7ZJOKUckaUOcA8xNppwKPwK/mIALHB+1+y3WtlkYMx44LWaDdfHaZcDG4EGN6VBJawtYhV2SFklqiMzibEmvS5qRsGeMlXS9pFVmVg4vSxppz4dJusWuZYlMLYCE27EnxShalWLDm2bOpvd3naQ11v8Un0hcGH9dXlsC3gTWx81Vij4+BZZGfrvwf5Ldzy4paaw3FbAiDvPSxk4BbZn1vV5SbVR3f0XOASakmLUkrLScIw1ccjG0zPvf2PVUYEopIs0FpKPLgZuAb1PKObNrKpNafG3Xaj//8Yk0pRzcx3NG4kBGefcdLLP0OA6bgB77+7nR5z6R43OQcLPVlkPe4QtLmb8ErolZnS5gn9330dUn0pBRgV+Bq4BdZd5zH+j8EuazB5hh96/xD7G7vfd7PV9d4iiSfs7ooZ4M9DonSNotqTlgD4mGM29LGi/pWNtoHT6O6u6vSA/p4ex2UaBUvVVU5pd5z+0hZwP3AWvNm7aa7FH2zsGogL/E24GJKaksBHYHvrvRzPByYHIZz+bMdJWZ0gjgFeD+SF2sT33MJ7IjHYfDAd+KgPdGWFDoPtB1dj/TI+LcfrXZ/gQrMT1gOrpy67PAGmAvcCawH0/4X0h6BngkBZH3gZaEZ6PMNKaZW2/wPtDvzIV22+/hVtRzZE83F9xl5u4210PAVGAD0IFXoOsDSa0pP/LHEj5WF+VuCJCfmyI8aYzIbXUhUOL0ShojaUcgiUOSpnuDuRTgBXsWgq9MJoTIQ5F+/5J0cikirr0RqERnTE6xOFA2iosDSIyW9FNEZnlIPjIrUAGXzz8t6QyTuzMDCRn5ckQWejItIUTcprMzhSL73eZky50Fv9uYSSQmSvoj0u82SUeHJFbOBS9JptsPzj1eAIxMIRPFOPNucWgE3vJCp8XAnyV7jMyCY7wu4wxnwZbePNzaKEn3xFRdnHOoj6uiJBFx7doBJOIwU9JkSU+VyFJbk8pBpYjUSlo6gERcRf5AiecvSapJIlLu6M0FaJ/Y+d9g4iPgkn5hSYpT3W7L+DYPIglXjbnRJ+Ej9DDUeY/2DJFxXnRYcBl7RJflnP0HCw7fHUAS7VYqTX/OGLDD1loJc28FP/o9kl60U7KS+uQh0tvOk/R5BUh8YC44SI8iiPRGurdbnbc7h/JuBVZLutl3r2mIFPWfDy4RugG4GjgxUMbl+qutKtmRZdDExOoIBhvA37Mrt9UJZj8RAAAAAElFTkSuQmCC",
+    "iconColor": "#ff1a82f7",
+    "contributorName": "NekoMua",
+    "isEnabled": true,
+    "isEnabledAll": false
+  },
+  {
+    "appName": "安居客",
+    "packageName": "com.anjuke.android.app",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAADCklEQVRoge2ZX2iOURzHv++miRmx+ZeIEootkZY/LVLu1nbngoldKDeKuSIXu9lW7lA0F4o7pDbJBbEr+VPkz4UaIcTFahjLbPXRaefJ6Xi253ntef+M51Nvvb2/8/x+v+85v/M7531fpaSkpEwqMm6yQC5y3ympVlKLCZGk40zmd/pTknQcwj5JnTbOXEnNkoZzHHN0RRJ8HeFPuoAZScXIh5D2EBEBPcC8YhcyBTg3joiAx8CyYhUyHbgakvQhYBcw5H3+ClhTbEKqgNteooPAbmfMDqDPG/MJ2FIsQpYCj0IS3G7tZUCNfb8WeOmN/QrUF1pINdDrJfYcWG3t5bbcfgB77GeLgfveM6bsmgolxJTERy8hU14LrH0+cMezt1jbTKA7ZD8dzLeQelsSLheBada+AngakqjhhB1TAnSG2FvzJcSUwE8veIdjrwXejSEi4DxQase3hthP5lrIYS/gCHDAW6kvESICrgOz7HP7gWHPfsE2isSFtHmBPgONjr05ZKWiuAcsss83hExC93hXmmyFmFo+4wV4A2xwxhzLUoDLC6fLhZWlaSCVExViNu9lz/FD53phRJ6egIgA0/3qrM/lwBPP/gBY+LdCzCzc8hxec+ranBGXEhARMOCUqol907M/8+9ncYQssTPvctZeCoMzoidBEQEjduObGFNtS3cxt4JVcYVUh1wjjjoiV9rZySXHnXgdXpz3wLooIXXexa7fu/htso7ywSkgY+OaE/+bJ2a9m7v/nb1GUpWkIWv7IOm1NTdIuiipYuypSJwrkvZK+i5puaTZ9qtyqaS+TCbzNmqP+K9GW7+F4MZYB6NLScwp3GZnoRBsljQrKm5cIT8KJCKIHfkzUlwhmRhjCkpcIUXPPyMkF780jkhqkxTeGkdpkrQ1yaC5EDIoqT2iQVQmLSRXmz3q0Jyapb9I0s1ebMQVkpM/TpLkv1uR9GTPF3GFZNMuy2OsYFkW/iriVETcA/GupI0xHJqJ6ZU0EDGuS9IcO36sRmJymyGpP4a/lJSUlMmEpF+OGls05+yCDQAAAABJRU5ErkJggg==",
+    "iconColor": "#ff27c893",
+    "contributorName": "NekoMua",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
