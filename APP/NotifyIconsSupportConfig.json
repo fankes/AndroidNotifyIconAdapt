@@ -2964,5 +2964,14 @@
     "contributorName": "NekoMua",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "剪映",
+    "packageName": "com.lemon.lv",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAEQklEQVRoge2ZXYhVVRiGnxlHbcYpLSyhyaQupG4iJqLMfiSLwhArRJiiH6wssL9J+qOomygoJMoQRLAMhMqI0puMwIsgMrKrqZRKu8gszMyyqGnGJ1asPWx3e++z58w5x5vzwuKcs/Ze3/re9a31rXetQxtttNFGG21MAB1JUzV8nALcDVwTqo7DwP4DvAZsAY5UadDR0XFshTpL3eLxx9/qqjCwVUqCzhSXa4HFjRzeOjEFuBnoLWl+CfB8/PwPXamHMzMvfwP8miHbLIwAc4EZ0f50oDtnel0IrASWAtOA3cDHWSJHM40eBran11ETEfp+EVie8iXtz2XAijhjpqfqx4h2lfgWonG4BSQSpEd/NCab+cD9wBJgak6bsUEuI9KKKZVG2pdZwFvAPKAn590hYB2wI6koI3JCc/wtRFjkCcJaWZjz4ieRwFbgYPpBmkg2AquBc4FNwI9NJBDm/I3AgpJ3AoE1wHvAH6XW1OUFO8gudVA9vWpur1hOjX3uUI/m9DuqblOXqdOKbOYRmaO+pP5cQOhL9dEGEAoE7o0E8hA2xA/U69UptezlEQmlS71cXaseLOjo20jojHESCAPwgDpUYPd3dZO6qAqBWkSSMkm9QF2n/lTQ8W71sQoR6lMfjxHNwxH1TXWBOnm8Ea5FJF3mqWvUfQWOfB0jNDvT7iz1KfW7gnYH1I3qlXHg6pqqCbLqtwhdMYOFnXcg5vksgqTZCHwad+LbgNk57x0CNgOvAjuj4q0bifqtSiSNfuAW4AZgTs7z4NjknPp9Mf8nZLOSqC7kyfjxlrnqC+pvBVMnQUgaT8S1UvcUqjW16pUhnVEt9xZooGMGDZgUv4/W2V91VByBkJ6vilnmUEEEiiL0vfpsTAINj8gYKhBYqL6tDhc4+rm6Uj1PfVLdU0LoOfXsVhKZqi5W34kbVhZBRuxU74lH5XTbM2Na3ltAKKTzZ9SLmkkk7KxL1Q9LFvFH6gp1Zo3O+mKEdhXY2R+VxPkx8g0hcqI6oG5XR3I6/SsSuLUCgWxJJMpXBYTCBrk6bsATInKO+n5JBLaqN0WyE5nXYQo+UhKhH6I06q+SrvOI3Jdj9M8opZeoJzdicaZKEqEiDfaL+oo6v4xQHpGHMoY2RyXc3WAC2XJajFCIRB7CGtqgXqx2ViEymDEyoWxSRwkZrAyH1fUxQl1ZImU7e3fJs2Ygrb2GgT2ZPk4C7gTeBdYDl6YvJsqIjLSYSBp7geuAO4DPMs+CNLo9CtArksoiIiPRWCuRjkjQZvuBDcCieLs4lPFlRupmsvAWJdSvAr5o0f1WEJZXZ34n10MHgLXxDDMQzzn9WZ/TRIYzxgeb53dNjOYo5UDoZeANYBlwV+5fH3FDLBJ6rcbrFeRKb9icE/+zJ8Rw6nsa6IvVPTFSEzqOVkBPjMCReLv+YDxR1sT/TohttNFGG220MV4A/wJkUK6gFI44lAAAAABJRU5ErkJggg==",
+    "iconColor": "#ff3c3c3c",
+    "contributorName": "NekoMua",
+    "isEnabled": true,
+    "isEnabledAll": true
   }
 ]
