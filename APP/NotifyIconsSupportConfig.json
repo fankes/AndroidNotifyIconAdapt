@@ -3053,5 +3053,14 @@
     "contributorName": "NekoMua",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "铁友火车票12306抢票",
+    "packageName": "com.tieyou.train.ark",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAC4jAAAuIwF4pT92AAAEO0lEQVRoge2ZW4hVVRjHfzMaNlqU0oxWM+IlzYkyJpPpAlmJWnYRlOj20ksPIoWUYvggvQRWD5JB4EvQg4gv4UtJEaJ2e9A0b4VaaTHhcUadCkc7OfL34dvDHM/Za+919l6nc5D5w+Ic1vrWt9Z/r++2126SxLWA5npvIBRGiDQaRog0GkbXewMxaAWmAXcB10V9PcAuYMA1qRGI3Ax0AA8CjwHTozahROY/YDewHtgBVOSMpjrkkRagE2gH5gFPAeOBNo+5PwHPAr+WD/xfRNqAh4DZwCNAN3BDRl1vAe+Wd9bKtJqB24AHgCeAe7FTGBdAd2dcZ2gitwJdwBLgGcxxQ68xOa4z1CLzgQXA48DcQDqHcBq4BNwONAF9cUJ5icwG1mDmMyFFtlr8DWzH/OsejATAuTjhrETGAq9gjteRUYcLJ7Cc0YsFhjkM5xOAH+ImZSFyPbAWeDP6HwoHgU+B48BCYBWVlccpLI9UoFoio4DVGJGmFFkfFIE9wCfAzxiBd4ApDvltwB+xI5J82yhJr0r6V/lQlHRQ0gZJ90lql/SypK9T5p2Q1OHaXzVEFkoq5Nj8bknrJS2T1BbpnC/pW4/5pyXNS9pfNaY1CysvisAYh8wgVhcVMXveAxwAvgOOAOdLZF/DMnRLyrqDwHtYAHCi2hJlMhYKp2M+0or5zUXgLFCIfvuw+H/GoacL+ByY5LHmBmAdVz+ESlRhWlnbTZLujkyjNerb5GmS2yRN9FnHZyO3ZCQwSxYcdkn6R9KApE6Zw/Z4kDgkaarvemkC3ZL2SfpA0qOSxqXIT5S0OJI/ULaxHknjJb3oQaIgqcuXhDycfWlkz13AS9ib2snIF/qxhDXkK+1Rm0Z8MPgmmrMsZU1hyXB/ilzZLDfLOyWd8nh6PhiUtFx2YkcT5C5LWlnNSQy1pMuHh/GLKj44h53IAmBqgtxG4KMsC7iIjAaey6LQgb3AIWARVxeApfgMeB8r2auH46hmKHsWL0dR0iJJz0u65JDZKYtomcO8a+AFmV2HwAVJXySM/yjp/jwklOAj3VjGDoEWrKqNKyGOAq9jppcLLiIz8youwQCwFau3Ssn8CbyB3VflhotIqNfWM8ByYCVwI8PvMH1YrtgeaB2njxwL5B8fRvrWlPRdlJUuzXn9orS5Bn4JQOK8LBLNlNQb9Z2VtELSmJAklFCihLh+3IK9vm7ESpgCZmJbA+iuhIPhjpynUZA0R9IUWR45Lis6g55CaXM5+7Gcz+djhq9tVgNPAztz6kyEy7QO59C5F9gU/T+JmVbN4TqRr3BcTaagH0twv2feUUa4iPwGfJlB31rg++zbyYEEB5oh6bCnc/dKWlVLZ05rabcoc4G3gSepvFnsx3xpH7AZu/qpG3yug1qwqHMH9pXpMubER7Ci76/abc8f9fiGWBNcM9/ZR4g0GkaINBquANMfjKfgNQ/FAAAAAElFTkSuQmCC",
+    "iconColor": "#ffff5722",
+    "contributorName": "NekoMua",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
