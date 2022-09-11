@@ -3088,5 +3088,14 @@
     "contributorName": "NekoMua",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "有道云笔记",
+    "packageName": "com.youdao.note",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAC4jAAAuIwF4pT92AAACnUlEQVRoge2au24TQRSGv3XshLtASEgIKKmooKCiQQrwBJR0SJA4CQXPkKfgAUBybCQegTwBFUkkeq7KhQiBCPkpZi0b2LFnx2fsDfInWbbWO7Pn85mZM7tyJon/gdqkA7BiKlI1piIlmQUeAC3gGXDT/AqSUr8akpqS9tXjraS7ltcZh8SKpB39y5ake0dBZEbSsqSvBRLmMqkkMklLknYHSPTL3KmqSFPSdoBEl01J81UTWVDxnEgqYylQk5sTMRJdNmJlrCTqCp8Tw4jKjIVEQy4TewYSXTZUss5YSDSNJfpl5uVWwKQiDbnhNMqcCJEJqjOjzolBxc6KzRCZGIluxU6Zib8ZugMoK1GmYlszcAdQVmRR5Sq2NVuSbqkgttD7kQxYAlaBs+b3EuFcBRaLvqgHNM7yxqvAGcOgYrlWdHCYSANYwEmcso4okvXCo0XjTb3V6aHSFLtY1iRdVEG8meR9QHcdeAVcTvTLlkHAS9zo+Fh0gm9o1YDbVEMCnMRj4JPvBN+qVQNOpogogjVcJrwS4BfJgDnriCJoAU08w6kfn8gMcMkyoghawDIBEuAXmWWyIm1gBfgQ2sAnUmdyxa+D20W8L9PIt2odA46PGlEEQ1cnH76MNHAy46QDPCJCAvwip4HzsRFF0GYECfAPrTngRGynJeiv2J9H6WhQRsYxRzoEFLsQfBm5MmrHAbQxkgB/RlLvsboV20QC/CIptyfdih1c7ELwiZyzvEgfbeAJxhLgnyMXrC+EkyhdsUMZtGm04ifwHHhKIgnwZ2QduB/Qfgc4BLaBL/nnXeAdvaDfAK/zc5PhE3mBe9hwAzjIg/oGfM/fN4A9XNAC9vPXIS4DP4BfeV8HiWL/g0H37EeK6T8fqsZUpGr8Borc5EOyQe7IAAAAAElFTkSuQmCC",
+    "iconColor": "#ff2196f3",
+    "contributorName": "NekoMua",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
