@@ -3115,5 +3115,14 @@
     "contributorName": "NekoMua",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "叮咚买菜",
+    "packageName": "com.yaya.zone",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAWlBMVEVHcEwGBga5ubkmJiZxcXHExMQCAgIBAQEBAQEBAQFfX18EBAR5eXkFBQWcnJwEBAQqKio2NjYODg4wMDBycnJEREQdHR1KSkohISEXFxcAAAA9PT1UVFQAAAD51XoIAAAAHXRSTlMAzghOFBjm+dryJphMszTAs3SJnXMzgFTKbKSWcLCboDcAAAHESURBVEjHnZZZgoMgDEARRQF3HatduP81h4DaqYZgJ/1oijwSslXGDtJIVRRFkm2qajmjZVoKY0XV2a52GUkIaVZJ0nxTW5J5wpbCn/5We8pIYne1c5qs59derYnrNNYZpRnLPFPbpcp+SxFH2AwOqQaWIog7HTznoHSwNEQcYyOcqVflB4xAFF5UxCpwaLF+zMbkGrJpf+cNmZjSJaJhwmbGnuDS9KKzn7lNea+lqbNBbXEjpfFJl9JIryUihryU+RRZRYhy3Vi4j1dvFMBrtynv+kkIMfWdNzlEifEd1MpbDdsZnIn0Y+3uDM0BwhWWnI7ZzcPZFC2U4nTyNgUzJVpmaaibbhA2jd0djKCzwXX3iJUK3ARPWw9FwHG/Ar2kofMqvFXGQCyXtXsO0uHL2zOsbBYCgZiV5+WEQHoc+YeVyF2wcn4SEQs4Hc4LnxSel39knz/AzFc15gY22n9weYO6LOCRmlG3zBOPi1ZYV6YFNczcebk+Eyo4y/jzxDjC3ImpNB6YVEXmmJXHB3OFYJljpL5OWKbeGU+ULCp8Y/y7wgVis5Pc5WXCMu3+53KR+MNcJnbmwb4Q985Qsq/E2gnl4xf+BDqhyIG5FgAAAABJRU5ErkJggg==",
+    "iconColor": "#ff219242",
+    "contributorName": "Ink",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
