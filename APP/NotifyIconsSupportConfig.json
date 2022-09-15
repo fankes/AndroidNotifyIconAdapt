@@ -3124,5 +3124,14 @@
     "contributorName": "Ink",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "今日水印相机",
+    "packageName": "com.xhey.xcamera",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyBAMAAADsEZWCAAAALVBMVEUAAABHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADMHXDdAAAAD3RSTlP/AMbeDbvuMkt8JRmUaagzEStdAAACWUlEQVQ4y3WUz2sTQRTHv2yarcQYeM1KTLZdNOhBc1lZDVYvXVxEEcFUvK9EcyhFGi9Cc6oixEMhKkh7EAxFhJyM3oyH9KaQQyKKeBCKeCvkb/DNzLrNj/V7mTfz2Zn33s68B6Lccx/j0k83iUDGHqaVdJnsAKduj2sZuEgwbf0bTeqGH3MxjwJN6z128VpvRxDTT6B7hKLUT+L4DI8fO50OB0rGQyk2lzT4Z4msCqs8IJpTMd93Ka0DJ4gacn6Y6EqQTkl+w8SODYdDsMPLWO31ejcxG5BjSLCPPU2QElsWDgXEEvtoDVUmwloIyTsMMl830tgNSDYkXbi8nOUQ1GkHex6t8md3jPI+k5Oe5x3sMWreVRTcmogg5jhOMSSPnUoFxYpTYKL0j/SD+SyTe/l8/lZIHuTlFH+mopb6gDhFEtMWAU/mE26ZyifcwuRMq9X6NEp2oLkkboGvBf4oaeCcGJYm8mFd08VlUzavtD8SwfrECxnJh+gtv431KPJGergQQWzlvDpOzM3t79iq1+ubWPy51RwhL3lMqbcpLDckFnSnqB6+VXZ8XApJP17zvMCd513vpkJil9Rqy5XDPJoByWBDLGR+4zwb5g/DH4RvVIba5Um8zWtt+9kYsZDafsHO03AnSEPjPPoa5T7TOMmx8fTLE+lSEa4sSbKo8p/TZeJMuLK4GiU5qpmylcwowtXIFSxJOqlKcUURrmCueknmkmuSJCQRVc+dQp2WUv3nriSiUxi2/kuQhbB4mbwS3UV0JNGSlgMiupMvOxIZ3f91sajOt8i/4y9q57CqyAfTlgAAAABJRU5ErkJggg==",
+    "iconColor": "#ffffde03",
+    "contributorName": "Ink",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
