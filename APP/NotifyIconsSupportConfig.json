@@ -3168,5 +3168,14 @@
     "contributorName": "NekoMua",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "EasyConnect",
+    "packageName": "com.sangfor.vpn.client.phone",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAACXBIWXMAAAsTAAALEwEAmpwYAAADbElEQVRoge3by49URRTH8U8jj5lxofERJEJwowuj/wIzA2o0LklcmbCQYNwZMCpoYKHGV5ABiVGIO4krowIqPhbGf8ONiZgYFyauRFDbRXUnQ0/37Vu3qigzM9/NzUzdOqd+UzXVp86p7vX7fWuJDbUHcKNZF7zaWXOCNyb2vwvPYg5/J4+mPTPo4TVcjumYIngb3sXtCTZSOIdfYzt1FXw3TuG2jv1TWcLnXTp2+R/egZPqiT2ho1jiBe8YOKy1jE/gfIqBXkSktU1YxnekOEzgHVxINdJW8Azex85Uhx1JntkhbTat2YHDWmKP42IuY9MEzwob1L25HEbyNr7MabBJ8Iyw/dcS+xa+ym100i49J8zsfbkdtqSIWMYL3omPrEKxrFzS+4T4dDOulnI6gb+EuLyYWFYKviqEjTX4F1dKOxld0h8Lf+UabMBn2FXSyaTA4xm8V9JxA1fwGL4vYbwp0jqAD0o4bUEx0U2HhzN4OrfDlszgEhZyG552WjojzHQNtiggus3x8Ky6or/G7lwG256Hz2J/LqeRbBZmek8OYzEJgA/xVA6nHdiE7/B4qqGYBMCQ/TgtLLd/UgcQwU2D56KE3buLYHgQd+IXXBNSpk1Mc9IbvDO00x9pGz5vwc/4LWaw1zlKKKbN4lX8LoSkTaLbOhkVbtnPfSH83Io/8KYOufDURPxWHEy00ZVFITi5FtMppdTyJ54Ukms12INvRU5ajtrSISHnVYN5QfSmth1yFdMOCsm2GizgG+Hzeio5q4fPCdmKGiwIordMezF3ufQFvJ7ZZlvmhTC0UXSJ+vAR4SOjBvNCimii6FIF8RfxRiHb01gUYu+5cY0lbwAcFhKCNVjAj0JEeB0pkVYb5vAF7inpZAw93IwfsHd5Q2qkNY1HB8+fCvuZxIoyTUnBTwjJwFqcxiejvywl+Hkhzq3FKXw6rqGE4MN4pIDdtkwUS37BR/BwZpsxNIolr+DaYk8KlYtGcgl+CQ9lstWFJS1v9uQQ/LJMGcWOLIm4xpQq+KgQytViSeSdrRTBxxQohUTQ6WZPV8G1xXa+sxUr+Fa8gge6OMtE0jWmWMH3Y7twElmehB+mUcfR1DbuvdHncJx9YQkn3dmKPS0tT5bdyG+H9IScdHKlo/Tx8H/HmvsKwLrg1c664NXOf7XToafU5J+iAAAAAElFTkSuQmCC",
+    "iconColor": "#ffa7ce58",
+    "contributorName": "lns103",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
