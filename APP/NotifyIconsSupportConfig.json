@@ -3229,5 +3229,14 @@
     "contributorName": "NekoMua",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "Haylou Fun",
+    "packageName": "com.yingsheng.hayloufun",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAC4jAAAuIwF4pT92AAAEVklEQVRogd3aW4iVVRQH8N84Xmcc0ybpakZlZCVEUkKhlNCFLgQRRVFUhFFC9B700mMv0YMvUdENQpQkrR4KKzRCKummWQSh9KB01TJ1nMbVw/4OHma+b3/Hc+YoM39YHM639tp7//fea++11/f1RITJgCmnugPjhUlDZGqNfjruxg0S6U+wDke62y0wiCsQ+Bb7s6UjokrmR8TmGIvPIuK8jN14yOqI+KWpzd0R8UjOJlfZ6yUkGljfRRKrijaGIuLvQo4Wz+6vsuuJ6l1rSFpaZRjB5fixnTWTwWnYgoXGLt9Z+AHLygxzPlJFAnqxwPgTuQBz8afkG804jDOqDOucPYdObKswRerw0RJdj8wu20lnunGSjuAghov6e5ra6SmkFN0Y1U4wgn/wn7ED1TUi3ZqRk06kG2gmwthldUpnZAmWNnViN3bi15Kyo4k045QRmY4X8CimjdL9ge+lkGcDviqeD8sTqUQnQWO2YjyHx40lQYqjluMZfIEPcLNE4DeJzMEmaf5fim75yIV4osWyvbixkO34Gl9KA9C8nLID1wmRYxndYvnIoApLcRXOwlqJZG+h6xqR3oyukzC/B7cVvy9Jfawl04mPnJ/Rbce+DuqGW/EADki+cQj/VhXOEakb1SUZ3X6s1vmheRfulHa5Q4WUIkfk95pGbpH3gw24A58WHflL+bZah4ewSIqID1cVyhHZVdPAJbi9psx70ja7CBdLjvwwNtbYNaMfq6QzpnJp5W5qT2duiA3sjIj+Nm+CKyNiewttNPBkRCysqi/X0LKIONRCA6+1SUREDETEqy0S2RoRC9ohcmaUJx/KsCYiZnRAaG0LbRyJiOVVdeR8ZBreanEdr8ZHuLLF8qPxGH6qKTMDK6uUOSJzsVXqYCu4FtuwHvfiIpxeSB0O4NkWyq2oUuSyKNdI292leBkDLTTUjMOOn0WfYw02ZcrPxA5pAKqwF+eUKXIzMgvz8DNezJSrs58nRbYb8WCm/BF8WFPnYJWijkhfYbxJ6/6Sw/OYn9F/U2NfeQDniPQV0i/5y5t4u6ahOgxKS7YKe9qtOBf99he/jbTMiBRaD0sxUNmFqRXMzOiG2qwzS2S2sUFf4H3J6a7GdSfY3jHpijvuyC2t2SUyIK3xPVJUugLvan0kX5GP4dqOlk90Rprt+qRzZqsU0t8nvUe5DHNKOvgGnmq3o3XIERkoOlCWKGu+gsJ3hcDZUjZ9cZN+h5Rk6BrGi0gz9hayrePenQBaXVrNGb+GXe7OftLR7oxMM4GIzC5+yxx+QhGpmhFSqDBhiDR8ZHQirkci0o139G3XmSMyJB1+w8X/xsxMlfJMneatyrDP8ZCoDMMVz7Mj8I6Uuux3PHicLd0HGmHKeGOXfIZlbaUmc4/ui/J37esiYk4H9/M6OTfSRwmjsTkiBqvscjfEBm7C9dLsbZFmo9uYiXukWC7wsfTpSOXSaoXIhMCk+Tpo0hD5H+OLrYt8AapOAAAAAElFTkSuQmCC",
+    "iconColor": "#ff3093ff",
+    "contributorName": "NekoMua",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
