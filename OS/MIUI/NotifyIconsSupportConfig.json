@@ -26,11 +26,11 @@
     "isEnabled": true,
     "isEnabledAll": false
   },
-    {
+  {
     "appName": "小米相册",
     "packageName": "com.miui.gallery",
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAOcSURBVGiB7ZhPaFxFHMc/s1awia0tSkGMolT0oJeKVEVQT4WiUILFtqhQoR48eNCD9uJZEAU9eDHgHzwURBQVxaonqakHUZDGCtZq0kZSQY2lxiXpvo+H3dS3k/fe7tvN7jawH1jYmfnNzPe785uZ9xaGDBkyZC0RsirVnUmS7K1UKmN5MQNA4BRwKIRwuHW0TqiJFzevqfk/sLp/0ApLsD+tvRJ5eayDJR8UTUbWRY1XR+VXgR96Kqd9bgWeSJWvy41Uf4qWb2fP5bWJuivS9qupfRKn1polTq22UMeAHcBlwJchhGOrqqo9mk6t0kbUfcAEMNqoqqkvhhAOroK4jimVWupW4HX+NwFwCfCsOr6awtqRky6U3SO7qacTwBwwlWrb14WorilrZEPq+4/AZE5bP+hqjxxJfb+v8Vlmkv7SVWp9BrybUX8MeKVwVh1Try85XxFNK1LKSAghAfYCT6tHgW+BF4B7Qghn8/qpTwHTwEn1HXVzadkZw+a39OBmV/eo56NxT6jbSo7Tu5td3WDB47R6F/AG9SM6zVbgK/VAF9N3nlrLqJvUj4G/gePq7RkxNwDvAetzhlkPTKhvqiOd6CgS2DK11E1Jknwdxf2bfj+Yn5/frE65kj8z6lS/V29uoa0wtUoZUa9QJ3PEJOrLc3Nzo+rnGe0fWk/FvDfQeXV3z420MJHm94y679TLU2M9qp7LiKupL6mX9sSIulE9mjHxWVu/308vLCxckzHXLerxnD5H1GtbGJm2zKmlbgQ+Ae6MmmaBO4BHgH9yup8Ddo2MjMzGDSGEKWA7cCij393AN+qOImlFouMVeajx68TMmtqc6m3qL1HMknp/gZDlvqFWqz2pVjPmWVKfUyutVqSVkTMZg58244RRr1IPN2Kqlrwj1O3qyYz5VD9VD0R1pfZIWybSLC4ublPjPzHaNXOl9dMti3jFOjbS0sRqYD2NDlpPqyI6MnJavanXJtIsLS3dq/5WYKRwj/yc0WFGvbGfJlJ6tqhf5BiZKTISb+5T1Wp1ICZSmtapz7vyCfqvIiN/RMF7+qw7F/WZSNu8euEebHUhLvZYXxniS7X7x/iLhKabPf7z4XxUfliNH00GRdOpqSYhhAtmYiMzwJZU+cEeCuuWE2kjTamVJMlb/dfTGSGEt5vK6ULjFPgAeKCfojrgI2A8hFBbrlhxDjfMPK6OhxBGs2IGhNRfC94HJtJpNWTIkCFrj/8AOwwBXmk5XSQAAAAASUVORK5CYII=",
-    "iconColor": "#FF888FFF",
+    "iconColor": "#ff888fff",
     "contributorName": "parules",
     "isEnabled": true,
     "isEnabledAll": false
