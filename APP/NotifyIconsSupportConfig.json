@@ -24,7 +24,7 @@
     "iconColor": "#ff5f94e2",
     "contributorName": "fankes",
     "isEnabled": true,
-    "isEnabledAll": falseff5f94e2",
+    "isEnabledAll": #ff5f94e2",
     "contributorName": "fankes",
     "isEnabled": true,
     "isEnabledAll": false
@@ -55,8 +55,6 @@
     "contributorName": "fankes",
     "isEnabled": true,
     "isEnabledAll": false
-  },
-
   },
   {
     "appName": "Todesk",
