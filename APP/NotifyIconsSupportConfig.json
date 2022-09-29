@@ -3265,5 +3265,32 @@
     "contributorName": "Z2549", 
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "悦跑圈",
+    "packageName": "co.runner.app",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyBAMAAADsEZWCAAAAKlBMVEVHcEz///////////////////////////////////////////////////+LBpLMAAAADXRSTlMA8wrjvB9j0KePeEs1K2t+7QAAAaxJREFUOMvFlM9LAkEUx7+oq+kamFF0EQYqoYOXqOOCBBEECwtdAgn2UkghSBLUQejQIQLBgroFHooiWhA6dAjBU7eF1vVn8v6XZv0RmTvX+p6G+cyb9+a9Nw8AwumNqZ9auaiiJ1ml32rpPXJL46ozDnzkpmWBCb+Puyd36QgISBQ7AtKEISBtFASkDlVAWlAExELsT8nmwduj4kauU/vPWHIhq0F+vjj66B5psblUjLKjieqRWuADW9xGHSP6ZIlXVvOP+bGwzVDpwmgadKLUH6h9ObR5moVsl1+oGCa2UIOqS/lhbBHIOl6JeeoIZnEDJ8o+0fG+x9BBoIFEWYqXwt/vYdw589VgZKECGc07JG3eDB0YSYmq/g78vM5rSp90PQo1ZNICHSQiyDRCljSwiUwQJc2Gc5lSlSlrRhMDkjR51u4WtfOgtg6TkmkpNiCnPC1HrHLoKRTlXZ5fZIYR2M4iR3aebMXia+U/OsSNiLtX1PG28Je0BB/YKYApIJ/wCkgNsoAUIQjO5uNl3pXM8OnicTOyNWdWhcbTYF31B1z8LDcy+aaP7/nuF6raaPz+d7vjAAAAAElFTkSuQmCC",
+    "iconColor": "#ffe71419",
+    "contributorName": "Ink", 
+    "isEnabled": true,
+    "isEnabledAll": false
+  },
+  {
+    "appName": "佳速度",
+    "packageName": "com.garmin.android.apps.gccm",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAM1BMVEVHcEz////////////////////////////////////////////////////////////////P0YphAAAAEHRSTlMAdxXS8eE5Jk7FCKZkhraWv04jBwAAActJREFUSMflVdu26jAIDCEQcs//f+0h1Vq1qa1rbZ/OVF8UwgxMiTGKHFy/AIdgzQJf+2UgLxl0GkjboU6MieGMjZ5tN+JkTf4YH3oyHLpP22/NfCjSiCJS5Jglb4dk4w7pBAPdF62gmm/MXM1e1c/iqbdY9Msdlk9PoCKS3Fu8i0/ibcMYi4BFNIQyRLc1fpJSTHLgOxdvkKFnHQEWjuYJL+HserAp29RzJnZVexOAzRvu3W6g45KoOVYLCAXZ5E5TkpeRwsjSs3SX07PcWQrFpASq802M1J3cWUqInbIwxlwx7eXOq4CjzKEMr+7lTrVU6xl0wHO58451N2b4Qp8FYH7C2uQ3uYy3Pw6aPJEbpeJwIs1S6qHc6JmtuQ7rvY1fhEtDp/1w6WrS0za4zMtLhlZDCGB+h6i2bqldMsIywvJYtnRRPNRAzrmbv79osg6FheMvpWuDU0DSBxOcVbJtd8/IqVFGhRoQ3bqA/TemHLC/Us+8GGw47IF2QE8gIR3csniUAlAW8bSO/4F6Ri5ahZcN/m99MHo75CvBtFC8PUSh1pTKy17xZYk4u//5be6lNVU/Zr+Tv75A/qP57xSh3KHL9mypRfNf4B9IczHpo95NawAAAABJRU5ErkJggg==",
+    "iconColor": "#ff11aded",
+    "contributorName": "Ink", 
+    "isEnabled": true,
+    "isEnabledAll": false
+  },
+  {
+    "appName": "Connect",
+    "packageName": "com.garmin.android.apps.connectmobile",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyBAMAAADsEZWCAAAAMFBMVEVHcEz///////////////////////////////////////////////////////////9EPuwCAAAAD3RSTlMAouS79SHPZXgRQDFRjgcVj9WOAAAB2ElEQVQ4y2NgYCj2/48OvmRMYGBgCP6PDWQxMLDqowsqg3UtYHiMJu72PxOsVpOhHtUCe4FlX+VBrL8M9sgSjkrPNNdVgRR/MWfwRzbIoH/Hb7EFU/7/dy5lYEAYpC/Xf29/94/1H/s/yYAcDZNQPD037+2JsAS18/91TzIwIMlcEGr9fZVtx3f9b7ceMCDJdPlbik/8XrTE+L/FBgYGuIxi8/9zS77u3aW8HmwzQuZjTPP/Zbu+r3eXh9iMkNGTzzAJPHAYZDMfA4qM3aeaZc/N5OE2I+lpUV98/3/GBgYGdJmPoTv8kW1GctunLzIBDFhlFCF+Zogpr0FW8R9mM2sbMHDdWhEyMD/zNYED41Mfhqlh0PD7jG4lNzCK3QTFgAZqo8kE/f+vAVQdof//0wQUCT57qDHANGaAIsPx/78AhCX//w+KzKT/n6EsNjTj6v+7QlmsFwVRZOxhhqEDTv//C3DIXJSdwEA1wLdqNQ4Z1v//A3Do0f9fgEOT/P8EmDPLa1Bk1v//DmUx//+GIsMMyphYQ5T7/38fMGMieiww9P//Lw2kpgNjDs2VvMBMZ1veqI8Z2wz3oSnkG0Yq5oGUGF9uYnppRj4ouUlj8y13raDESga6AwCYBXnYB+jv1AAAAABJRU5ErkJggg==",
+    "iconColor": "#ff11aded",
+    "contributorName": "Ink", 
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
