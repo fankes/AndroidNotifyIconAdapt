@@ -3310,5 +3310,14 @@
     "contributorName": "NekoMua",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "KOOK语音",
+    "packageName": "cn.kaiheila",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAC4jAAAuIwF4pT92AAADJ0lEQVRoge2ZW4hNURjHf8cg91xSYpRyyUwY97t40PAkisgD4sEIz5488qAplxf3XIqkKKJEKeSSJhm3oRhNI7fJfUQMfw9rbdZZZ8+Z/aCstH512mf993f2/v7fWuvbp3NykvgfaPevE/hbRCOhEY2ERjQSGtFIaEQjoRGNhEY0EhrRSGi098YVwDxn/ALYB/QCqpz4HLAf+ASsBUqK3OM1sMe+nw7MaiOnS8AVoBKY6Og3gfPAUGCxozcD25DkvnYqnzOScpIuqJAxks6l6GlMl1Qu6UOG2HpJPSRd9PTlkrpLuu/pTyXlzUgOKPeqcxbYAsz29BPAKGBOG9VNGAtMAnpkiB1gqz7Q0b4Ad4EjKTluBXBno6ekJsfpN0lXUip211ZmR4bqJlRKqssYWytpgqQWR2uUdColdq9s/u6MlAG9nXEHzJp2aQIWYfbGZO/ca1u14baqCc+Bn8AgL/4+8AqYAnR29Bob6+67UvtyOQ2sSQZu16qgeBdrBhYCD4G+wBDv/C7MErzh6Q+APkAnR/sBLAHmA1+9+FvAyCJ5ANwGVgAtieAmPpHW+Q6sAi7bcRmmk7lctcdxnl5D4bp+hTFYkXKde5hZao0nmAK8c8XESA4YXeTDu4HjzthP9jNQCwwG+nvnHqTE38Mst6me/gb4SKFxlyqgwRcTI/1sEq0xmfyl4Sf2BFPlEUBHR28BXqYkds0ex3r6I3sfvxgulWliYqSM4q1xPLDS+cwY73xf4CCw2dMbSN/oc4HD9uhSg2m9xVgLDCtQbfva4LW1OknPPK1RUhdJpZKaM7bSk5JWZYyVpGWStnvaCUnvPe2I8h/kv2fEn+JjwEZPKwXWYZZg1zaqllCLWW5ZeUzhsq0GDnjaYmCGKyRGZniBj4BDQL2nL8B0iyw/4TcCezHPlyzsA54B01JyqSa/TZcAM92g5IF4mj9V/glct8f1wFL7vgS4ANwBVmMefGmGclY/inkY7gS6YTZxa/GfgE2YvbbV3i+HaSAfgLeY9j/OXiOH+fr05yKK/4+ERTQSGtFIaEQjoRGNhEY0EhrRSGhEI6ERjYTGLxvErP2JkOatAAAAAElFTkSuQmCC",
+    "iconColor": "#ff7acc35",
+    "contributorName": "NekoMua",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
