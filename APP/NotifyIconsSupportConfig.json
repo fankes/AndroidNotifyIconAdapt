@@ -3319,5 +3319,14 @@
     "contributorName": "fankes",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "美团众包",
+    "packageName": "com.sankuai.meituan.dispatch.crowdsource",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAACxLAAAsSwGlPZapAAABC0lEQVRoge2ZwQ4DIQhEl6b//8v2tJcNKiNDSwnv1KQbZBYZXZUxxlWB168TYNFCsvEGn9caSpw5UGKWqUgZIdrUQv04wr9XMdVpV6YiLSQbWo947fTmOc9ZcVXKVKSMkNnK/m1LtTKdnmUq0kKyMesRhlW2/Z5QRkjbbzZaSDbafrPRQrLBOEWxworbpyh/QRkhEacou14IWU/YFbE0dIiZMIUgCQ7w+S0MIauk5FpPJZoYj5DdW5XJbzSOiRMhloG1xHdN7hJkvXqzDrBL9v5/Fe9o18z81EVsVYAxTMIYe63TdcFSHTPora6WiBdE0HRMREjoF54SH6pU5EWPFyiPMpvGFpKNFpKND5jnLHkmdnwCAAAAAElFTkSuQmCC",
+    "iconColor": "#fff7bd00",
+    "contributorName": "fankes、Gregorywx、NekoMua",
+    "isEnabled": true,
+    "isEnabledAll": true
   }
 ]
