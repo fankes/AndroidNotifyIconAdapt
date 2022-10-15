@@ -3391,5 +3391,13 @@
     "contributorName": "parules",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "百词斩",
+    "packageName": "com.jiongji.andriod.card",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAYAAABV7bNHAAADVklEQVR4Ae3BTWjXZQAA4Od9+zWGzVUzw9bSrUJlzJJEEDpk90Coi3SpbuGhLp4DQaJD1KGLpzLq2CHDg5QHA6VRDAwlnKCNYWO46T7yY6z5fxuswIb/N2K/5pzv8yiKoiiKe1bQREopoh2t8uYwGUKYSym1oU29buB3RDyMFvWawXQIoeEOKs21423skjeKDzCEV7BXvY7jU7ThHfSpVz8OYdIdVJprxS7skTeEQxZsxR71msSXWIMXsVv9DmsiKrKiIisqsqIiKyqyKstvFKcwi514Vr1O42d04GW0WYJo+Z3DfuzDKfU7gjfxHsYtUbQKhRDUJSqyoiIrKrKiIisqsqIiKyqyoiIrKrKiIisqsqIiK7q/jeIXzGqisno1MIlhTOAKLmEAZ3EGYyEEOZXVYxbnccmCERzANVzESAhhxiIppQqNEELDHVTuTbcwhkH8iLMYxmWMmhdCGMfXKSV/SymZ14Fe9OIFjOITXHEHlZWpgWlMYQS3MIGP8T4GQghXLZJSiojmpZTWoBcb8RI2Ywt6/NMRPKiJyspwDaMYxgWMYAjDOI/rIYQGvnGblFILutGJbjyFn3AMT+MLbLUElbvnJr7C9xjENUzhKq6j4TYpJfM6sA078Ay24HGsxSNYi4M4hgqtlqhSv1u4hilM4TIGcQEDGMRYCOEWjvpLSiniITyKTWjHFozhOzyBz7DbMqos3RwaFvTjAH7DMIYxFEKYtUhKKaITm/EkNmEjetCFLrThc5x0l1T+u18xiPMYwEVcsOA4vkXDbVJK5nVgO1rwAxrYh9fRjrWorDCV5v7AaUxhAGdxJoQwprl2bMA69KAPz+F5rMcDOIG3MIlObLKCVZqbwMEQwpxFUkqt6EQXOnAyhDCOV/EuutFmFag010AjpWTeemxDH3agC+vQjim8gXF0oc8qUmmuA/uxFz2aG0K0SkXNtaAXPe5jUZEVFVlRkRUVWVGRFRVZUZEVFVlRkRUVWVGRFRVZUZFVWX5b8SFmsVP99qSUutGBxyxRZfltwGv+P9uxXU2iIisqsqIiKyqyoiKr0twM+v27cUxbcA5H1Os05nADpzClXv2Y0USluWkcwmF5DUxYcBQn1GsGN3ATH6FFvWYwrSiKoihWnT8BbRfhXDUSo68AAAAASUVORK5CYII=",
+    "contributorName": "Rock＆Z",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
