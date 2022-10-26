@@ -3425,5 +3425,14 @@
     "contributorName": "Gregorywei",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "悦动圈",
+    "packageName": "com.yuedong.sport",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAM4SURBVGiB7ZpPqFVVFIe/5dN61Ct9+PAZjwhMJYyCmjho7KRRIwdOmzUIbRCK0aCRQdEfyEAkJBpEOMjKeoMQhaAahESQSkSSIBIWLywyXvo1OOeeHo/755x1b+wCv8nl7rPX3r8fa9991tnnwi3+W0S/RnUPsP5fnHcK2JiMXYqI11Y3rh3QWeCp5ERt2AzMJWP39WsclJEp4DiwNTnZMG6rx12TiD0PPBwRy6sv9B0sIm4AL1JlZtLMD5p3BALP9DPBsAEj4gvgdGLCYdwB3J2MXYyITwZd7Lu0eqj3Au9TLYdJsIXKTFeWqZbU+UEdhqY4Ii4B7yQm7sd6ciYA3hhmAkZkBEC9E/iI/C7Tm2cbucxeBbZFxNKwTiN/dBHxO/B6QsBK5sgvz+dHmYAWGQFQA3gX2JEQMgVsrz+78g3wSL2LDqXVNhgRAofIbcfz5EwI7G1jAjrs5xFxFljsKOZ2YLZjTI8TEXGqbedWS6uHuhn4EJhuGXIfcFeXOWr+BB6MiO/bBnS6w0bEFeCtlt1nyJkAeLWLCeiYEQB1GvgAuGdE1620z9xKrgDbI+Jal6DONU9EXAdeGdFtlpwJgINdTUCueKOuec4OGXNTZlzgK+BYJjBlpOYQcLNP+xywLjFeb7vtN+ZI0kYi4lvgxKrmteRLmfci4rO0nmwggLqRqg6bqZsWyN03/gAeiIgfs1rGWVpExM/AkfrrNLAhOdRL45iYCOo69aT6mzku1RX2WIyVEYD60XMRyIo5UFfYZakzciGZjc/ryro86tNJEzfUnaX1A6DOqleTRt4urb9BfTlp4pq6UFo/AOr96vWkkedK629QjydN/GBVQZdHfUy9mTSyu7R+oDqIUL9MmjhTWn+Duidp4i/10dL6gerpUL2YNHK0tP4GdX/SxK/qfGn9AKib1KWkkWdL629Q30ya+E6d1Gn+eKg71OWkkSdK62+wet7I8Glp7Q3qrqSJZfWh0voBUNeoXyeNHC6tv0F9MmniF3WcF0OTQ51RLyeN7C2tv0F9IWninJo5oJs86oL5U5HHS+tvUI8lTXxcSvOgv3Ds5J/XZSv7xIjPcxHx00QV3uJ/yt93oP97ljFhHAAAAABJRU5ErkJggg==",
+    "iconColor": "#ff21cf56",
+    "contributorName": "parules",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
