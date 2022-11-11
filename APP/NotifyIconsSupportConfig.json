@@ -1261,9 +1261,9 @@
   {
     "appName": "喜马拉雅",
     "packageName": "com.ximalaya.ting.android",
-    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAArxJREFUaEPtmj9oFEEYxX+vEvFPodiJpaJWIgomjWkMCiopFLQRFRsLISC25rASm4BgpwgqSsQ/aBHQwthoEQWx0MZCQUT8D4qdfDLHXpib2927ze0md8cMHBy7M2/m7fe+3W/nrRiQpgHhwYISMbNdwFCZF0/ShMNrIWJm7sQeYBOwrINJvwIPgOuSZtL6m5nDugps6wCvaJeaI9NExMymgANFkbz+WyS9Cseb2Qtgaxe4eUOPS7oyR8TMDgM3upzsFzAs6U0Dx8zGgLtd4mYNvy3pYJO0zOwycKyECY9KcjKqNzM7A5wvAdeH+ARMSRpvHPQj8gTY6fX+A7wGHmcswul+B7A2OF/XrEfE/T8b9DkNTPuR65ZoHpGmBWVNZGZWkMhvYJ0kJ8PSWh6Rkay7kD/7PIjMSBopjUECFIl4OVBUWjEieXKM0orSgpgjvZYjZT9CHkratxjJXjaRCUm1ficyCxyR9LafidwBTkj6GZbxYfVbVa1VA1LfJHM056pnvzK/Kcm9P821xYhIR1V1UJiGF7kFIxLp4skeI+LJLUor84YyjzfEKK0orYo2H6K0orSitPK3TGOOxByJOdJjOTIm6X67nYJ+qLUuARckvc8j04tEnDO7N1i0M2VeJsccIWd3TbfxR8YlTXovXqFjVfntN80iC4PxQ9Jqb5HOAXZOsN/2S3IXpd4Su9u33ionMgpcA9a0yYvNDe/PzJ4lPmJjyKRvUGYQOSXpYrvca7P50IIR+uyrgHOAs8Y2pkz2XNKQmQ0DzgXe4PW5JelQOCYlIqOSHnVJpAUj8xMOM1sJrAf+Ad+A75L+mtlSYHnyWwEsAT5I+pK2uIBIYVklUfW3g2YlbQ/nqvxblITIbuCpJOe5F25m1iByDzgp6fOCEym86pQBZuZ2GT9KepeFV3lEyiDSCcbAEPkPtBoLYOAHmH4AAAAASUVORK5CYII=",
-    "iconColor": "#ffda471e",
-    "contributorName": "fankes",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAn1BMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8Kd3m4AAAANHRSTlMAVtyI95M7uvVQBGRsS36A+y1G+ZYkG+bYeV83EezEtIR0WiggDKmcjmhSPgjhznAUVBUHqHQ7qwAAAcNJREFUWMPt19tyqjAYhuGv1gooIMheRARErfu23P+1LUk6IxFZkJae5T2C/MwzgHgQiLq2nu2VSvt9uGDmX+EHcwFbql1Bcu2BPJQrDa3o/I57h9izmAvYCt9EmekXz9p+4TvdKP6flOPW9dwwXoGmFC1ZM9zK1Ma5Q5z83AYlKAuWjRfQ1xS2MCcVJHtAz5crfUrTba/6bCk9GW6Caa1VoE7WYKDtEfcy+vpfyckLOY40tPRGII/9buY1yEY3SAJTaDxC845Q/AANfwpJY2ZxVIMmAhIQP/R3H+RLX1Cc6I29qm43qDXP6QnaoR8o+uwH8kNwQIZssFkyZbytCx5o6pgPOTsyUDh//g/USsng8Pu/iEoGmoAEJCABCUhAfUEx+rqjvqDT8RcQs1/b9XFHpOXlXU0m+Tdk8UM6s6dd0o2lRk4uXJCZsLt9shiUh7LDBWHhVyGJLA3ok3WBlPvCYfCwRXfj8mizqEJKA2SMcM/ZeJZxqyiitzGOB+n2WH4AVCA5a4BOV2bNHc1ITnmspNrMzMFAOzRAATqXlm9ugXqX8vnH6Ny8kO3PZ4OkiFbgaD03nw+ySQaejm7DIF/jD/oHK1IwkEe7sp8AAAAASUVORK5CYII=",
+    "iconColor": "#fffa2800",
+    "contributorName": "fankes、piscesmk2013",
     "isEnabled": true,
     "isEnabledAll": false
   },
