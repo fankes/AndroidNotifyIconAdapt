@@ -269,7 +269,7 @@
     "appName": "大众点评",
     "packageName": "com.dianping.v1",
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABIBAMAAACnw650AAAAJ1BMVEUAAAD///////////////////////////////////////////////+uPUo5AAAADHRSTlMA7tigvG5VQQwtiRtb10FeAAACNElEQVRIx6WVu08bQRDGJwnxI9eQB4pQXERJkQRdQZCiNC7SJIqQixMVCAoLGkAUhgoQhZHoaNxQIFFQING4MBJQ0dzZMq/9ozC3nht7v/GB4Nf4vPr2Zvab2TnqY7dBD5GdMOHfaromXzIdRtJFcybmf5rmtbG00gIemC6HZPEI8Vl0Gf/NLfg10GQM07qXbHZOUQbRkElo0F7JxnV5IaIy2d9xPW/O3Ob3B0RbIhqnOJr5rL+JRcUBoovecCjCxAeGe9VrQUFNfC/IJpomeZoFZz/NMJVYdM21Dkg4n+gstOlE8n5pHyqimY8XIsom0WjFPknP8EpAq/yinM27hWf/SF7szrfkoG0S3tilsEbe0dt3v4mobleuevvfWEZlFzpgayAnzrMXNa20UTnW8J6mXpDw18b+cuLppz5RzjcaAfQb0sJriXwnhyJqwhr2EjIGqrqiiqYfk1XoqtY0VVTpF+XqmqrpTKG4T4Af5KimtLQ4YGp12mCWRgW9QkbRKiSsDpgq0Rd7XbCJS0mPLFU7I9OX1JVoIw37CeFNYUNE22wyr2U45CGeTcbyaXflVpzs7rvELG9k1Cve7bgmDMkuqFNZxqoyAFecxTm52VDNK0lSuWt5x86CczaL3zsUeNwOqx/ciL/jmLcc52tVKoczIp7C72ed8rIjMvM+zEAPuG2fPyZSRMATRUGqKIP9jHjgk0aBS5mGj5caKULPWbC/wn+wDqWcBJuglGPr9BCZRXoud++RLFTG0KlqAAAAAElFTkSuQmCC",
-    "iconColor": "#ffff6633",
+    "iconColor": "#ffe19250",
     "contributorName": "fankes, piscesmk2013",
     "isEnabled": true,
     "isEnabledAll": false
@@ -1464,9 +1464,9 @@
   {
     "appName": "小黑盒",
     "packageName": "com.max.xiaoheihe",
-    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAADfElEQVRoge2aXYiNQRjHf7tr1yJklwufxYUSJcr3tyK5dIELQkgSJSluxIXiVqKEklwqX1GUuBDJV+4lLeVzN61v1l/Dc3Kc5ux73nnfOXsu/Grabea8M/Of552ZZ5556/AgyZedhiPATeAC8DlrZaXU1Xm77ReSMXVI+izpiqSZOdT3T/JRn/doGS+AZmAJcBU4DIyP1NZvYgkptn0/YAtwH1gHDIrRYCwhzZ683sBJ4BawskRsZqoppMA44AxwCZhc60KSlj3X7lLgLrAHaM3aYCwhldIA7LOler3NpyB6yiKluBXtOHAZmBbSrxAhq4AJCb/pE1CvYy5wx0SNDazjL55NqEnSckm39YeVCZtWp7LzRtI+SSMq2RCThDRKmiLpXEm31icI6chBSIHXklZL6h8qZICkQ5K+eirfmCDkeY5CClyVNE+Sd/8pN0dGAg+BrUBT5UMQlUXAdWBXGiHbgTERe3UCeBzwnOvv3nIFPvpm6may+7ETWAAcNAczDQ1phGQ9kPxIKB8MtNtrMsMsVOm5xdu3WBvih4Ty9qL/24ANwArgdmiDPeWi+F69i8BC4EBIhbGE9A9s9wuwP6TBXiEPVcADYKA5gfVFFii8cu+7qcI7mZOIJWS5iWi1fcj5Xh+Br8Ab+1uOoGBFLCHfLHUEPpuanj6P5MZ/IbXGfyG1RqxVq9GW35/AMBuwV+aDubzOvBuMJeQ8MN02tyZr55vtJU5gS8JekppQId8Tyid5QqO9io4Hbtd/naeQ0DnivNWh3ZQnjXbme4tSQoXMshPe5jK+UWPC8zUjBDscuQudG8DUkrLgiGEo5YSkiZTPtqDAWWCi5cVc1r19KzfZP6Ws3FlgGTAfOG1XCN2R5dXqqviXkkZKehIhNlVgfEJcrBxdknb7+lzuFWizu4tTea/3RtJi4ONa6qNw0cg0SFos6WHOFpmYwiIvJe2QNChL7LeQBlr89VEVhbRJOiZpaB5B7NLk4sF7Jb2LKMQFzjdJGp3mejqtkEIabgHurkAhk2rlnt2FObcBcywelZbcvV8vKUeoXtIaSc9SWKSlVixSzE9bpp3He7SCcGle7UarsN2+cFhg55GqkvfIOLvfswDdWuBptcTE+sypQIudXZylRhXlDwHehlZazc+cSpPz3Q7bxaZjSN6TvVpCXHLujrshviypNVchwC+YrMff/QlqtgAAAABJRU5ErkJggg==",
-    "iconColor": "#ff212121",
-    "contributorName": "SRainerc、NekoMua",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAhFBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8g2+bRAAAAK3RSTlMABK6tpvwGKzAP69PYubNKjHBoE++V9eLMyHdCIxgIv55+WjclG516VkRAjEkoZwAAAU9JREFUWMPt1dlugzAQheGBYsJOCAlbA83abd7//SoVoZFimWCPryL+S198so4sGdZesGQbWnF8xGjn2IEQ45wPOfhfurEEoTiUXGhqXzg8iEpyCxBNxYRoKjZEU7Egs6nunx09SEp3quFcoSvdSH+qS40oQ9pTXVtEBaQzVenhmEsbqUt7JZShDoQfSkjMQM1vKm2uhJAgaSMPIE8eJFMI/GJvBwIoD8IM8pGgsaC1BEEYWYIgM4Egno4KmHozgvzN2BF4ELVCK8SBbsGYz4S66Sg2gjKY8nDKMYGi0BKETcCDKHHqeRBVfQ08iKq/TSEh/aV5MwMJJZSi3AyUKaE+04G8ENS9x0uh9gqzObtoCVRf4GnhVjyDqvMASzq6s1B3uoM69VQEaUVTsSGaigvRVGyIpmJDNBUboqkI4nXLCGL2E7Mhmoog7lQJrL1ef49s0lfm0+sKAAAAAElFTkSuQmCC",
+    "iconColor": "#fff7f7f7",
+    "contributorName": "SRainerc、NekoMua, piscesmk2013",
     "isEnabled": true,
     "isEnabledAll": false
   },
