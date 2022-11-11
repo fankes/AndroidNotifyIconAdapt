@@ -101,16 +101,18 @@
   {
     "appName": "抖音",
     "packageName": "com.ss.android.ugc.aweme",
-    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAJ5SURBVGiB7Zm9axRBGId/r0g6xQiHCBaChZgiRRQOg8UFwUptJI2CjSDYWKWw0z/A2j8gEey1sPQQwYCG4OFXpfhRGMU0JopYPBZ7J0uytzOzc/sRuQeuuZt55/ewOzuzc9KYMaVgVQ0EPMoNYjZXVZYoyOcrsDem/q5RBY2kJelYTIGmiEj/kcjpugN44ZgjA24UrV/lUwvPpnvMbCO0fpNurQGP6w6Qi+etleZ83ZkzKSACsATMAvtc9Zs4R7LYkNST9EbSXTPrbm2wU0TSzGWJNHGyF2IsMmLexxZoisgHSRclLRctECUCtIHbwDPgI/Ab+Aw8Ca1lZvfM7KSkc5IexOTyBrgMLOctABl98tj20gWcARaAReBFqm1nFAKzwEOflSxWZMj4k9EiQAf44SNRlkgeuz0lpiRFD1Ymzsnel3hVQZYockWACUlLFWWJwnVFrkuaCai3IulX8TglALSATx7zeh24QOo4B2hl1Kttss9LOuTovyrplJn9TH9pZt9ig4WSd2vNO/p2zWxmq0RdZIr0J3newrMp6UopiQoy7IoccPR7bWbvRh0mhqIivVEHiaXo7vdPSGPgoKPJZsEc/xgmsuboNx04znHH718C622jsAhwNGCcE47fXeMVB7jvWMS8TgSBKY9FtV2myCWPALc86rx01HhemkQ/wH78tijLwFlSp4HAEeCqR1+Am6WK9AMteIYZsEryzu7LW2CyCpEJYCVQJoRrpUukZDolSSxWJlGiTH2vzSSP0e8jkCh/cnvKeB0HZbDeCIk0JAd0Tz0F1oA7hO0Egon6fwQ4rOS9pa1k/zWtZLvR63+6Wf9ljBmzg/gLaUCZZSoIdmYAAAAASUVORK5CYII=",
-    "contributorName": "fankes",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAllBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AJcWoAAAAMXRSTlMATkxKndOYP/broi8K+vBTEda/tFw8Jq6He2pZzcZtYkPi3bmwkYA4jiAeHOTYqppuzvnMrgAAAc1JREFUWMPV12dvszAQwPEjgbAhBMII2aPpeEbv+3+5VlWkw2IY42ul/t9FkX4MS9gHP5tvUr4ONEfK0IEMpA5cd/TEBaVcUMQF4ZELSrkgfOWCVlwQHrgg9LkgJ2eC0LE1IeqJC0Kr1oSoc2kv9SDKSVZ7PYgquKDF74Zm3wFFXJC9V4aCoBMCPx0NBbMyTVzHcQuCmhukXYyCjl6Ej9xO6LO82j1+e32MvUPK6oIevcXldXt2n3seykOUQ/LuJ2SBYkQWKEYeaI080DJkgnbIA9XY0XkCFKFYuL1erUQd2ovMrl5+vTd16I/gbIBSg+6Cc4fJ0E083E2GAkv4VE2H1mFjuQINaIPUP9CAnpE66EAeUmtoZUyCfJ3pyBy+oxip+SBUIpVBq6p5Hfmq9e8vK6TyQcgOG6ew9idv/HAUJEiVraVQmB8WAwf7ucqx2MZG0Qs08rFZDpJcbOTM6I9McBKQVaFQcXw81gWFMikUhCh2Sv8v0hOKuSBvg32pbvwJdqY+O75KnXDk6BHLoDWM7H3YiWF0+yGnBoUMp49xbVDq7dLtFEtQLfvbZrYGTClbicwlhqnlG8+Kvt7M1jy8gE5+Vt1M81bVOfxwH9EnM9HOoIGrAAAAAElFTkSuQmCC",
+    "iconColor": "#ff000000",
+    "contributorName": "fankes, piscesmk2013",
     "isEnabled": true,
     "isEnabledAll": false
   },
   {
     "appName": "抖音极速版",
     "packageName": "com.ss.android.ugc.aweme.lite",
-    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAJ5SURBVGiB7Zm9axRBGId/r0g6xQiHCBaChZgiRRQOg8UFwUptJI2CjSDYWKWw0z/A2j8gEey1sPQQwYCG4OFXpfhRGMU0JopYPBZ7J0uytzOzc/sRuQeuuZt55/ewOzuzc9KYMaVgVQ0EPMoNYjZXVZYoyOcrsDem/q5RBY2kJelYTIGmiEj/kcjpugN44ZgjA24UrV/lUwvPpnvMbCO0fpNurQGP6w6Qi+etleZ83ZkzKSACsATMAvtc9Zs4R7LYkNST9EbSXTPrbm2wU0TSzGWJNHGyF2IsMmLexxZoisgHSRclLRctECUCtIHbwDPgI/Ab+Aw8Ca1lZvfM7KSkc5IexOTyBrgMLOctABl98tj20gWcARaAReBFqm1nFAKzwEOflSxWZMj4k9EiQAf44SNRlkgeuz0lpiRFD1Ymzsnel3hVQZYockWACUlLFWWJwnVFrkuaCai3IulX8TglALSATx7zeh24QOo4B2hl1Kttss9LOuTovyrplJn9TH9pZt9ig4WSd2vNO/p2zWxmq0RdZIr0J3newrMp6UopiQoy7IoccPR7bWbvRh0mhqIivVEHiaXo7vdPSGPgoKPJZsEc/xgmsuboNx04znHH718C622jsAhwNGCcE47fXeMVB7jvWMS8TgSBKY9FtV2myCWPALc86rx01HhemkQ/wH78tijLwFlSp4HAEeCqR1+Am6WK9AMteIYZsEryzu7LW2CyCpEJYCVQJoRrpUukZDolSSxWJlGiTH2vzSSP0e8jkCh/cnvKeB0HZbDeCIk0JAd0Tz0F1oA7hO0Egon6fwQ4rOS9pa1k/zWtZLvR63+6Wf9ljBmzg/gLaUCZZSoIdmYAAAAASUVORK5CYII=",
-    "contributorName": "fankes",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAllBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AJcWoAAAAMXRSTlMATkxKndOYP/broi8K+vBTEda/tFw8Jq6He2pZzcZtYkPi3bmwkYA4jiAeHOTYqppuzvnMrgAAAc1JREFUWMPV12dvszAQwPEjgbAhBMII2aPpeEbv+3+5VlWkw2IY42ul/t9FkX4MS9gHP5tvUr4ONEfK0IEMpA5cd/TEBaVcUMQF4ZELSrkgfOWCVlwQHrgg9LkgJ2eC0LE1IeqJC0Kr1oSoc2kv9SDKSVZ7PYgquKDF74Zm3wFFXJC9V4aCoBMCPx0NBbMyTVzHcQuCmhukXYyCjl6Ej9xO6LO82j1+e32MvUPK6oIevcXldXt2n3seykOUQ/LuJ2SBYkQWKEYeaI080DJkgnbIA9XY0XkCFKFYuL1erUQd2ovMrl5+vTd16I/gbIBSg+6Cc4fJ0E083E2GAkv4VE2H1mFjuQINaIPUP9CAnpE66EAeUmtoZUyCfJ3pyBy+oxip+SBUIpVBq6p5Hfmq9e8vK6TyQcgOG6ew9idv/HAUJEiVraVQmB8WAwf7ucqx2MZG0Qs08rFZDpJcbOTM6I9McBKQVaFQcXw81gWFMikUhCh2Sv8v0hOKuSBvg32pbvwJdqY+O75KnXDk6BHLoDWM7H3YiWF0+yGnBoUMp49xbVDq7dLtFEtQLfvbZrYGTClbicwlhqnlG8+Kvt7M1jy8gE5+Vt1M81bVOfxwH9EnM9HOoIGrAAAAAElFTkSuQmCC",
+    "iconColor": "#ff000000",
+    "contributorName": "fankes, piscesmk2013",
     "isEnabled": true,
     "isEnabledAll": false
   },
