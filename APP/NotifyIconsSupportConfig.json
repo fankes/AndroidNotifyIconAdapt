@@ -3526,5 +3526,13 @@
      "contributorName": "Sakitami",
      "isEnabled": true,
      "isEnabledAll": false
+  },
+  {
+     "appName": "快影", 
+     "packageName": "com.kwai.videoeditor", 
+     "iconBitmap": "UklGRtIBAABXRUJQVlA4WAoAAAAQAAAAOwAAOwAAQUxQSFwBAAABkHPbtrFnJ7Zt23ZnVLZVsTQq27ZRJZ9t24izf0rGuPfGqSJiAugarEFwBOdQK2l2mQ8+f+f87VW7NiP5fgj5wpKJVPE/MY5mNFlo3IKgu8EszABg7+74AM9b/wCggYUvgP0GWeKqlLMPYIrVe1vibPSLx2tzXlp3t7f/lp8UCae4xAjFk8JesOBH715XyItm7BfgKU9EiwA+WQqmOvPx0/ssItoE8NNGEDkrXzcjCSKDnwCmREv9C/xxOiFS9QAQfVIaL8skyrf39//5nhAySCgoiKWTcrzqBoCyk0Kabh5mkkQ0A+CrtWjHh63dvV2relIkdQwNlUkwCU1jY0M5YiiGxuYhtktPiv4PAFOsvtryMv7FA02afDQq9wGMsDDbBbD3aHmW4/LDbQBoYKH1BILuhrCQKv4nxtGoOgvS6BHjlb0EE6KSJ7/+cv7zdVqXmBsER3AOtZOh67JWUDggUAAAABAFAJ0BKjwAPAA+cSqPR6SioSE74JAOCWkIcAAB9HwpE0vw1u3UYgt4bfj+uujaSAAA5u///aUtOLPr7XwJ//8OkAGzldD//+0Ib/47QAAA", 
+     "contributorName": "Mc-user 1688",
+     "isEnabled": true, 
+     "isEnabledAll": false 
   }
 ]
