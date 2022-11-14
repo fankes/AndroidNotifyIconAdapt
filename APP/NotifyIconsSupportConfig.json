@@ -3606,5 +3606,14 @@
     "contributorName": "NekoMua",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "美团优选",
+    "packageName": "com.sankuai.youxuan",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuBAMAAACllzYEAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAD3RSTlMA8z+U6cfZDx6nLIFlVLYKcAQ5AAAB5ElEQVQ4y22USyhEURjHT9fiDjOz8FqIaYZiSkKThcdCXgtqTMrCghSRjJpbk2J3LdgpUR4LmeSxkcZCsaJIslI27MVSE1dN5HO+83Dunesszv2f331870uIWgXnA4WFY8S1ZoGuaRsw+GXPwfW5ujbTzT1XzwBpN6/GQyOTCyg7BX/DwwqTDSgDds5fbkf5befvqLQgyi/BR/HADC8xlXXw9zBZ5soy7Bz6t4T4CDm4Wpec7+TyRhf/7MB9iCin+Ro/iqnATri1SbptkhsZCyHXjPfWvuGXF/FrKcZrGB8j9cjnlUPHjL8SL2bPqwwnBfcHcVOZ8wF/RotBBeX962Cx6mnAE60naMq8EJ0X1fMkRDUSYEVuYCofoI+VnQVsmfw+pKmrWZbSCxbXGbefuayUnrKqwsQAr4OB8ReJLvsclCkKaDEZMo2l058QPJ1EDhvc0Sg5ZjWHcpFetKyPQk9zQRMey+6T4r1m7tBPyH/a3R2/9chqfIm2nEnpu1Wm/iTtRynPQ7+Hw3QuHoIC/4T+MlS61vIin+66/7cl4qKFKp14OCVaMd9OM9umnCQtqPBHxFBzp3rIurMP6IHE2UfH4PoELg7nTDT3NH6YO+n7iEdM1x+ANk9m1XD/Gch1SasT/wI3ZSd8mwN/2AAAAABJRU5ErkJggg==",
+    "iconColor": "#ffffd203",
+    "contributorName": "Ink",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
