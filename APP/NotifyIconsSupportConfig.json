@@ -3795,5 +3795,14 @@
     "contributorName": "SRainerc", 
     "isEnabled": true, 
     "isEnabledAll": false
+  },
+  {
+    "appName": "滴宠生活",
+    "packageName": "com.mxchip.petmarvel",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAC4jAAAuIwF4pT92AAADs0lEQVRogd2aW4hOURTHf+M2QxiTIZeEItcX93vuPCDFqxgpkkt5IMUDXpRmyosiSS65FJISQig8USL3UjTmwTBDiDGX5WF/X/ac2ft8++xzPufjX7v2Xnudtdd/732+vfY6X5GI8D+gXdoOJIUOCdqaBuwExvBngiRTdBRlSgvwDngJXAfuAm98By9KaGtNAK4BZTFsfMvYOAjciPy0iMQtQ0WkRpLFBREZFsWPuCvSA7gJjDX0nQaeobaRjiLUdusMDAfGAwMMz9cDW4BjTp7EWIkSEbkRMqsTHe2UisgSETknIk0GO7td7MQhcjgw4NeAI7M9bE4WkTsGMnvyRWRfYKBqEakQkcaYRBCRjiJSaSCzImki6wMDNIrINBEZHZDP8SSSLdsC9j6LyKCkiCyT1rMuIrI20zc9IPddEb1UBWxeSILILFHvQRYtIrJL65+RByLtReRmwO4sk65riLIIuAJ01WSbgF1aOx/hTjOwCviiydaYFF0GHwucBEo0WSVwIKDXMYKDUVANnNHa40xKuYgMBC6hDr4sjgJbDbqdIjgXFcf5E7P1MymEESlFnc79NdltYINFP59EHqICTFDbrQ1sRIqBs8AUTXYPWAj8sDzT6OGgKxqAJ2EKtjB+M8rpLFqAU6i4yPbM1EA7GGPFxWNgsa3T5tT8QLsdbV/uXPgWUT8XfoZ12rZW75iD3gcexbQRRGiYbiPSxXOwBuAqsBL45WnDhr5hnbatpbPfi7qKulxc3gOv3fyKjDFhnS539rvArWR88UYZMCRMweVkL8mtknfMA3pl6kaf/5V00Dqt/sqk4EIk7QzeamCu1r5sUip0IgOAfVr7O5ZkRCFvra7ACaBck1UBb03KhUqkG3AemKnJHqGOAiMKkcgoVMZxgSarQx2y1jAlydxvXJSjfp22Ad01eQOwAs/o92+hJ+rGtxhYTttLUw1QgYosQpE2kSPAUkvfbdQKGc+NINJ+R0yB5VtgI+rscCIB6a/Ic61eB+xA3UzroxpKm8gnrV6L+jbihbS3Vp1W75MpXkibiL4ipcBgX0NpE3kHNGlt0wcjJxQCkY9a25h8c0HaRL6jrsdZjPA1lDaRFuCF1h4EtPcx5ELEmKJMEE+1en9aZ/ydYSPyQauP9DEcAfovVTOeE2c7EPWTdTsqlHhA8rfFSaigMIvH+GYoLV+KNkk6WGTxJ2exba1DwEWvmfFHFZbEggvC/vlQjNpWFbS+6CSNWmA/MeIsSO5PNakj7XMkMfwGZ/yzWF+60iEAAAAASUVORK5CYII=",
+    "iconColor": "#ffe70015",
+    "contributorName": "NekoMua",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
