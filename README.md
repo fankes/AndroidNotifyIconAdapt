@@ -82,6 +82,12 @@
 
 你可以 [点击这里](https://github.com/fankes/AndroidNotifyIconAdapt/raw/main/tool/NotifyTester.apk) 下载工具测试通知图标是否符合原生规范。
 
+## 授权说明
+
+在线规则平台的全部数据所有权属于 [@fankes](https://github.com/fankes) 与本仓库的所有贡献者所有，目前仅限于我正在开发的通知图标相关模块使用，<u>**未经许可禁止私自下载、引用和转移本仓库的任何数据**</u>，使用本仓库的资源需要经过我的明确同意，如有合作需求，请查看顶部的 **Telegram** 联系链接。
+
+注意：除合作方外本仓库所有者有权在不通知的情况下根据自己的项目需求随时动态调整本仓库的所有资源包括但不限于修改格式、移动目录。
+
 ## 许可证
 
 - [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html)
