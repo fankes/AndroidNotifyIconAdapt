@@ -117,6 +117,15 @@
     "isEnabledAll": false
   },
   {
+    "appName": "TikTok",
+    "packageName": "com.zhiliaoapp.musically",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAllBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AJcWoAAAAMXRSTlMATkxKndOYP/broi8K+vBTEda/tFw8Jq6He2pZzcZtYkPi3bmwkYA4jiAeHOTYqppuzvnMrgAAAc1JREFUWMPV12dvszAQwPEjgbAhBMII2aPpeEbv+3+5VlWkw2IY42ul/t9FkX4MS9gHP5tvUr4ONEfK0IEMpA5cd/TEBaVcUMQF4ZELSrkgfOWCVlwQHrgg9LkgJ2eC0LE1IeqJC0Kr1oSoc2kv9SDKSVZ7PYgquKDF74Zm3wFFXJC9V4aCoBMCPx0NBbMyTVzHcQuCmhukXYyCjl6Ej9xO6LO82j1+e32MvUPK6oIevcXldXt2n3seykOUQ/LuJ2SBYkQWKEYeaI080DJkgnbIA9XY0XkCFKFYuL1erUQd2ovMrl5+vTd16I/gbIBSg+6Cc4fJ0E083E2GAkv4VE2H1mFjuQINaIPUP9CAnpE66EAeUmtoZUyCfJ3pyBy+oxip+SBUIpVBq6p5Hfmq9e8vK6TyQcgOG6ew9idv/HAUJEiVraVQmB8WAwf7ucqx2MZG0Qs08rFZDpJcbOTM6I9McBKQVaFQcXw81gWFMikUhCh2Sv8v0hOKuSBvg32pbvwJdqY+O75KnXDk6BHLoDWM7H3YiWF0+yGnBoUMp49xbVDq7dLtFEtQLfvbZrYGTClbicwlhqnlG8+Kvt7M1jy8gE5+Vt1M81bVOfxwH9EnM9HOoIGrAAAAAElFTkSuQmCC",
+    "iconColor": "#ff000000",
+    "contributorName": "fankes、piscesmk2013、NekoMua",
+    "isEnabled": true,
+    "isEnabledAll": false
+  },
+  {
     "appName": "抖音极速版",
     "packageName": "com.ss.android.ugc.aweme.lite",
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAllBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AJcWoAAAAMXRSTlMATkxKndOYP/broi8K+vBTEda/tFw8Jq6He2pZzcZtYkPi3bmwkYA4jiAeHOTYqppuzvnMrgAAAc1JREFUWMPV12dvszAQwPEjgbAhBMII2aPpeEbv+3+5VlWkw2IY42ul/t9FkX4MS9gHP5tvUr4ONEfK0IEMpA5cd/TEBaVcUMQF4ZELSrkgfOWCVlwQHrgg9LkgJ2eC0LE1IeqJC0Kr1oSoc2kv9SDKSVZ7PYgquKDF74Zm3wFFXJC9V4aCoBMCPx0NBbMyTVzHcQuCmhukXYyCjl6Ej9xO6LO82j1+e32MvUPK6oIevcXldXt2n3seykOUQ/LuJ2SBYkQWKEYeaI080DJkgnbIA9XY0XkCFKFYuL1erUQd2ovMrl5+vTd16I/gbIBSg+6Cc4fJ0E083E2GAkv4VE2H1mFjuQINaIPUP9CAnpE66EAeUmtoZUyCfJ3pyBy+oxip+SBUIpVBq6p5Hfmq9e8vK6TyQcgOG6ew9idv/HAUJEiVraVQmB8WAwf7ucqx2MZG0Qs08rFZDpJcbOTM6I9McBKQVaFQcXw81gWFMikUhCh2Sv8v0hOKuSBvg32pbvwJdqY+O75KnXDk6BHLoDWM7H3YiWF0+yGnBoUMp49xbVDq7dLtFEtQLfvbZrYGTClbicwlhqnlG8+Kvt7M1jy8gE5+Vt1M81bVOfxwH9EnM9HOoIGrAAAAAElFTkSuQmCC",
@@ -3827,6 +3836,15 @@
     "packageName": "com.wallstreetcn.news",
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAC4jAAAuIwF4pT92AAAFLUlEQVRogd2abWjVVRzHP7c5t+VTtEZBpmW+iJ6xB6hkBBVFFGRLaYSLQYVQ9KJC0KIXFfYyqhcj0mqLXKaV2JwDsbIHUyGX4NqsTKfQTE23+bBWc99enHPduf/+D+f/vzcmfeFy/+fc7/f8f7/z+Dvn3Jwk/g84Z7wNKBUmjPP7LwIetHbku0YF8APwOTDqW9B4O9IPzAaeZsyRAWAeKZwAQNJ4f6ok7dMYlmUp52wYI0PAoH0+AryZpZBiutYM4FngAuBvT00OGAaagE6bdyNwuX1+D+jLZE0RXaJc0t2S+pUOSyRVOuW8ZvOHJF2X1Z5S9PGbJQ14OtER0NZI6rO/tRdjRynGyHZgmSd3VyC9ADMFAywP4Vdguu4koCrwmQZMyRNLNf02AY9hptI4uBVXATxqn3uAjgj+fGARcNrJz2HG0pPAcaCk0+/zHl1rraSc5d/p5C+NKbdSUltIWQ+5vFI6cpmSB/6gpJmWv9LmDUialVB2raS/nHKag5xSOoKklgRHJKlJ0jzH6VaPci+RdNDyhyVdH+TkpDPR7xTgCsw87xsS9wMHnPTtwCbSBaN3YOKqONwAfI0Z5BuAe//FcLyqlvSGR426WBComTJJW1Pot0qa4NEiSx1NfRgnTPSipxHdkiaH6B9P4chTHk5USeqx/F8j3hk5Rj71MGJDhLZG0gEP/UHLTXJkvqN5OYoX1ZdfwYyVOMwBpofkHwbWJGgBWi03CQ32+6TVhCOmJjo8anVJhPYaFU6XQZySNMejNa51ymmL48bNLm971NYjmPAhiC7CV+o8tgA7MCt0HBqBcvscFsKMIcbLyZJ2e7TKfRH6uhhNneW8IGlahL5a0n7L75E0Na5FkprWJ+xYF6GtlNQVwt8jMxNdKWlE0l0R+kZH81KCnYmOXCrpaIIjJyVdHaFfHMLPzzyv23TYyp6T9K1T/uxiHUEmrknCqxHamSqsiOOSZsh0k16bFxZr3SYTikjSKg8bvUKJdzw49Zj9QRC9wDon3Q7sB+7HbJUBpgIPB3QNwERMqLTS4/1eLVIu6RuPVmmM0M+VGQuSdI/N+zKg7ZZ0rv3tYklHbP4uFW6Li+payC/s2KzouKlTZubJyawfYWvMA5b7jJO32NM+b0fO01ifjsKopFsDupskTZK0SNJzKhzkQayXCdd32vQxJe9TUjuCzMFZEpY7/DJJ38usMxNl1oXzJf0Wox92nn32KZkcuUrSiQRHDkmabvm1Nm+1U8YTCfo8RhW9vmSetfLoAjYmcGqAOvvcaL9rgQsxm62Fnu/aCXyVwrbUx0Fvkbx7XAjcgjmIBtiD2UmCiWB98D7J0Xch0jSfTGjR6dk98mhw9PUe/D9kFs1UtqVtkSGgJQW/F2hz0p8BexM06zCLZipkOWn8EPjdk7sGOOqkTwAfJGjSVNQZZHGkD/jYgzdMeHjTinEoDNswpyWpkfXs912SrxLage6Q/B+BzRGaZmAki0FZHdmBOb+KgjAzT9QMtyIk7zCwNqM9mR0ZxbRKlKE/YQ7SorAJ2B3I+4SslzwUdz3dhlkjwrAC+DNGOwh85KRHyDjI8yjGkVOEd5FjwGoPfYstA8wdy7YibCn6omcVY6t2Hu3APg/tL5YLZnY7HcNNRLGO7AXWO+lRko5tCtEK/EzhopkJ7ml8VtQCX2AqZTswF/9b3jKgGjhUrBGluEPcAnxnn5vxdwJMdyraCSjNHeIIpo/X4Hfm+5+gFF0LzCXRLMw+YlxQKkfGHWfDf1FKgn8A9h696MsBu5UAAAAASUVORK5CYII=",
     "iconColor": "#ff1478f0",
+    "contributorName": "NekoMua",
+    "isEnabled": true,
+    "isEnabledAll": false
+  },
+  {
+    "appName": "魏",
+    "packageName": "com.navinfo.gwead",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAC4jAAAuIwF4pT92AAACtklEQVRoge2YS4iOURjHf3NhzORWRMilLISUsrGhbMhQMhYsROxkY2GBUFLCRG7lEmJhwR6LaVw2piYW7mRlIbkP4zY0fhbv+WY+r+/7XFIOnV899Z7nnOc5z/+ct3Pe3iqV/4Hqv13AnyIJiY0kJDaSkNhIQmIjCYmNJCQ2kpDYSEJiIwmJjdqi573AVGA9cOUXclQD64CFwDZgNDAP+Aj0BaqAcj8GBOqAm0A7sALoALYCN8rEDADWArOBVmBjoYgCz4GZQFNI/rOMCgVMAB4BY8IkE4FnwAvgVQXrAK4C10J7PrAaaCgzXxOwEhgKtPV41YINU8+pnercIj/qIvW4uk8dX+SvVU+asSb4dob20VyOvNWo9WpDka9B3aK+Vs+qI3LjN6gdaos6uThfPvkM9a3arg4JvuFqm71sVqtC3xL1Q27SgpCLaqO6QG3K2UJ1njq2jMgVYUHb1SnqYPVAmOuYOjQfk0/QR92ldqvbgm+Z2qXeUZ+qN9WRIdl99ZU6pyhHQcgTtVW9EEQV22X1kDqpwo41qg/V2+p59ZO6Xa0rNb5UglHqDbPtPareNdvO6WpzKHKHeiQ871Gri+J3Bf+RCkX+rM0Pu6B6uNLYch1Lg5ACLaHYKeqLsDrd6nW/fY9RN4WYy/a+nr9rA9VbId/iSmNry5wMp8iO0CWhfQL4AjwALoWTowtoBh7nYg8C04BZQAtwC+gmO4bz1ALvgf1hXP6YbgD6heeaMrX2JCqFwAbgJdAZiofsbtgNvAHuAqdLxD4HlgOrgHFkR3wpEZAtRj0wF7gHfC7RfwYYFvrLUmXln9iDyXaik97VqgEGhUneVYjtT3YfVRIivXfZU77fkWqyC7Am1JAX2sOPhPwz/DffWklIbCQhsZGExEYSEhtJSGwkIbGRhMRGEhIbSUhsfAWKB4f+Pgb3awAAAABJRU5ErkJggg==",
+    "iconColor": "#ff000000",
     "contributorName": "NekoMua",
     "isEnabled": true,
     "isEnabledAll": false
