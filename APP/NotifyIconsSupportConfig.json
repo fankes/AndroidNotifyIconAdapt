@@ -111,17 +111,8 @@
     "appName": "抖音",
     "packageName": "com.ss.android.ugc.aweme",
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAllBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AJcWoAAAAMXRSTlMATkxKndOYP/broi8K+vBTEda/tFw8Jq6He2pZzcZtYkPi3bmwkYA4jiAeHOTYqppuzvnMrgAAAc1JREFUWMPV12dvszAQwPEjgbAhBMII2aPpeEbv+3+5VlWkw2IY42ul/t9FkX4MS9gHP5tvUr4ONEfK0IEMpA5cd/TEBaVcUMQF4ZELSrkgfOWCVlwQHrgg9LkgJ2eC0LE1IeqJC0Kr1oSoc2kv9SDKSVZ7PYgquKDF74Zm3wFFXJC9V4aCoBMCPx0NBbMyTVzHcQuCmhukXYyCjl6Ej9xO6LO82j1+e32MvUPK6oIevcXldXt2n3seykOUQ/LuJ2SBYkQWKEYeaI080DJkgnbIA9XY0XkCFKFYuL1erUQd2ovMrl5+vTd16I/gbIBSg+6Cc4fJ0E083E2GAkv4VE2H1mFjuQINaIPUP9CAnpE66EAeUmtoZUyCfJ3pyBy+oxip+SBUIpVBq6p5Hfmq9e8vK6TyQcgOG6ew9idv/HAUJEiVraVQmB8WAwf7ucqx2MZG0Qs08rFZDpJcbOTM6I9McBKQVaFQcXw81gWFMikUhCh2Sv8v0hOKuSBvg32pbvwJdqY+O75KnXDk6BHLoDWM7H3YiWF0+yGnBoUMp49xbVDq7dLtFEtQLfvbZrYGTClbicwlhqnlG8+Kvt7M1jy8gE5+Vt1M81bVOfxwH9EnM9HOoIGrAAAAAElFTkSuQmCC",
-    "iconColor": "#ff000000",
+    "iconColor": "#ff232323",
     "contributorName": "fankes、piscesmk2013",
-    "isEnabled": true,
-    "isEnabledAll": false
-  },
-  {
-    "appName": "TikTok",
-    "packageName": "com.zhiliaoapp.musically",
-    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAllBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AJcWoAAAAMXRSTlMATkxKndOYP/broi8K+vBTEda/tFw8Jq6He2pZzcZtYkPi3bmwkYA4jiAeHOTYqppuzvnMrgAAAc1JREFUWMPV12dvszAQwPEjgbAhBMII2aPpeEbv+3+5VlWkw2IY42ul/t9FkX4MS9gHP5tvUr4ONEfK0IEMpA5cd/TEBaVcUMQF4ZELSrkgfOWCVlwQHrgg9LkgJ2eC0LE1IeqJC0Kr1oSoc2kv9SDKSVZ7PYgquKDF74Zm3wFFXJC9V4aCoBMCPx0NBbMyTVzHcQuCmhukXYyCjl6Ej9xO6LO82j1+e32MvUPK6oIevcXldXt2n3seykOUQ/LuJ2SBYkQWKEYeaI080DJkgnbIA9XY0XkCFKFYuL1erUQd2ovMrl5+vTd16I/gbIBSg+6Cc4fJ0E083E2GAkv4VE2H1mFjuQINaIPUP9CAnpE66EAeUmtoZUyCfJ3pyBy+oxip+SBUIpVBq6p5Hfmq9e8vK6TyQcgOG6ew9idv/HAUJEiVraVQmB8WAwf7ucqx2MZG0Qs08rFZDpJcbOTM6I9McBKQVaFQcXw81gWFMikUhCh2Sv8v0hOKuSBvg32pbvwJdqY+O75KnXDk6BHLoDWM7H3YiWF0+yGnBoUMp49xbVDq7dLtFEtQLfvbZrYGTClbicwlhqnlG8+Kvt7M1jy8gE5+Vt1M81bVOfxwH9EnM9HOoIGrAAAAAElFTkSuQmCC",
-    "iconColor": "#ff000000",
-    "contributorName": "fankes、piscesmk2013、NekoMua",
     "isEnabled": true,
     "isEnabledAll": false
   },
@@ -129,7 +120,34 @@
     "appName": "抖音极速版",
     "packageName": "com.ss.android.ugc.aweme.lite",
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAllBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AJcWoAAAAMXRSTlMATkxKndOYP/broi8K+vBTEda/tFw8Jq6He2pZzcZtYkPi3bmwkYA4jiAeHOTYqppuzvnMrgAAAc1JREFUWMPV12dvszAQwPEjgbAhBMII2aPpeEbv+3+5VlWkw2IY42ul/t9FkX4MS9gHP5tvUr4ONEfK0IEMpA5cd/TEBaVcUMQF4ZELSrkgfOWCVlwQHrgg9LkgJ2eC0LE1IeqJC0Kr1oSoc2kv9SDKSVZ7PYgquKDF74Zm3wFFXJC9V4aCoBMCPx0NBbMyTVzHcQuCmhukXYyCjl6Ej9xO6LO82j1+e32MvUPK6oIevcXldXt2n3seykOUQ/LuJ2SBYkQWKEYeaI080DJkgnbIA9XY0XkCFKFYuL1erUQd2ovMrl5+vTd16I/gbIBSg+6Cc4fJ0E083E2GAkv4VE2H1mFjuQINaIPUP9CAnpE66EAeUmtoZUyCfJ3pyBy+oxip+SBUIpVBq6p5Hfmq9e8vK6TyQcgOG6ew9idv/HAUJEiVraVQmB8WAwf7ucqx2MZG0Qs08rFZDpJcbOTM6I9McBKQVaFQcXw81gWFMikUhCh2Sv8v0hOKuSBvg32pbvwJdqY+O75KnXDk6BHLoDWM7H3YiWF0+yGnBoUMp49xbVDq7dLtFEtQLfvbZrYGTClbicwlhqnlG8+Kvt7M1jy8gE5+Vt1M81bVOfxwH9EnM9HOoIGrAAAAAElFTkSuQmCC",
-    "iconColor": "#ff000000",
+    "iconColor": "#ff232323",
+    "contributorName": "fankes、piscesmk2013",
+    "isEnabled": true,
+    "isEnabledAll": false
+  },
+  {
+    "appName": "TikTok",
+    "packageName": "com.ss.android.ugc.trill",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAllBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AJcWoAAAAMXRSTlMATkxKndOYP/broi8K+vBTEda/tFw8Jq6He2pZzcZtYkPi3bmwkYA4jiAeHOTYqppuzvnMrgAAAc1JREFUWMPV12dvszAQwPEjgbAhBMII2aPpeEbv+3+5VlWkw2IY42ul/t9FkX4MS9gHP5tvUr4ONEfK0IEMpA5cd/TEBaVcUMQF4ZELSrkgfOWCVlwQHrgg9LkgJ2eC0LE1IeqJC0Kr1oSoc2kv9SDKSVZ7PYgquKDF74Zm3wFFXJC9V4aCoBMCPx0NBbMyTVzHcQuCmhukXYyCjl6Ej9xO6LO82j1+e32MvUPK6oIevcXldXt2n3seykOUQ/LuJ2SBYkQWKEYeaI080DJkgnbIA9XY0XkCFKFYuL1erUQd2ovMrl5+vTd16I/gbIBSg+6Cc4fJ0E083E2GAkv4VE2H1mFjuQINaIPUP9CAnpE66EAeUmtoZUyCfJ3pyBy+oxip+SBUIpVBq6p5Hfmq9e8vK6TyQcgOG6ew9idv/HAUJEiVraVQmB8WAwf7ucqx2MZG0Qs08rFZDpJcbOTM6I9McBKQVaFQcXw81gWFMikUhCh2Sv8v0hOKuSBvg32pbvwJdqY+O75KnXDk6BHLoDWM7H3YiWF0+yGnBoUMp49xbVDq7dLtFEtQLfvbZrYGTClbicwlhqnlG8+Kvt7M1jy8gE5+Vt1M81bVOfxwH9EnM9HOoIGrAAAAAElFTkSuQmCC",
+    "iconColor": "#ff232323",
+    "contributorName": "fankes、piscesmk2013",
+    "isEnabled": true,
+    "isEnabledAll": false
+  },
+  {
+    "appName": "TikTok Lite",
+    "packageName": "com.zhiliaoapp.musically",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAllBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AJcWoAAAAMXRSTlMATkxKndOYP/broi8K+vBTEda/tFw8Jq6He2pZzcZtYkPi3bmwkYA4jiAeHOTYqppuzvnMrgAAAc1JREFUWMPV12dvszAQwPEjgbAhBMII2aPpeEbv+3+5VlWkw2IY42ul/t9FkX4MS9gHP5tvUr4ONEfK0IEMpA5cd/TEBaVcUMQF4ZELSrkgfOWCVlwQHrgg9LkgJ2eC0LE1IeqJC0Kr1oSoc2kv9SDKSVZ7PYgquKDF74Zm3wFFXJC9V4aCoBMCPx0NBbMyTVzHcQuCmhukXYyCjl6Ej9xO6LO82j1+e32MvUPK6oIevcXldXt2n3seykOUQ/LuJ2SBYkQWKEYeaI080DJkgnbIA9XY0XkCFKFYuL1erUQd2ovMrl5+vTd16I/gbIBSg+6Cc4fJ0E083E2GAkv4VE2H1mFjuQINaIPUP9CAnpE66EAeUmtoZUyCfJ3pyBy+oxip+SBUIpVBq6p5Hfmq9e8vK6TyQcgOG6ew9idv/HAUJEiVraVQmB8WAwf7ucqx2MZG0Qs08rFZDpJcbOTM6I9McBKQVaFQcXw81gWFMikUhCh2Sv8v0hOKuSBvg32pbvwJdqY+O75KnXDk6BHLoDWM7H3YiWF0+yGnBoUMp49xbVDq7dLtFEtQLfvbZrYGTClbicwlhqnlG8+Kvt7M1jy8gE5+Vt1M81bVOfxwH9EnM9HOoIGrAAAAAElFTkSuQmCC",
+    "iconColor": "#ff232323",
+    "contributorName": "fankes、piscesmk2013、NekoMua",
+    "isEnabled": true,
+    "isEnabledAll": false
+  },
+  {
+    "appName": "TikTok Lite",
+    "packageName": "com.zhiliaoapp.musically.go",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAllBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AJcWoAAAAMXRSTlMATkxKndOYP/broi8K+vBTEda/tFw8Jq6He2pZzcZtYkPi3bmwkYA4jiAeHOTYqppuzvnMrgAAAc1JREFUWMPV12dvszAQwPEjgbAhBMII2aPpeEbv+3+5VlWkw2IY42ul/t9FkX4MS9gHP5tvUr4ONEfK0IEMpA5cd/TEBaVcUMQF4ZELSrkgfOWCVlwQHrgg9LkgJ2eC0LE1IeqJC0Kr1oSoc2kv9SDKSVZ7PYgquKDF74Zm3wFFXJC9V4aCoBMCPx0NBbMyTVzHcQuCmhukXYyCjl6Ej9xO6LO82j1+e32MvUPK6oIevcXldXt2n3seykOUQ/LuJ2SBYkQWKEYeaI080DJkgnbIA9XY0XkCFKFYuL1erUQd2ovMrl5+vTd16I/gbIBSg+6Cc4fJ0E083E2GAkv4VE2H1mFjuQINaIPUP9CAnpE66EAeUmtoZUyCfJ3pyBy+oxip+SBUIpVBq6p5Hfmq9e8vK6TyQcgOG6ew9idv/HAUJEiVraVQmB8WAwf7ucqx2MZG0Qs08rFZDpJcbOTM6I9McBKQVaFQcXw81gWFMikUhCh2Sv8v0hOKuSBvg32pbvwJdqY+O75KnXDk6BHLoDWM7H3YiWF0+yGnBoUMp49xbVDq7dLtFEtQLfvbZrYGTClbicwlhqnlG8+Kvt7M1jy8gE5+Vt1M81bVOfxwH9EnM9HOoIGrAAAAAElFTkSuQmCC",
+    "iconColor": "#ff232323",
     "contributorName": "fankes、piscesmk2013",
     "isEnabled": true,
     "isEnabledAll": false
