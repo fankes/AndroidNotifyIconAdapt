@@ -201,7 +201,7 @@
             script.src = 'resources/js/' + names[i] + '?randomId=' + radomTime;
             script.onload = () => {
                 loadedCount++;
-                if (loadedCount >= names.length - 1) setTimeout(() => { callback(); }, 150);
+                if (loadedCount >= names.length) setTimeout(() => { callback(); }, 150);
             };
             document.body.appendChild(script);
         }
