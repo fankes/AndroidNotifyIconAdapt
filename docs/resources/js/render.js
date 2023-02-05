@@ -33,8 +33,8 @@ const renderController = {
     },
     setCookie: (cname, cvalue, exdays) => {
         let d = new Date();
-        let expires = 'expires=' + d.toGMTString();
         d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+        let expires = 'expires=' + d.toGMTString();
         document.cookie = cname + '=' + cvalue + '; ' + expires;
     },
     getCookie: (cname) => {
