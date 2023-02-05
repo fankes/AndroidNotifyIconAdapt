@@ -1,6 +1,6 @@
 const markdownContents = {
     syncNotice:
-        '目前通知图标规则仅限使用于我 (<strong>@fankes</strong>) 开发的通知图标修复与增强 Xposed 模块以及部分经过授权的合作方项目。\n\n' +
+        '目前通知图标规则仅限使用于我 (<strong>@fankes</strong>) 正在开发的通知图标相关模块与项目合作者使用。\n\n' +
         '如果你想手动获取在线规则平台的所有数据，你可以点击侧边栏的“贡献通知图标规则”前往页面底部的同步列表地址进行查看。',
     authorize:
         '在线规则平台的全部数据所有权属于 <strong>@fankes</strong> 与本仓库的所有贡献者所有，' +

@@ -2,16 +2,42 @@ const constValues = {
     tooSmallScreenMinWidth: 600,
     defaultNotifyIconColor: '#555555',
     telegramContactLink: 'https://t.me/XiaofangInternet',
-    repoSourceUrl: 'https://raw.githubusercontent.com/fankes/AndroidNotifyIconAdapt/main/',
-    feedbackNewNotifyRulesUrl: 'https://github.com/fankes/AndroidNotifyIconAdapt/issues/new?assignees=&labels=To+be+adapted&template=request_notify_icon_adaption.yml'
+    repoSourceUrl: 'https://raw.githubusercontent.com/fankes/AndroidNotifyIconAdapt/main/'
 };
 
 function onPageLoad() {
-    pageFunctions.entryArea0.showMainPage();
+    switch (renderController.getUrlParams()) {
+        case '':
+        case 'main':
+            pageFunctions.entryArea0.switchToMainPage();
+            break;
+        case 'notify-rules-app':
+            pageFunctions.entryArea1.requestDataForApp();
+            break;
+        case 'notify-rules-system':
+            pageFunctions.entryArea1.requestDataForSystem();
+            break;
+        case 'notify-rules-miui':
+            pageFunctions.entryArea1.requestDataForMiui();
+            break;
+        case 'notify-rules-coloros':
+            pageFunctions.entryArea1.requestDataForColorOs();
+            break;
+        case 'feedback':
+            pageFunctions.entryArea2.feedbackNewNotifyRules();
+            break;
+        case 'contribute':
+            pageFunctions.entryArea2.contributeNotifyRules();
+            break;
+        default:
+            pageFunctions.specialCase.switchToNotFoundPage();
+            break;
+    }
     pageFunctions.entryArea3.showAuthorize(true);
 }
 
 const renderController = {
+    getUrlParams: () => window.location.search.replace('?', ''),
     generateMarkdownContent: (content) => marked.parse(content),
     setMarkdownContent: (id, content) => {
         $('#' + id).html(renderController.generateMarkdownContent(content));
@@ -49,20 +75,23 @@ const renderController = {
 };
 
 const pageController = {
-    pageTitles: ['首页', '通知图标优化名单', '贡献通知图标规则'],
+    pageTitles: ['页面不存在', '首页', '通知图标优化名单', '请求适配新 APP', '贡献通知图标规则'],
     isPageBlocked: false,
-    switchToPage: (title, pageId, itemId) => {
+    switchToPage: (title, pageId, itemId = undefined) => {
         $('#item-main-main').removeClass('mdui-list-item-active');
         $('#item-nfrules-app').removeClass('mdui-list-item-active');
         $('#item-nfrules-miui').removeClass('mdui-list-item-active');
         $('#item-nfrules-coloros').removeClass('mdui-list-item-active');
         $('#item-nfdebug-debug').removeClass('mdui-list-item-active');
+        $('#item-feedback-feedback').removeClass('mdui-list-item-active');
         $('#item-contribute-contribute').removeClass('mdui-list-item-active');
+        $('#page-not-found').hide();
         $('#page-main').hide();
         $('#page-notify-rules').hide();
+        $('#page-feedback').hide();
         $('#page-contribute').hide();
         $('#' + pageId).show();
-        $('#' + itemId).addClass('mdui-list-item-active');
+        if (itemId !== undefined) $('#' + itemId).addClass('mdui-list-item-active');
         pageController.changePageTitle(title);
         pageController.scrollToTop();
     },
@@ -83,6 +112,14 @@ const pageController = {
 };
 
 const pageFunctions = {
+    specialCase: {
+        switchToNotFoundPage: () => {
+            if (pageController.isPageBlocked) return;
+            pageController.switchToPage(pageController.pageTitles[0], 'page-not-found');
+            pageController.showOrHideSyncNoticeIcon(false);
+            pageController.showOrHideProjectAddressIcon(true);
+        }
+    },
     headerArea0: {
         showSyncNotice: () => {
             mdui.dialog({
@@ -94,9 +131,9 @@ const pageFunctions = {
         }
     },
     entryArea0: {
-        showMainPage: () => {
+        switchToMainPage: () => {
             if (pageController.isPageBlocked) return;
-            pageController.switchToPage(pageController.pageTitles[0], 'page-main', 'item-main-main');
+            pageController.switchToPage(pageController.pageTitles[1], 'page-main', 'item-main-main');
             pageController.showOrHideSyncNoticeIcon(false);
             pageController.showOrHideProjectAddressIcon(true);
             renderController.setMarkdownContent('page-main-markdown-content', markdownPageContents.home);
@@ -105,7 +142,7 @@ const pageFunctions = {
     entryArea1: {
         requestDataForApp: () => {
             if (pageController.isPageBlocked) return;
-            pageController.switchToPage(pageController.pageTitles[1], 'page-notify-rules', 'item-nfrules-app');
+            pageController.switchToPage(pageController.pageTitles[2], 'page-notify-rules', 'item-nfrules-app');
             pageController.showOrHideSyncNoticeIcon(true);
             pageController.showOrHideProjectAddressIcon(window.innerWidth > constValues.tooSmallScreenMinWidth);
             nfDataRequestController.requestData('APP');
@@ -116,14 +153,14 @@ const pageFunctions = {
         },
         requestDataForMiui: () => {
             if (pageController.isPageBlocked) return;
-            pageController.switchToPage(pageController.pageTitles[1], 'page-notify-rules', 'item-nfrules-miui');
+            pageController.switchToPage(pageController.pageTitles[2], 'page-notify-rules', 'item-nfrules-miui');
             pageController.showOrHideSyncNoticeIcon(true);
             pageController.showOrHideProjectAddressIcon(window.innerWidth > constValues.tooSmallScreenMinWidth);
             nfDataRequestController.requestData('OS/MIUI');
         },
         requestDataForColorOs: () => {
             if (pageController.isPageBlocked) return;
-            pageController.switchToPage(pageController.pageTitles[1], 'page-notify-rules', 'item-nfrules-coloros');
+            pageController.switchToPage(pageController.pageTitles[2], 'page-notify-rules', 'item-nfrules-coloros');
             pageController.showOrHideSyncNoticeIcon(true);
             pageController.showOrHideProjectAddressIcon(window.innerWidth > constValues.tooSmallScreenMinWidth);
             nfDataRequestController.requestData('OS/ColorOS');
@@ -131,11 +168,15 @@ const pageFunctions = {
     },
     entryArea2: {
         feedbackNewNotifyRules: () => {
-            window.open(constValues.feedbackNewNotifyRulesUrl, '_blank');
+            if (pageController.isPageBlocked) return;
+            pageController.switchToPage(pageController.pageTitles[3], 'page-feedback', 'item-feedback-feedback');
+            pageController.showOrHideSyncNoticeIcon(false);
+            pageController.showOrHideProjectAddressIcon(true);
+            renderController.setMarkdownContent('page-feedback-markdown-content', markdownPageContents.feedback);
         },
         contributeNotifyRules: () => {
             if (pageController.isPageBlocked) return;
-            pageController.switchToPage(pageController.pageTitles[2], 'page-contribute', 'item-contribute-contribute');
+            pageController.switchToPage(pageController.pageTitles[4], 'page-contribute', 'item-contribute-contribute');
             pageController.showOrHideSyncNoticeIcon(false);
             pageController.showOrHideProjectAddressIcon(true);
             renderController.setMarkdownContent('page-contribute-markdown-content', markdownPageContents.contributing);
@@ -185,7 +226,7 @@ const nfDataRequestController = {
             dataType: 'json',
             success: (result) => {
                 $('#loading-icon').hide();
-                pageController.changePageTitle(pageController.pageTitles[1] + '&nbsp(' + result.length + ')');
+                pageController.changePageTitle(pageController.pageTitles[2] + '&nbsp(' + result.length + ')');
                 result.forEach((element, index) => {
                     let jsonString = encodeURI(JSON.stringify(element, null, 2));
                     $('#data-list').append('<li class="mdui-list-item mdui-ripple" style="white-space: nowrap"' +

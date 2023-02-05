@@ -45,6 +45,23 @@ const markdownPageContents = {
         '- SmartisanOS\n\n' +
         '## 通知测试\n\n' +
         '你可以 [点击这里](https://github.com/fankes/AndroidNotifyIconAdapt/raw/main/tool/NotifyTester.apk) 下载工具测试通知图标是否符合原生规范。',
+    feedback:
+        '# 提交适配请求\n\n' +
+        '欢迎为通知图标优化名单贡献宝贵资源！\n\n' +
+        '## 如何提交\n\n' +
+        '目前的提交适配请求方式为在 **GitHub** 创建一个 `issues`。\n\n' +
+        '你需要前往 **GitHub** 使用指定的模版创建一个 `issues`。\n\n' +
+        '管理员看到你创建的 `issues` 后会进行处理，最快 1-3 个工作日内完成。\n\n' +
+        '适配完成后 `issues` 会被关闭并标记为完成，同步云端规则即可获取最新的适配数据。\n\n' +
+        '如果你没有 **GitHub** 帐号，请先注册，[点击这里](https://github.com/fankes/AndroidNotifyIconAdapt/issues/new?assignees=&labels=To+be+adapted&template=request_notify_icon_adaption.yml) 立即创建一个 `issues`。\n\n' +
+        '## 适配说明\n\n' +
+        '以下类型的 APP 不予适配：\n\n' +
+        '- VPN、翻墙软件\n' +
+        '- 涉嫌色情、赌博类软件\n' +
+        '- 申请超限权限、涉嫌泄露国家机密行为的软件\n\n' +
+        '以下类型的 APP 通知图标暂不适配：\n\n' +
+        '- 多态彩色图标，状态不唯一，例如 360 极速浏览器\n' +
+        '- 规范的原生图标，但未被通知图标规则适配的 (将稍后加入白名单)',
     contributing:
         '# 开始贡献\n\n' +
         '欢迎为通知图标优化名单贡献宝贵资源！\n\n' +

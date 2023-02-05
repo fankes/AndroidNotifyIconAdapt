@@ -45,7 +45,7 @@
     </div>
     <div class="mdui-drawer" id="left-drawer">
         <ul class="mdui-list">
-            <a href="javascript: pageFunctions.entryArea0.showMainPage()">
+            <a href="javascript: pageFunctions.entryArea0.switchToMainPage()">
                 <li id="item-main-main" class="mdui-list-item mdui-ripple">
                     <i class="mdui-list-item-icon mdui-icon"><svg style="opacity: 0.75" viewBox="0 0 1024 1024"
                             width="23" height="23">
@@ -103,7 +103,7 @@
             </a>
             <li class="mdui-divider"></li>
             <a href="javascript: pageFunctions.entryArea2.feedbackNewNotifyRules()">
-                <li class="mdui-list-item mdui-ripple">
+                <li id="item-feedback-feedback" class="mdui-list-item mdui-ripple">
                     <i class="mdui-list-item-icon mdui-icon"><svg style="opacity: 0.75" viewBox="0 0 1024 1024"
                             width="21" height="21">
                             <path
@@ -172,17 +172,28 @@
         </ul>
     </div>
     <div class="mdui-container-fluid">
+        <div id="page-not-found" style="display: none">
+            <div style="text-align: center">
+                <br /><br /><br />
+                <span style="font-size: 55pt">404</span>
+                <br /><br /><br />
+                <span style="font-size: 18pt; opacity: 0.66">找不到你要访问的页面，请再试一次。</span>
+            </div>
+        </div>
         <div id="page-main">
             <div id="page-main-markdown-content" class="markdown-body-box markdown-body"></div>
         </div>
-        <div id="page-notify-rules" style="display: none;">
+        <div id="page-notify-rules" style="display: none">
             <div id="load-fail-text-box" style="text-align: center; display: none">
                 <br /><br /><br />
                 <span style="font-size: 15pt; opacity: 0.55">数据加载失败，请检查网络连接后重试。</span>
             </div>
             <ul id="data-list" class="mdui-list" />
         </div>
-        <div id="page-contribute">
+        <div id="page-feedback" style="display: none">
+            <div id="page-feedback-markdown-content" class="markdown-body-box markdown-body"></div>
+        </div>
+        <div id="page-contribute" style="display: none">
             <div id="page-contribute-markdown-content" class="markdown-body-box markdown-body"></div>
         </div>
     </div>
