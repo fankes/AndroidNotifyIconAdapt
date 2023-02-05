@@ -195,10 +195,10 @@
 
     function injectJsFiles(callback, ...names) {
         let loadedCount = 0;
-        let radomTime = new Date().getTime();
+        let randomTime = new Date().getTime();
         for (let i = 0; i < names.length; i++) {
             let script = document.createElement('script');
-            script.src = 'resources/js/' + names[i] + '?randomId=' + radomTime;
+            script.src = 'resources/js/' + names[i] + '?randomId=' + randomTime;
             script.onload = () => {
                 loadedCount++;
                 if (loadedCount >= names.length) setTimeout(() => { callback(); }, 150);

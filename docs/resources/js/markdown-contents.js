@@ -26,6 +26,6 @@ const markdownContents = {
         'MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n' +
         'GNU Affero General Public License for more details.\n\n' +
         'You should have received a copy of the GNU Affero General Public License\n' +
-        'along with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;.\n' +
+        'along with this program.  If not, see <http://www.gnu.org/licenses/>.\n' +
         '```'
 };
