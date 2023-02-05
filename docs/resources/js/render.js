@@ -64,6 +64,10 @@ const pageController = {
         $('#' + pageId).show();
         $('#' + itemId).addClass('mdui-list-item-active');
         pageController.changePageTitle(title);
+        pageController.scrollToTop();
+    },
+    scrollToTop: () => {
+        $('body, html, #body-container').scrollTop(0);
     },
     changePageTitle: (title) => {
         $('#page-title-text').html(title);
