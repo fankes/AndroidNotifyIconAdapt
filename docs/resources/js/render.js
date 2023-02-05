@@ -2,7 +2,9 @@ const constValues = {
     tooSmallScreenMinWidth: 600,
     defaultNotifyIconColor: '#555555',
     telegramContactLink: 'https://t.me/XiaofangInternet',
-    repoSourceUrl: 'https://raw.githubusercontent.com/fankes/AndroidNotifyIconAdapt/main/'
+    repoSourceDirectUrl: 'https://raw.githubusercontent.com/fankes/AndroidNotifyIconAdapt/main/',
+    /** Thanks for https://www.7ed.net/#/raw-cdn */
+    repoSourceProxyUrl: 'https://raw.githubusercontentS.com/fankes/AndroidNotifyIconAdapt/main/'
 };
 
 function onPageLoad() {
@@ -214,6 +216,11 @@ const pageFunctions = {
     }
 };
 
+const repoSourceUrlController = {
+    isUseProxy: false,
+    getCurrentUrl: () => repoSourceUrlController.isUseProxy ? constValues.repoSourceProxyUrl : constValues.repoSourceDirectUrl
+};
+
 const nfDataRequestController = {
     requestData: (name) => {
         pageController.isPageBlocked = true;
@@ -221,7 +228,7 @@ const nfDataRequestController = {
         $('#load-fail-text-box').hide();
         $('#data-list').html('');
         $.ajax({
-            url: constValues.repoSourceUrl + name + '/NotifyIconsSupportConfig.json',
+            url: repoSourceUrlController.getCurrentUrl() + name + '/NotifyIconsSupportConfig.json',
             method: 'GET',
             dataType: 'json',
             success: (result) => {
@@ -252,6 +259,11 @@ const nfDataRequestController = {
                 pageController.isPageBlocked = false;
             },
             error: () => {
+                if (!repoSourceUrlController.isUseProxy) {
+                    repoSourceUrlController.isUseProxy = true;
+                    nfDataRequestController.requestData(name);
+                    return;
+                }
                 $('#loading-icon').hide();
                 $('#load-fail-text-box').show();
             }
