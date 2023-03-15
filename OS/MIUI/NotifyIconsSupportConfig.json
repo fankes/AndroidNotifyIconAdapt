@@ -326,5 +326,14 @@
     "contributorName": "jasongzy",
     "isEnabled": true,
     "isEnabledAll": true
+  },
+  {
+    "appName": "MIUI 蓝牙",
+    "packageName": "com.xiaomi.bluetooth",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAABEZJREFUaEPtmUmoHkUQx3//ix4E9eAGRg8eEoggiF7EGJKDSkRPLuCCGhJIgiaaxSiaqCiKccHExH0LRokLHgQVDYqJokLEDRMX8CCi4gKiBwUPWlKP/sIwdM/09DfzPQip0+NNd1X9urqrq/oT+4loP+HgAEhOJM3sTOBEYIekL3PmlI4ZLCJmtgB4veLY9ZLuLnW0bd6QILcAt9YceBFwoO/aHOv6fUgQh3CYunwL3CDp5a7ONo2fDpCRP3dKuqkvmOkEcYY3QnQ+HxdokiA7gXkRh38NME+PAzNpkI+A6xIObwlAf5UATRRE0nwzuwB4EDgq4vAHAea9rjCdQczsCGC2pHebjJlZPWvtdBCfY2YO8SRwbkTHPyFFb+oCUwLyGnAKsE7SEyljTSCjOWZ2I3BHQsc2SZfnwnQCMbPbgPUV5fdIWhszlgMSonMq8AJwQkTPZkkrcmCyQcxsMfB4ROkrwFWSfqx+ywUJMFcCsaz1kqSL+gY5A/AS45iI4q+B5ZLeqmyb5BmpAd8LrE44u1DS1l5BwsodGmDOjij/D1gp6YEwthHEzA4LWyqmy1V4QvkqB8LHZG+t2ipuAKJnA3hE0rKWrHV6gDg24ujHkvzcdJIikLDilwDPJax5an6nVjROpV8zW+KwiXkbJa3sRBAGF4MEmNlhq3nzVJffgCMr//QSZQ9wdcLRiyU9XwJRvLXqxszMI+MRapJUrfU3MEfSp6UQvYGE6PiZ8bPTRd4EzpdUVF9VDY21tSKR8QzkKdqzW5sUn4eY4l5BQmT8nvGbem4DyTJJqQPftgDR70OA+AH3qMR6j5ETXgk8VORxYlKvIGbmUXCIozOc3CJpeca4rCG9gbTcDyln3gYulfRLlrcNg3oBMTPvHdqq1FT6/clTt6Rd48CMBWJmh4et5C+Kdfm5VmA6yF6vlBMOL5X0aClMMYiZnRYgZkSM7wA+TJQoS4GHEw5vknRtCUwRiJktAlLd4VSz1VI0zgG8HIkVjX5JLpb0QxegziBmluof/gWukDRVSLY1VmFb+n1zVsTh74FF1f6mDSobxMwOCVvpnIjSTwC/5HaPvrWBVMbdB6yK6PwDODn3nbgLyF3+uhEx6B3cWkle7e6TXJAQvVSru1XSwrZo+PdskGDQL7sLK4pvlnR7zFAuiJnNCpE+KaLnPEmvDgFyEOBN03Hh7enZlJEcEDO7DNiW0LFdUltrsG9qp4iEqBzvIJLeb1qpNhAz2whck9CxStL9OZEYjekMkqs8BWJmM4GnAO/b6+KPDUskDf9kOg4I8Fh4vzo4ose3mD8p/ZlrozpuohFpKO1XSNpcAjAdWyvm5xdebEryOmwsmWRE6o76E+kaSb+PRRAmTxdI56zUBjtpkM9CFLyh6lWGBPFi0CvZkTzjP7tJ8t8Me5fBQNzTcJf4n99I2t679xWFg4IM6Xhd9wGQSa52jq3/AWZ9pkJUwHPNAAAAAElFTkSuQmCC",
+    "iconColor": "#ff4c80fc",
+    "contributorName": "fankes",
+    "isEnabled": true,
+    "isEnabledAll": true
   }
 ]
