@@ -335,5 +335,14 @@
     "contributorName": "fankes",
     "isEnabled": true,
     "isEnabledAll": true
+  },
+  {
+    "appName": "设置",
+    "packageName": "com.android.settings",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAC4jAAAuIwF4pT92AAAEX0lEQVRoge2aXYhVVRiGnxnHmtG0aHLQRnKwNKIfZai0QOj3oiKKiEDEi+xH7CIIogu76KKwm64qo9JCtB/yQiMCgyQxQROhiKjUcUodampGpRQya5qni3WGObPdZ/+scxwjfGHBOXvt9/u+d++1vvWtdU6Tyv8BzWc7gEbhnJAqTAIeAtYCzxTkXAvsBVYD91Vs1Ac1ts1Qn1b3O4oh9fYc3iR1t2Oxv2Lrkth4YkWsUPtMx6/qDRnc1TV4qr1q53gK+TgjGNUBdYl6YRWnU12bw1OdExNTS+SI3Arck9E/DXgHOADsJMzFu4GLc+x+DfTHBBQr5JuC911RaUVxBDhZPpz4rDUhkpeHtljbsUIWRvLy0A3MjSHGCGkHlsY4K4BW4IkYYlkhrcCLlBv3ZbEMeLQsqcn0ovFm4EZgCOgFTgHzgAcrfeOBTcBHwEHC3JkLLALeBT5M3pwmZCrwHdBZdU2gKSKYfmCw8nkaMCPCRtL3IeAqEtktLf0+zFgRUE7EYWA9sB3YBwxUrncAVwK3Ao8RhBVB0vcs4F5g45iriRWyWf2kwOpbCy+pFxVYibvU19ThSD9fqJOrbSYdzDMUfmXxm7q4gIBkW6b+ESmmO0vIq5FGl0eIGGlPRfp8udpOMv3+XngmjGID8EYEbwSvAFtKcg6fxkl5Qo+oJwo+lRPq7Drexkibr/5Z0OdGw16oUBl/h3q0gNG3GiACtUndVMDfZrUlzUatlX0rsKrAK95eckjUgsBXOfccA1YSFunTkFWirAd+zOg/BXyZ47wMdgLDGf07gO9rdWYJGQR+yugfAo5nhlYOR4C/M/p3ZpHzisaJOdys/rI4n+x4MquLLOIcsqvcFkJJ3yjMJPvB3JJFriWkiVCuZwU6Ebgry3hJ3JbTv4hQp6UjJZVNVtcUSIWqn6sTGpB+p6h7C/g7pC5Is5G8cL36aUERGoq++xsgZGkJn8fVJ9XWLCGbSxgcQa/aUYeILsOhXlk8W20nOUfejxjbs4E3CVmnLKYSzn87Iri7x3xLPJ3phlPCGGxRZ5V4E5cbv/c5YGLfk1bzvB5pXHWf+rjaXiN4DAXfc+pgHX5WJe2m7dm7gT3U95NDX8XGDkaPQKcT1oIFxO3dRzAEzAe+rb5Y6xRlHeG0ZAj4h7BmdAIX1BFADH4GjhJqsDagC3iPcK4wFjVe/0S1zbCHH/l+nfUNuzLoN+w6L62K6TzDGnLaXsSUOVKkrTzDIvpM7MeLtFpDKw/byKl96sByQjovhdgJvS6Sl4cjpJwiFkGskIORvDzsYfRkshRihTRyH1KNYeKOZqN/seoucM8A8AHh6KYNuAZ4IMfnZcAUYo6lIrIW6ts5mWeDOjOFd6f6Sw736piYYoW0q8+rPSmBrHF0/UlrC9VjKbwe9QXD+jVuQqoFLVG3qX+pnxkWzzzeikrwJyvcJWbXZ2dsHUnDTYT02VPg3mZgMfADsKsRzhsp5Kzi3L+D/mv4F+2Wgn9fTJ4sAAAAAElFTkSuQmCC",
+    "iconColor": "#ff42a5f5",
+    "contributorName": "NekoMua",
+    "isEnabled": true,
+    "isEnabledAll": true
   }
 ]
