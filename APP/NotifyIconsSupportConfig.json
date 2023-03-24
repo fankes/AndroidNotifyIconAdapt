@@ -4234,5 +4234,14 @@
     "contributorName": "NekoMua",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "好大夫在线",
+    "packageName": "com.haodf.android",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAC4jAAAuIwF4pT92AAAEIElEQVRoge2ZXYhVVRTHf7dmphnLrCaNomKGJkWkMhGyhrIII5seSsiw8E0UejAK7KVvHytKe+gDoo+36qUewihIBoyBoC8LzOohyYJQ0WocrfTefw/r3Npne87ec+7syx3k/uFwLnuvtdf+77X2OmvvW5PE6YAzOj2BVOgSmW3oEplt6BJJhMuAt4CvgB3ADa0OVOvgd2QuMA4sc9omgVHg26qDtdMj52KTLcON5EmQyT/eirF2EJkHvAz8AOwFtgEDBXJDJfpjgb5S9FRViOBM4A3gbqftQeBiYB3QcNrLvDUHWAHsq2I4tUcWA3cVtK8Fbi2QLcNoVcPtIFIr6dvg/O4Hrg+MUxSKQaQmEprACiwBAKwCFgZkK6fS1EQuCvRdmj39wBORcTqefm+P2KoBI8DygFwD2FXVcEoiI1j4zNTmBPalr4SU6fdhLHWWoQ5MYWVJCG8CZ2Gp3IeA40VKqUqUUWAn0BeQ2Yd57VHg6YDcfmyyRZ4TcBDYDrzrdqTwyOVY4RciARb3deAa4CinZqY5mBdiHrsSKy4PYLWaQdJMniWSvlEcxyQtzXTmSbpQ0qD3DEnaLOnXaYwnSa+7cynyyALgJqyEEJZp/ga+AL535B4AtgKDkRUE2xursax2gnypUsM8tRt4EfgA+Bi4IjJmfj96Kzxf0p6SFfhd0rJM7rFprlpVfCSpT9JKSfWI7Bo5c/eJrIsoP5vJTSecWsWTmY3PAjIvyAtzPzOEzg9ufz0iNxOMZe/dAZmFWIr+Dz6RBmE0+9t5rDyavc8OyNwBLHUbUp9HJoEPgcPAdcC1Tt8eLAXPxTb9BSVjvILVYysjtvJO8GJtQyR+X8rkvizo+1zSImesHkmPSJqStFXSgNM3LGm8YIxmSt0SmceEN14yj0wB95NPzyeBZ4D3gB89+Z+A9cDX5D2zHEurxwK2DmW2cqVKqqLxU/IkXPgkmtiPfZtcXIWdJN8H/inROw+42W9MRSS0giEUTbYX+IvyzNgD3Os3piIyCsyvqHMOcLXX9hvwCbbRQ6fNw35DKiILsGufKniOfIE4CdyDpd+HAnoHMt0cUh6s7gNepfzywcXzwCavrR9bkBpwfkD3IPCd35j6qLsR+w6EyGyneMV7gS1YttsZ0F9CwZVTO24aN2I3jUXYBmwO6DYr2smIjVNOj+26+90EvAMswkqNYeA17NaxDA3slrKH/+utIkxgN/c5pC5RXKwF7sQ25yDxgnQvFnYD2F7rLZD5A/vA/ul3tJMIWKgMTVN2BLgF2x9loVkKP7SKbi5cNIm3IyT7gNtaVfYn9EtE/ufsfaJVgxGMt6zpVb/9kt6WdDyrMuuSGpJOZhXnJZncGklHIhVqFUxJesqbS6Wnk3+9JUWn/wxNhi6R2YYukdmG04bIvx6nEwBLDlKiAAAAAElFTkSuQmCC",
+    "iconColor": "#ff055ad7",
+    "contributorName": "NekoMua",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
