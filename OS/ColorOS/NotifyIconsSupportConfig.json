@@ -356,5 +356,14 @@
     "contributorName": "fankes",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "录音",
+    "packageName": "com.coloros.soundrecorder",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAC4jAAAuIwF4pT92AAACgElEQVRoge3aTYhNYRzH8c+Mt5rQpJRkM0N5S5KysCBZkrKSZmFBpLBUosTCCoUoRV42spmN2CjFCgsphSZWhLyEouTtWJwz3eMYc597njvOSfdbt86/8/z/z//3vJznf063K0kS/wPdVSfQLjpC6kZHSN3oCKkbVQrpwVk8whFMioqWJElVv23J72yIiVfljPQV7JkxwaoU8r1g/4gJ1tnsdaMdQlbiEg6jtw3xSjE+0r8PVzAls6dia2TMUsTOyFwNEbA4Ml5pYoX8LNjfCvY0HMQpLInsa1Ril1YzjmMgu16LRfg4Fh2FzEgPDuEmdgb6DMfOz8JMzGght/VZn+cwvVnjkBkZwJ7segUe43pgMvml1sqB14/LmJD1+QNbRnMIGd3ZBXteCwmVZYZUxDDzmznkhSzDKkwstCmOZFQpEUjx006xnPmDYSF7cQc3cBHjcm262pJae5mFoziBOTT2yKZco3XSzfXqn6YWzjicx+rMXorl3bmbecb6sRzDBCzI2f00ltbt3I0nePuPkirDF5yW7tUEF2iM/A6pgF6czBrXmQMYlK6k+zSEvMf+vzgVl13RHguKx8JIS/3BaA4j8bpgv2glo5J8aJLDH4QIuYireIYz2XUo+ZHsFv4ofyhdIS9xD/ta6ehvvJEWfJPxKTAR0sr4ORZm9me8C/RNpFXzscwv+EAMoRURw+zCNdzFZumgtMJHASKIPy+anT9DWBPZRxCxL1ZP8TVnP4mMV5rYGRnCRmyXljS7ozMqSTtKkcHsVymd71p1o0ohbS19qhRSfN8JPSxHpKvCPwz0Sr+QLMYtaQVe5tBFtULaSmez142OkLrREVI3/hshvwB5Of0dftbyuQAAAABJRU5ErkJggg==",
+    "iconColor": "#fffb422e",
+    "contributorName": "NekoMua",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
