@@ -22,13 +22,14 @@ const markdownPageContents = {
         '## 不规范收录\n\n' +
         '<strong>（不规范）</strong>允许 API 19 以上 APP 使用彩色图标但保留原生单色图标\n\n' +
         '甚至自己的系统 APP 都在用彩色通知图标\n\n' +
-        '- EMUI(≤3 ≥5)、HarmonyOS(Android 9、10)、MagicUI\n' +
+        '- EMUI(≤3 ≥5)、HarmonyOS(2.0-3.0 Android 9、10)、MagicUI\n' +
         '- ColorOS、RealmeUI\n' +
         '- OxygenOS(≤12)\n' +
         '- MyOS\n' +
         '- RogUI\n\n' +
         '<strong>（破坏）</strong>完全破坏原生单色图标全部强制使用 APP 彩色图标\n\n' +
         '方法 `setSmallIcon` 失效\n\n' +
+        '- HarmonyOS 4.0 (根据酷安板块反馈，通知栏完全模仿 iOS 设计，完全破坏通知图标)\n' +
         '- EMUI(4.0 、4.0.1、4.1)\n' +
         '- MIUI(≤9 ≥12.5)、JoyUI\n' +
         '- ZUI\n' +
