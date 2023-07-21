@@ -4605,12 +4605,12 @@
     "contributorName": "fankes",
     "isEnabled": true,
     "isEnabledAll": false
-  }
+  },
   {
     "appName": "使命召唤手游",
     "packageName": "com.tencent.tmgp.cod",
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAEW0lEQVRoge2ZX6hnUxTHP4tJESWG4ncRYsYwD8ODByRFXX8z8yApE/Lgz0TGnzSN1KREI3m4/pUMHjwoE/kzpWnugxuloeZORv4U6jKiEFHcZmnd1q85v/Pb+5x9ztnnusn35d7f/rfW9+y91l57Lf4rkCKPubm5hb+qisjBLvttKLYlYA3wEnAWMAVsAv4orlleL1WutU9MTIy0HdLDhhwJvAjsBlYDy4C7gW+AG8sfLxdyEjEFr3eFbwoovBx4GdgLXLBUiawEPgBeBY6pGbsKeF9E3gVOyCS/M5HDgaeAWeD8hnMnga+BrcARHfXoROQK4CvgLreDNjgMuNeP4x1d9Gkz8RTgPeDtrkdj6JVU1exnSkRm29pPEyL29bYAnwOX1ilX10bYnS/YD/AmcFID3dKIiMjFIrIPeMgJNULd/RPovxr4UkS2ikiS/dQRORZ4XVWngdNSFmx4aVahkf3EOq39Afcqa3Np1hLLPTKo9IwhIueJyB7gMb+ly1/5r54V/ztiU2Y/H9oJEZEV5c4ykTeAj4CzI0K2e99VFpplUfsgbL0rTWER2V4xbq2qflZuLBO5LBIL2bZeAqwzI3TXu9qDwgXYV4x5pwRsA84B3vH117m82cjU3+qIzEcmPgNMl9p+9pjKdueHlgRsnu3CzcAvpb5plzuGkEPJEWvZ7uy0xUVkf0ChMn4F9nvbTt+FzuhEJHCUbgVOBZ4FDgSm2EV3ho/Lik5EIneG7cjtwIWFM/6n3wXXAj/mJkGHYC8FFtaf6zawz0Ob3tCaSOipGsC8u/Su69Si9dHKGIpE0cSd9/FmD6JBBDyGlDtq0Yh02cHh3ML7ZWxMrY20TAVlQVFm7P9kIv8GgTZofbQ6xFW9YEl7rSZYNGPvG/8TiWCDqq6ssR9Lam/ILDc7EcsezorIlL+1ixi+vff4uFo0cSjZg0YRWeaR7g2eDrVgcYVnRI5uuFby2D6jX1P6kR7XH0HwaC21OyIFQSKhqlFPOB44tCirrbxaY3dSJ1fMv8WzL2NIUMxyyDPuyYryhojJrSVyVGTcg8AurwsOMelP2ReA41IFBmDZw4+B+0VkuDtrVHWXyw1hzLbLxVDzLo8D10QWOKCq20TkRFWd7CFMsUyiJd/WV5yWHcDmwWCwu9gYrOp6jeJ5T1OOINfTtAUscXcP8JZNHQwGIyvEWM94JvFO4KcR5otP4ncrbavqqiGJEKqM3fJST3uF6olFSF6XoV5cPRN41JLbVYNTQhQr8t/nC+5I0qC7y/4EuMiiA1X9PmVCk1jLCi6Xe+Lt06qB5Td2A9gxvs1KG368k9EmaIzaT4xQAuZV1QJKq4o958eqEdpGv0X7ebIii5+CaTNkEbHQfqxckIquYbzZz0YnlGQ/BXwLXOd1kC866pHtPfKdqibZjye0t3hW/rVM8rM/rGa88rQ+Yj9WUjsdeDi3O+/jzW6G+oofN7Mjsx/bJYuprKSW5E4bAfgHl/k2jfVu17oAAAAASUVORK5CYII=",
-    "iconColor": "#fffee502",
+    "iconColor": "#ffecd613",
     "contributorName": "09277632",
     "isEnabled": true,
     "isEnabledAll": false
