@@ -5,6 +5,10 @@
 
 这是一个在线规则平台，为国内 Android 不规范的 APP 和厂商适配原生通知图标与规范图标修复。
 
+## For Non-Chinese Users
+
+This project will not be adapted i18n for now, please stay tuned in the future.
+
 ## 开始使用
 
 - [点击这里](https://fankes.github.io/AndroidNotifyIconAdapt) 打开在线规则平台查看项目介绍、通知图标优化名单的全部内容以及调试、生成、贡献通知图标规则。
