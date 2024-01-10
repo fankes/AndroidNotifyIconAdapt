@@ -4785,4 +4785,12 @@
     "isEnabled": true,
     "isEnabledAll": false
   }
+ {
+    "appName": "光大银行", 
+    "packageName": "com.cebbank.mobile.cemb", 
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMFSURBVGhD7ZpBaxNBFMeT2It40o9TP4EXQQ+CHgQFRcFb8eTJgyKCF0G89CCigiKoCBVMFSwVrLUVEaQXUatWioihQqTaRH9v51kSzczuTHdnQ+IPHm/+u5N983bezHZXKzba7fborwgQp4VNYXuRIxrem6r6f+DC26vV6rTK3JEkcPuxn8kBw0KtVnuhbS/KTmQzA181RzZGTX10uElyE5taWn/bGnbU9MxG2TNyCOssrU5axL+Oral2UnYiW4jxwxyx0qaP9HVSdmk1yKeZYkfML9y4ZmSUWI9VdsHFn+LGjSoWxvAGm1RpJai0SERq96DKGKwSr6VtPyQRBtwXMJbdOiwroYv9Edc/p+0YzPO8+ahtP1wzwrmr2q1vCF3sDdw7o6Jwmhm5oe2ehC72Z7jLRhUP47iLvVXpx7CU1hfca6MKZ5qyGtO2ldDSWsBNGFUsjOGWbRyZGKTScs3IIudmVBaC3C/cWNbnR+gfjVUCbSrSiPEk+CHYySCVlmvX+oZbNipXXmLHmQnvHTFojYQis4k7Jc3kQDczxLuHydrwJnoiXHMkdLAuoiYikMsVcUb1ZJa4F3yTLSOR1Lc9eEjsM1jqu/of/pdWCJII7rA0kwPZmGAX+6RtK65EXNuvfIvK5QthBiZJZJe2/ZEZkTvYC86d1W59Q+iMLHPug8rCId4KbgczY62CoERgjovbzhUCY7mIyeuDH8NSWvLOPmVUNOSj9gms50fv0ERkO3xvVFQOsE5eaTsbg1Ra1gciucziYpeWLPjz2KLKLkJL6zNuyah4MJ6dtkSsDEtpPcDdNioaKyx069fN0NKSJ+x3o+LAWOrYHpXZGZbSuo+7aVQU5GF4CbO+xwSVVh7IzOKylucd1sc+bfckaEbygDwaXH+bylTo63wZKzORJi71fzcwBvm3ka8qrZSWiEAyaW+Z45TUMW07KbW0GORWlRumzERkoZ80ah1ZB3USfG5kdlyJJLsWAWXLkwCZjd/xs2RXctn6Vkr/JbrXaV4jCfn+60ml8htmxzMXMJZS8gAAAABJRU5ErkJggg==",  
+    "contributorName": "jeffrey", 
+    "isEnabled": true, 
+    "isEnabledAll": false
+  }
 ]
