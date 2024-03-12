@@ -4812,5 +4812,14 @@
     "contributorName": "李太白",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "蜻蜓FM",
+    "packageName": "com.miui.fm",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAADg0lEQVRoQ+2ZTYhOURiA57MgP0VkSlkRG1b+YqFsCLGY0Agz468msmBjNWJhbCwoq0EoP+VnJjUWahYiIYOFmhVJFMnvilj4PK/OnU7fd++55773Z77v67v1Nveb8573vM/7nnt+Sy0N8pQahKNlTEHK5fJqAtmN9JVKpaE0QS0cBOdn4vB2ZC+ywDg/BMiaugABYDmO7kG2IZNCnF4BzBMtTK4ZwfmpONaO7EBWOpz8LRkC5EpNgQCwCId2GYBpDueGKbuEXAfiqxZC6mWWEZyX7iLRFwBX9H9Sfg25jPMP0jhv100NAsBCDO5GtiCzHY49p0y6jgCkin5YG2oQADZjUD7etTF9v1+6T9rhNS5ziUBwfh4GOxEZeeY4jI9Qdt70/Y9xTmRR7gUCwAbTfdoiGpVR5yVy00T/cxbOJbERCWImrp0Y60KCiSvK9g8KbiH3jcIs/k5O4oiH7gd0BumioRkOBQFCxv0+JGzi8mgzNxXJ/D5gLla2UAVi5gAZYWr5qVoFhIFIF9lUyxT4VrU2CwN5iuJSC0Sy8w4ZN0Zwf2lXvjlZqwXPG7rXXNsfH5CNVLozRhD/mzULzseWDyP4JBPx6BMGIhVs+o40i7ksAmCG/8EmiIlA7hkh4vINzLAi/oleMDqp1k1GcPQqELLsCZ7jgBwJftQzSC8gPVmDtGH0dhYfbZQNIn6OMtnDB89h2jxpgazi/V7aj11OOdRbUM8ACIjdtXr5fcKqu553WZAGj2r4lR3dH0+HtGoTqTjBqixrql/W7/G82+s+FYjWuTzrNUHyjK7GduqMyPci+5RHyBdkCrIE6UBcW1+Ns646qUDkbLYraofGEHqG8gNZexxhTw0yDMCyOCcLhFGDtNprHxcQMO8pd51vxcXDp1wF0g+EnGF5PYAcRPGUl7JeSQXSDchZ3zYL2vOrQNoBuZEARLagr331lXoqkIbJyF0yss43cnStY+ge9dVX6qkyIm3NB+aVT6OAfEfPdSfiYyZORw1SdfwS1hIQA/w/6nw4zrkk5WoQaURO2DvJzIvKFs2eW2b2og72vECe4dBiR3jkvuMh8hZpReQwL+qCM0mUk+h6HdDJdZjr6ixJg3npemVE7gAv5OVBRnYP0cVP27airhVq+SA7dDpwXfTsh3grMj2jKKY18w0DA5WZCIx6Xb2l9aCI+k2QIqKcpI2Gycg/53VyQnQHg3kAAAAASUVORK5CYII=",
+    "iconColor": "#ffd8271c",
+    "contributorName": "ghcsd",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
