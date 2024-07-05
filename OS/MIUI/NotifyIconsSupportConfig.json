@@ -354,4 +354,13 @@
     "isEnabled": true,
     "isEnabledAll": false
   }
+  {
+    "appName": "文件管理",
+    "packageName": "com.android.fileexplorer",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAYAAABV7bNHAAAABHNCSVQICAgIfAhkiAAAAyFJREFUeF7tm01IVkEUhhMCXVS2E4yIooVbV+2S3BQUFG2LKBdirnLbwmoRLd31sykq2ob9LIogxKWrdulCEEyjXf4slBb2HvgU1Llzzr1z5zqO78DL9+GdOXPmmTPzXc+d23aIxUugjXz8BAhIiRACIqCwTYQRxAja+wjqhAtXoetQD9QNHS1wawV/X4CmoffQR2gpbAhxW4cssS64dh8ahDoqurmGdi+gJ9CfijaiNqsK6Aq8egcdq8m7Zdi5BX2oyV5tZsoCkvoPoFGobFvN6Y2W3cf4lO9JlLKDvAmv30b2fAD2X0Xuw2y+DKB+WP0KHTZbr1bxH5pdhr5Va15vqzKAxtG1/Fo1UWQvutZER1ofVkDyi/U7wr6j+Rfr+hwMj0Ay6d5iBTQEK880Y/vs+g/426v5bAU0AUN9mrF9eF0dv1qhNei/+JQ75tyKOn61QouI3PG250bHsqdaASVz41bzJKnjVyu0HCIgZWYIiIDcBLjEarpR5BLjEuMScxFQtxi1AqxK9vBTzfcfqZiTjIE3i+kDFDN7mAogNYvpA9RE9jAVUIVZzCJATWUPUwFUmMUsAtRk9jAVSM4spgtQbtlD6wTIfnQCkszpVnEByjF7aIV0FxWfa4AmUCHH7KEFkjy1uaQByjV7aAEk5wSOa4ByzR5aAK2j0rZzBq49KNd/TC2ApM42JgS0GxsBKaFEQARk3W3c9RhBjCBGUBgBRlAYP+5BjCBGUBgBRlAYP+5BjCBGUBiB0Ag6yAkzU0ZxDoRPRZ2jdI3PwDV5pWuruBJmB/GZ2CaQXc/GXIDuofZYupMc1TPTYx8JsZ9R3UjX+Gm4JluMd4nJxS/QxXTHEcUz86Nn6V2iSN5lyPHwuIuuPO45C/3aedF3/OUOKr+MMlfpGb0Nl1673NJOmD1EI3kFM+fyCIOTcTqLBkgayUt0b6C6XuBNBba8SHwD+uxzyAJI2p+EnkJyXjGHIlCGoXltMFZAm3bO48sF6Bx0BpLzNEe0Tvb4+ir6X4RmoSnoOzRp9aksIKvdbOoRkDKVBERAYaudEcQIYgSFEVBa/wfXCW9Jqzb5xwAAAABJRU5ErkJggg==",
+    "iconColor": "#ffffc550",
+    "contributorName": "Raipt",
+    "isEnabled": true, 
+    "isEnabledAll": false
+  },
 ]
