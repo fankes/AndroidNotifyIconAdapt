@@ -353,7 +353,7 @@
     "contributorName": "ghcsd",
     "isEnabled": true,
     "isEnabledAll": false
-  }
+  },
   {
     "appName": "文件管理",
     "packageName": "com.android.fileexplorer",
@@ -362,5 +362,5 @@
     "contributorName": "Raipt",
     "isEnabled": true, 
     "isEnabledAll": false
-  },
+  }
 ]
