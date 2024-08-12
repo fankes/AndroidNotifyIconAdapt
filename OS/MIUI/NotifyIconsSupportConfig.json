@@ -364,12 +364,12 @@
     "isEnabledAll": false
   },
   {
-	  "appName": "智能助理",
-	  "packageName": "com.miui.personalassistant",
-	  "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAACVBMVEUAAAD///////9zeKVjAAAAA3RSTlP//wDXyg1BAAAACXBIWXMAAAsTAAALEwEAmpwYAAABC0lEQVRIib2WSRbEIAhEq4j3vzK9iOmgFg69aFeKfMGBetJw2s6JPyElsTsAUE5d0uzfnpgWiLfDwWFAvPcYoBYR/iMVkRRooReZApGqyNr/hS7uA5UywE8IOOwoBAC4Ja8ibzSARxDvZ8mjEytPfwOq2ZQw3rx9k9YZEd/YKrXH80nMq01zBBxeIVoEdDC2q9JaYIT66iBNCUNa+w6ggKp0JwIjE8vavTbf7S+puP3GMIsQD7m3ZgF6JIN6qxIlKW0rUdJKtRIlWUG/itK1XcTfdi5K+EGUyoG+AADxiNImFUVpJ1Rf+6tQYceltSdQc0RlmBuo/kjHrwLlw5oiMZS8s+RDMrvf//yUPs3pPLUHjuFpAAAAAElFTkSuQmCC",
-	  "iconColor": "#ff19a5fa",
-	  "contributorName": "Illustar0",
-	  "isEnabled": true,
-	  "isEnabledAll": false
+    "appName": "智能助理",
+    "packageName": "com.miui.personalassistant",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAACVBMVEUAAAD///////9zeKVjAAAAA3RSTlP//wDXyg1BAAAACXBIWXMAAAsTAAALEwEAmpwYAAABC0lEQVRIib2WSRbEIAhEq4j3vzK9iOmgFg69aFeKfMGBetJw2s6JPyElsTsAUE5d0uzfnpgWiLfDwWFAvPcYoBYR/iMVkRRooReZApGqyNr/hS7uA5UywE8IOOwoBAC4Ja8ibzSARxDvZ8mjEytPfwOq2ZQw3rx9k9YZEd/YKrXH80nMq01zBBxeIVoEdDC2q9JaYIT66iBNCUNa+w6ggKp0JwIjE8vavTbf7S+puP3GMIsQD7m3ZgF6JIN6qxIlKW0rUdJKtRIlWUG/itK1XcTfdi5K+EGUyoG+AADxiNImFUVpJ1Rf+6tQYceltSdQc0RlmBuo/kjHrwLlw5oiMZS8s+RDMrvf//yUPs3pPLUHjuFpAAAAAElFTkSuQmCC",
+    "iconColor": "#ff19a5fa",
+    "contributorName": "Illustar0",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
