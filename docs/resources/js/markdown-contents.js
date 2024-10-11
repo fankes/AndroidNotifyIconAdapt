@@ -11,7 +11,8 @@ const markdownContents = {
         '目前经过<strong>授权合作</strong>的项目如下：\n\n' +
         '- [MIUI 原生通知图标](https://github.com/fankes/MIUINativeNotifyIcon)\n' +
         '- [ColorOS 通知图标增强](https://github.com/fankes/ColorOSNotifyIcon)\n' +
-        '- [HMS Push](https://github.com/fei-ke/HMSPush)\n\n' +
+        '- [HMS Push](https://github.com/fei-ke/HMSPush)\n' +
+        '- [NotifyMe](https://github.com/wzn556/NotifyMe-Tutorials)\n\n' +
         '注意：除合作方外本仓库所有者有权在不通知的情况下根据自己的项目需求随时动态调整本仓库的所有资源包括但不限于修改格式、移动目录。',
     license:
         '- [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html)\n\n' +
