@@ -5240,5 +5240,13 @@
     "contributorName": "NekoMua",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "GKD",
+    "packageName": "li.songe.gkd",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEAAAABABAMAAABYR2ztAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAYUExURf///0xpcf///////////////////////73SUKYAAAAIdFJOU/8ARTAT1K11nPJVlAAAAZNJREFUSMfF1ctOg0AYhuFPBGbrDLRsKSa6rcELkIWuaWziFhJTt2hivH2ZA8Mc7a52QWh48nL6pwU988GlQac3YVCQecOSONjjk9IauxgoAEIZkMTAHshpBVgJWAGMlE52Ak7gpXMSsANlf3QSsAPPyJwEnADgJOAE4CY02KqATGSdfw2DDMjEMXCRWxXgie8u+CRlAEbfBksAxgkswJbjuI68rHoBDxHAAgF7YGo/YAPmB5yhrb2AA5gXcNdFbc+bD5gb8FZWvTsDyv9e3eX9z+njK/6g7tRAvIXfZjHoeUhoaORu9PF5jZ+8qa5GAyR0IC6YDjbAuw0qpBsYMzno0VZgQrJdQToDvJpgXo1JZYJeDw5UAMQAVwIcV8AHiTAXZCuYlz5yD/DfRAX417wwgbpbBcTZ83IFBwmyBTwJQD0gzgF5D2GQSiDbOe09QCSooiCTYBMFfBFBXaMFxuWORgGmOEgFGOKACNDDvU0Ncg7KBRtAP3YO2F9gxwtN09y27SNtGrnXtl0p9vne5f+aA59f0I+A+FCMWfsAAAAASUVORK5CYII=",
+    "contributorName": "BOOW6",
+    "isEnabled": true,
+    "isEnabledAll": true
   }
 ]
