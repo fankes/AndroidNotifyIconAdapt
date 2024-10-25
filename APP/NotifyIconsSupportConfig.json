@@ -5240,5 +5240,14 @@
     "contributorName": "NekoMua",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+  "appName": "画加",
+  "packageName": "com.netease.huajia",
+  "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAM1BMVEUAAAD///////////////////////////////////////////////////////////////+3leKCAAAAEXRSTlMAQIBwv+//UBCfIDDfj8+vYIEgaGcAAAJ7SURBVHja7ZdRdoQgDEVDCBEiIvtfbSsD1TEitn89Z+6nM17gETTChw//BmOwYo35qwPJ8TuOcPLwK6bguANZgYrQDHd4jHwLTVAITHADOh7hoOCYBbrMvEMLmgYixV3U/mlvQuYXyeoAvMHE3wTYQGZeoc82bkTpJpipZkyb09+sLaYMY8TyxiLwDDEvzpbEjWRloMjhrSTjXo6Z35l+X0trLiLHR9zU1zjuEc32B5uO7h5z4juWuvIyGN5tm+N7AhRW/mYeesamsv9wZuFkPWwkHmPbESEVb1lvLfwxTuoZQDiRm8g7rowXt1xEFFpwyM/YpiQc4UxqD4fYCl9AVFpBDG+0GCa9Z1yDm1sIvgW3Q7JNopJuHkK4r6zuBh01ZpuC44bvi6Z6qxK1DfeBdwyAX915Zlh/gtQT+fKk4h2sw8u1iHuiVHJFp0RGi+aDKOqwKdfNGIr8QcTBgyd+x6EYLeotreGI+4xFxE+x9VzNWjSVo/IUU+/qFKTlJ1TBokUz17em8EPWmgNdnDV3+Viz2xVU2eVXE8HhJKIWUuYT5Yq6vB3quQp12sUez6H6yLTFsXPMU1QzU4eBid9J/uKFEFsKCc7EOo6ugIjTcvLw3Ma2SmTblHTemvwzoCiRdz8peXrikVoECjz0FQvfEM2+zwY0vqTk5lf2xB0c+j0KgiumViAFWRJr1uzbLncmtC8ozofWcyGicpFoxWxO/cEKHVJrm0bYQaPmU12AwB1Ce3kPTBykrwnMSqTwK+t+XXezWqSx7vwFUYM3WX134X0CKz8F4R7zVGVhhGDkHjFMYGyg8up7gOSgStvRkgX+gpjp+HH84cM/4gsh0TRWPGzbtwAAAABJRU5ErkJggg==",
+  "iconColor": "#ff0fc0d3",
+  "contributorName": "PianCat",
+  "isEnabled": true,
+  "isEnabledAll": false
   }
 ]
