@@ -5242,12 +5242,12 @@
     "isEnabledAll": false
   },
   {
-  "appName": "画加",
-  "packageName": "com.netease.huajia",
-  "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAM1BMVEUAAAD///////////////////////////////////////////////////////////////+3leKCAAAAEXRSTlMAEECAcFC/7//PjzCvn98gYDn9l/oAAAKBSURBVHja7ZfRkqwgDEQxkdCoIP//tbeGQXAFlJ2q+7BVc96mhCYmnQyqL1/+NxMRJ2aiDzU0i8FPjLCefqcyC3rYZVUHervVJYd7/KzeeMyqyy54JO1fAa+6eBTsxkxvZnZiLkIMYFU9zCHCVEerFwvk7RYAqx78zsLeffUg2N4lief1K2Yheqi0XIL7nH22SBinn2zNTspyEQ75dHfxA/3Wkt5RjOfq+dCTYYMeQvEci4xfepUhgzvcdM6S62c74AE7lfJDDev0lWzDRyRHUxMGEPViAeAaHbbEeD0iI12r63qt+RjGEGZKfbnXDRYjmgzG4OjLKkUCAC+DzEiI1hsqXDaYiRYQas2OVIiSTXeV2ZUSJHSzBY+9049lO87Imr2RElFDxxONxDtkFGzsjA0Z+/odmHXlQY5J7wlRVYm03FRF0ykrlVAxDgkKU9p3FYp7pZ8jCTH2EhQ9CPWrZjhXbVwINjR9tGBMiDFOCrkW4lGhYm25CunDR4RhJAn5ypCSCz48SNK2QhmaG0ZZkz2W+uZApUcKPrbFOuOCjYuryeaytr8Kxf6pB3k4du2qyrZRrZBIOQnKNQJSvh7+E3KUct2yt/5Z1tPMqN/Nq+awFfF1yao3S1B5vho84c7TsDW1zR6VPO5hlZ0SWkMyp25yuMHrssGrmi0FHaGtK8OTyqmsAypJdvlKtpnGZV0fq23/AklISpmdmBeJbMyBVKTogFSTORvnCfKIqA4OERPT0KfUonskn6Zzj92d53+PYNC4+BfW2eIEDX7S2I1nOtC8SN3QNwSPYeg+l+NSj/XVzqCHcWGaiDcLH9QA67z5SkOWsKpPWEmfv7K/fPk7/ANygUSGHGZo4gAAAABJRU5ErkJggg==",
-  "iconColor": "#ff0fc0d3",
-  "contributorName": "PianCat",
-  "isEnabled": true,
-  "isEnabledAll": false
+    "appName": "画加",
+    "packageName": "com.netease.huajia",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAM1BMVEUAAAD///////////////////////////////////////////////////////////////+3leKCAAAAEXRSTlMAEECAcFC/7//PjzCvn98gYDn9l/oAAAKBSURBVHja7ZfRkqwgDEQxkdCoIP//tbeGQXAFlJ2q+7BVc96mhCYmnQyqL1/+NxMRJ2aiDzU0i8FPjLCefqcyC3rYZVUHervVJYd7/KzeeMyqyy54JO1fAa+6eBTsxkxvZnZiLkIMYFU9zCHCVEerFwvk7RYAqx78zsLeffUg2N4lief1K2Yheqi0XIL7nH22SBinn2zNTspyEQ75dHfxA/3Wkt5RjOfq+dCTYYMeQvEci4xfepUhgzvcdM6S62c74AE7lfJDDev0lWzDRyRHUxMGEPViAeAaHbbEeD0iI12r63qt+RjGEGZKfbnXDRYjmgzG4OjLKkUCAC+DzEiI1hsqXDaYiRYQas2OVIiSTXeV2ZUSJHSzBY+9049lO87Imr2RElFDxxONxDtkFGzsjA0Z+/odmHXlQY5J7wlRVYm03FRF0ykrlVAxDgkKU9p3FYp7pZ8jCTH2EhQ9CPWrZjhXbVwINjR9tGBMiDFOCrkW4lGhYm25CunDR4RhJAn5ypCSCz48SNK2QhmaG0ZZkz2W+uZApUcKPrbFOuOCjYuryeaytr8Kxf6pB3k4du2qyrZRrZBIOQnKNQJSvh7+E3KUct2yt/5Z1tPMqN/Nq+awFfF1yao3S1B5vho84c7TsDW1zR6VPO5hlZ0SWkMyp25yuMHrssGrmi0FHaGtK8OTyqmsAypJdvlKtpnGZV0fq23/AklISpmdmBeJbMyBVKTogFSTORvnCfKIqA4OERPT0KfUonskn6Zzj92d53+PYNC4+BfW2eIEDX7S2I1nOtC8SN3QNwSPYeg+l+NSj/XVzqCHcWGaiDcLH9QA67z5SkOWsKpPWEmfv7K/fPk7/ANygUSGHGZo4gAAAABJRU5ErkJggg==",
+    "iconColor": "#ff0fc0d3",
+    "contributorName": "PianCat",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
