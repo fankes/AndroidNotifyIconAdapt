@@ -5302,5 +5302,23 @@
     "contributorName": "oosl",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "Bambu Handy",
+    "packageName": "com.bambulab.creator",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAC8AAAA+CAYAAAC7rUKSAAAAAXNSR0IArs4c6QAAA6BJREFUaEPtml+IVFUcxz+/c+8461ZK5BaaUBT4spIPlYhESW9CD2oULamVBD20BtJDiK/RkxBamPggkllI+OKLPljggyD4kBQkifoi+Gcr+qPu6t6Z8+v+5Izchp3VvTtzd61zYBiGmbnz+f3u93zPOb/fyLiOL6tRW0V3hwKfiYiqqgCbAXvu1vgTOGJX/wDY0a2rFq6TiIhXVQc0e3D9jfcz/OYI30ESvZZNzHynuRgzP4lLRdlE2ZRYxKJsomyibEpkIMqmRNKi2/znZfM1sAaol5BHp6/0Xjb2y6pav5HdfL0/rW8TkQX5sfNhwI6H0xnVwLcCAB4AFt/y2ct1V3sfeGoaQVQKPxfI7DAeqgp9WZYNkrgtqXNrBLHApjJ6D2+ljybNoYRkOfCFiPxSJAzVhUWZz9aJJG+n4p4BknuIohL4O6UPhdOKP+Bwh4FzVhopQo6MjDw4MDDwHPAOsBqw+dGp3lMtfAtU4bLAkUaj8U2apqdE5K+2uyGjjC7sp/9VVd0oIoOAya44Zga+QOAVfhDYbRUw4KqINNoCSQG7G+8p+oogj4S7MTyb6jZ/ALYe7AqSGm/XvarapH4D+Mgeswm+xZopesY3/fYkSQ6JyGi7pPKJ/xhQm43wLVarb17y+KMOtweTl8jtmmdwqHq34K0qjKJekAtN2JqKHCr80HQLrX/n24vTHn/Q4b4HbgK/TgfegM3qrnr8MYc7AfwMnAeuicj1LsIXlWOBnAHenSq8AY9Z1MAp4DiwDxhteXaox5s//xZW0l6VuDfdK7zZl90qAz4AfBWW+X/ZWsh0DXgeONnj+vykPm9ZNq1eDB68HbgiIpb5CYeqDt7S8U/qMmexBTAT8JbNS8BPQRKW7YvtS/md1VLV9iFmXR/m/rw+9+lHw3uVFFqtX7QTsEXhbL5N/RL4DvjRJuRE0EHXtvI96/FDDrcOWNS2va0EfihkbT+wN0y+Ca1NVQ3YJqM14F4DXgivJzpYVAI/H5iTd+x+75BlA3saWJnb4AZgad7ps/2FyWWyDl/v4QvaFbO2wut5ueafbGjz01SSFwHL+lRGpfAGZ3KZ28B/nOLeCmfNsv3TauDHdOyJPvrWKrwpsAR4qAtN397Dq+oK4Fvg8S4AF2VVCfz92gGf8ZPUVAyg/bMRvlP2ouYn0VWUTZRNCduJsomyibIpkYEomxJJi24TZfO/lI11314qEfndvvJ54Y/Qw3f7cIn3j/8Dtz0Nvfogs90AAAAASUVORK5CYII=",
+    "iconColor": "#ff009e3c",
+    "contributorName": "Illustar0",
+    "isEnabled": true,
+    "isEnabledAll": false
+  },
+  {
+    "appName": "Bambu Handy",
+    "packageName": "bbl.intl.bambulab.com",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAC8AAAA+CAYAAAC7rUKSAAAAAXNSR0IArs4c6QAAA6BJREFUaEPtml+IVFUcxz+/c+8461ZK5BaaUBT4spIPlYhESW9CD2oULamVBD20BtJDiK/RkxBamPggkllI+OKLPljggyD4kBQkifoi+Gcr+qPu6t6Z8+v+5Izchp3VvTtzd61zYBiGmbnz+f3u93zPOb/fyLiOL6tRW0V3hwKfiYiqqgCbAXvu1vgTOGJX/wDY0a2rFq6TiIhXVQc0e3D9jfcz/OYI30ESvZZNzHynuRgzP4lLRdlE2ZRYxKJsomyibEpkIMqmRNKi2/znZfM1sAaol5BHp6/0Xjb2y6pav5HdfL0/rW8TkQX5sfNhwI6H0xnVwLcCAB4AFt/y2ct1V3sfeGoaQVQKPxfI7DAeqgp9WZYNkrgtqXNrBLHApjJ6D2+ljybNoYRkOfCFiPxSJAzVhUWZz9aJJG+n4p4BknuIohL4O6UPhdOKP+Bwh4FzVhopQo6MjDw4MDDwHPAOsBqw+dGp3lMtfAtU4bLAkUaj8U2apqdE5K+2uyGjjC7sp/9VVd0oIoOAya44Zga+QOAVfhDYbRUw4KqINNoCSQG7G+8p+oogj4S7MTyb6jZ/ALYe7AqSGm/XvarapH4D+Mgeswm+xZopesY3/fYkSQ6JyGi7pPKJ/xhQm43wLVarb17y+KMOtweTl8jtmmdwqHq34K0qjKJekAtN2JqKHCr80HQLrX/n24vTHn/Q4b4HbgK/TgfegM3qrnr8MYc7AfwMnAeuicj1LsIXlWOBnAHenSq8AY9Z1MAp4DiwDxhteXaox5s//xZW0l6VuDfdK7zZl90qAz4AfBWW+X/ZWsh0DXgeONnj+vykPm9ZNq1eDB68HbgiIpb5CYeqDt7S8U/qMmexBTAT8JbNS8BPQRKW7YvtS/md1VLV9iFmXR/m/rw+9+lHw3uVFFqtX7QTsEXhbL5N/RL4DvjRJuRE0EHXtvI96/FDDrcOWNS2va0EfihkbT+wN0y+Ca1NVQ3YJqM14F4DXgivJzpYVAI/H5iTd+x+75BlA3saWJnb4AZgad7ps/2FyWWyDl/v4QvaFbO2wut5ueafbGjz01SSFwHL+lRGpfAGZ3KZ28B/nOLeCmfNsv3TauDHdOyJPvrWKrwpsAR4qAtN397Dq+oK4Fvg8S4AF2VVCfz92gGf8ZPUVAyg/bMRvlP2ouYn0VWUTZRNCduJsomyibIpkYEomxJJi24TZfO/lI11314qEfndvvJ54Y/Qw3f7cIn3j/8Dtz0Nvfogs90AAAAASUVORK5CYII=",
+    "iconColor": "#ff009e3c",
+    "contributorName": "Illustar0",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
