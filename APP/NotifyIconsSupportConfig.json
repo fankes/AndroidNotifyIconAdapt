@@ -5383,5 +5383,14 @@
     "contributorName": "李太白",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "Server 酱",
+    "packageName": "com.ft07.serverchan.app3.server_app3",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABIBAMAAACnw650AAAAMFBMVEUAAAD///////////////////////////////////////////////////////////87TQQwAAAAEHRSTlMAIJ/v/zBggI/fcECvEM9Qr/fzAwAAAURJREFUeNrdlDFKw3AchZ9C20FFh4IHsCcQO7rY1ypWtKCbS4ceIILg6tDNVW/gARwUhODWAwiOglMO4BHEl4Tyx+T/JsH6bfnx8b4sCf4oS1usZXuEnAkj7EM0GSWR1GaUvqQpo+xJumWUniQaSukwreGec2mIGh7/j9S4g5dOeyMrNXbYtdIq2Rs5aS0ju07Ch6aMpCkjFVNO0pSRiiknacpJ6JAnr0ZaJjl2S5fkAEZqashIk+8hI2nISMXQe5rzUilpSHcxrJMGiEvKjb3UHMBL2ACAzauci9/+OBdQmnMEALPgVPEf/wTWK/7jneC2C7z93EY7vIW18n1bDHthjdcQ07AX1g6QszILeuHTA0rO05xnFtwUhydUkFEcI8YZRR8xWhQJomS+pp5qvpfAkKnmeqr5XgJLpprr9eFpJVgEvgDvQTvRHNyd0QAAAABJRU5ErkJggg==",
+    "iconColor": "#ff00598c",
+    "contributorName": "PianCat",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
