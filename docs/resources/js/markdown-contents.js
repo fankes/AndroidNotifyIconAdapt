@@ -17,7 +17,7 @@ const markdownContents = {
     license:
         '- [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html)\n\n' +
         '```\n' +
-        'Copyright (C) 2017-2024 Fankes Studio(qzmmcn@163.com)\n\n' +
+        'Copyright (C) 2017 Fankes Studio(qzmmcn@163.com)\n\n' +
         'This program is free software: you can redistribute it and/or modify\n' +
         'it under the terms of the GNU Affero General Public License as\n' +
         'published by the Free Software Foundation, either version 3 of the\n' +
