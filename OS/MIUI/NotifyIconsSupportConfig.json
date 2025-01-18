@@ -241,7 +241,7 @@
   {
     "appName": "小米互传",
     "packageName": "com.miui.mishare.connectivity",
-    "iconBitmap": "UklGRsYBAABXRUJQVlA4WAoAAAAQAAAALQAALQAAQUxQSEgBAAABkIJt//lX72zb9hrrloxk23a21fad19aWrLSEg3qabft8yu/3+X//37QYEQzctm0kp7evu+4fcEtS4B3S6e9VmwImidWs8dTyUJ7RmF3xvHCTx+3wQQKAmB987Epjeky0DAD9xKtAllGi/6ma6l7yvPGUI+c/0Qg0Cv/Gx54UYR+IjkyhVQfxKpfA5j7RQzcAVnFWgMkFz3tfw+wQ/UwAYD8hWgEEf+Zj3yAtRFQPwLRLiGEAaCRedQZI+UW0DgC5Qoh4TVWOeD4Fsng8IbpjDSB2RYg8aPD/yMeZCcc+0btgAC7zQvToM6wiXq0MCUT/MjRZCjHjCL1ODGTooKdDNwvNV4QIB0MR8UpXjeobxZ9IZ5Qvm5HiWaF4ximezapXiuQqPJZehdIrfFRyhRvhHmly7qHYmRS7nmpHVezWincC1bvMLUgAVlA4IFgAAAAQBACdASouAC4APlUei0WjoaEeNAA4BUS0gxQAAIGNH2m+w67WkuGxAAD+9fd//2Gv/+wkf//XxUd4zj/8QDD65kz90b//9hr//r+X//2Bcz//0UoAAAAA",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAQAAAD9sOO8AAABi0lEQVR42u2WA+idYRhHZ9u2tzTmtjAjzLbt3GylWXFxYVZamJdbmm37d/71XuO5fuM94fP59KhUkcJShBa6Qxz6p5ssKIBcWzDQjrzlTMdmeL7ysrqJgV5SN3thXZ3XA3oEtzrrJwY6la26jC4CaF94z0psRmUl1wanFn0jt9N1DPSWBhmrGSoBaH3M3nb6joFOZ6puq48AukCZuCOLsJmYibqy7jv1o1AUUJGuVHRrpXUNA32gSVq5TgLoVzhOqmmzDjI/uNVKXzDQ2TRq5uFgZug3skQHdZC14TNmYzMjlbqPfgPoSHjPMB108m6Rs3QBA32mhaWur6cAukOl4J4uOuDUw2POa8YnDHSF0knlOgug97QKSmprl1MvS4iaKdjMT6Kmh1P/Z2Dk+7tPsp0aSR7kkh01VE+UL4qtE5QLfpJ2ST/hGGwG+Jd7/iz+f2j6UByRRyj6TiL/6e+5cHkouUazuFigZmG0uQ0FanNGg+5X8AbtebTwOhR5Huf8D6L+R2jPw7+jSJESLAgRlPKmvoMAAAAASUVORK5CYII=",
     "iconColor": "#ff7f98fc",
     "contributorName": "fankes",
     "isEnabled": true,
