@@ -401,5 +401,14 @@
     "contributorName": "fankes,09277632",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "相册",
+    "packageName": "com.coloros.gallery3d",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAQAAACQ9RH5AAAACXBIWXMAAAsTAAALEwEAmpwYAAABzUlEQVR42u3XPUtbYRTA8VPoCxRsoFtfXC4VxKFD+wFqoZ0K/QItFoTWwUBpodBWnKoVRTSiCLpEhIiCODiKEEFwUtBkEQmZfEWRq6KCgn8nwcQ8ek3ueZ4lv/MB/tN9zrmCuBkph8vhcrgc1gnX8IMEo7RSazPcy2VJqu2EZ8h3xEv9cB+FbHBfN+xh8lM3/BeTed3wCCY+DzXD45gc8kgz3IVJhjua4VpMBrQ/pwUK87TDHidcFbXxcr0mQ67vtt7qB/wiyS4+S3RRY3stVhBBAs07/jFOmmWm6SFKxMY+/soc+Tb5z2PNcD1pTLao1wm/Z56bNIUdrmSQYFrDC9+jiQOCawknXEeG2/pTavgtsxSno/hwNQlK0VJMOEI7Z5Sq87bhRtYJRyx4+COLhCkWJPyKScIXuz78hH60dJuid/mNjx5D9hMr6Nq/Gn1DEn1+bvQFwwB2wxW0cQpYDjewioFe+AML2LYnJHBhW3BjTcjiQlZI4UJamMGFpBDHhbjQiAtRoRIXngvCBLaNIYLwFNueIRf716bPl2+uZmxpzr8yv3CMtmPqCt3VHkNoSuCZ/ySqaCDOFCmyrLGDX8Jss0GWFFPE+UZVbukcSKa4RlwyRUQAAAAASUVORK5CYII=",
+    "iconColor": "#ff55a1fe",
+    "contributorName": "lns103",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
