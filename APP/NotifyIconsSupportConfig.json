@@ -5392,5 +5392,14 @@
     "contributorName": "Autines",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "智慧校园",
+    "packageName": "com.routon.edurelease",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAQAAAD/5HvMAAAC/klEQVR42u3Yz4uNURzH8W/JjyxuTGysZG8pNqIQC2WBhY2FbG34B2ZBSrFCJoTGlSKN2FhgIZmtSBYoViib2djo/TEz6el8n3vPPc/vO2pey/Pzc5/n3NNzji1btjRoL/ttaeCYAhyz8WGTIthkXWOXEthl3eAQv1QQvzhk7dE6/qgC/midNUub1YTN1gy+qSF8szq0kjm1gDmttHLYyBO1jCdstCJ4pQ7xyuI4oTHhgA2jMfo/AnFVY8Idi2G/OsZOS+G1OsLXEjuROsBLK4e3agEvzHjpApWhLWqQLXKBquGLauKdZVyg6lQZv21e44EW8FAlcdec2oF4JElMV3lWFmBakpiqHUgBJizDM43AU8swkQ/Jff3DwZorh5sW4JOG4KMFuCknP6aVlXwV5xXgXLqvdueeejmKYIcF+M53C7BDEWaaVGiyViCPzzYEnzWCmdY2/sq8VOsO1tDwXZh3KsCvO+63EqiMwvsQPWlcgSR65mVrf1XXgbQq8l/jlBZ1HmgRp+Iv56g5rFYB3OCGCmCrOTpa4BhkOUxoJM77XTuO1QXn9JWctgFcqbsPcdYGcDoZyFd79KsG4rpVmZHZwWq/U3ChSiAu+k+zwdbMJjZBLoUl5sjxwzE7Oq4fj0tZmxhl6LmS9clQH/iQDLM+LKUnJQL5X+inZsocbimBa+Yw5Ud2TziG7cqw3XeT6BWPxIwF6CkwZKY4fvqO9FMrwku3ou/L+Gmj5QfmnhweW4CTyuGMq38sh3uDc5QIxHubxw/lcCLWY/QVIT9sHu99j3KR3to8niuHLxZgm1sLkcM3zwcvMKwI5WTHPIdpi4i1j4xdJRIPtCY7xQaK9efNYtkaHlSK4yZOisdJ45EVx2UVVDnO5ZY+7jlsAQ6roBbvgyzQYpwFbQVq+daMPfYPe1qOs0C35SS+h1JuW33MFP3NSmDGmqEVjQRaYU3ShlqBNlgb2FclEPusTfSVw1xWN6cc+tYNzinDkaz0iLttHAeOa9LfoXDcli0bq7+uq5OKeLGDDQAAAABJRU5ErkJggg==",
+    "iconColor": "#fff47920",
+    "contributorName": "Autines",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
