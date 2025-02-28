@@ -5383,5 +5383,14 @@
     "contributorName": "李太白",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "凯迪仕",
+    "packageName": "com.kaidishi.lock",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAQAAAD/5HvMAAABh0lEQVR42u2ZwUrDQBRF5ytc+mFduBAEFyKzENy79HdEKIL0UfwVQbQyWnF9DRJIlebdTDrvNYU5+3s5nduQgYRKpVKpHC6ISEhAQ4JAsvMJOpJZt1sBBIRQoE4yTpchZX5d3M9citAe5goB/aQSOhBfodI6XIifj97gKAQBI/oKlZ+LCbnPxYQcH/ZhQu5zjRWCmOnoQu5zMSH3uZiQ+1xMyH0uJuQ+FxMyvvnkC7nPxYQML6rjhNznYkLucw0VQjS5+ewgBKOrxjghCDhXocNWCIIhfIUOY6GhPHWdhkKb5+P0x9aEIMhh3VYaCuWy/K00ExrDRVM5KaHPpnJSQsBiakLA+dSEPvyFltB59BWSEHALnTNHoTaXjN7/yEXa3CV0HnyEZCP5DJ1Te6H0J3kEnXd7ofgvO4fO3FZItqTX0DmxE0pb09fQWYXi33FaevMv0Lm3EZLe/AyMWZ5QBEfUhgV03oqfEW34hs5drpJAQ2j+BozjfCVRdChYQec1VCqVSuUA+QH3sNtLGCTwgAAAAABJRU5ErkJggg==",
+    "iconColor": "#ff224b8f",
+    "contributorName": "Autines",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
