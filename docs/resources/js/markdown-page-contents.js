@@ -32,6 +32,7 @@ const markdownPageContents = {
         '- HarmonyOS 4.0 (根据酷安板块反馈，通知栏完全模仿 iOS 设计，完全破坏通知图标)\n' +
         '- EMUI(4.0 、4.0.1、4.1)\n' +
         '- MIUI(≤9 ≥12.5)、JoyUI\n' +
+        '- ColorOS(≥15.0.1)\n' +
         '- ZUI\n' +
         '- NubiaUI、RedMagicOS\n' +
         '- 360OS\n' +
