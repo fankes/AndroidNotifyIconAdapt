@@ -5401,5 +5401,14 @@
     "contributorName": "Autines",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "币安",
+    "packageName": "com.binance.dev",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAsVBMVEUAAADCwsK9vb28vLzCwsLAwMDCwsLCwsLBwcHBwcHCwsLAwMDAwMC+vr7CwsLCwsLCwsLCwsLDwsLBwcG/v7+/v7/CwsLCwsLBwcHCwsLCwsLCwsLDwsLBwcHCwsLCwsLCwsLBwcHDwsLBwcHBwcHBwcHCwsLCwsLCwsLDwcHBwcHBwcHCwsLBwcHAwMDCwsLBwcHCwsLFwsLJwMPCwsLCwsLIv8LIwcLIwcLCwsLIv8KoNNpwAAAAOXRSTlMA+ggF9gv9xz0P1TIhGNHMvbRbRikSuKou8u3BYUwk5d6clnVVUDXaoXA5G/CRQq6EfWvvZufe07tdrlggAAACgElEQVRIx5WW6XqqMBCGCUsCyipLcQHFfa9a2570/i/sEJgEtVBxfvjg6PsM35eZAakpLE16Mbodkr4EyLqD6bD7CnEcIkpRtFVaEz4jGKO3ZBT/HyN+KFW9loxPEIVQXb0V0cFUBCLL58RxBQQwzlPfFmP6EOMndZIvypTffUz+YuRFRwj3KhM6fqNv2kgQ/Sy03lT+zUm0BqIniH22kySzYshcqyWughhMTZYJ1nuesXtyXbd7oDcngjIVrz94bhrWae/ZoONQ1Cjr9IsUHvpyvV8Fgw67KmdmKiMa+1OeM+Zg3eZ2a1bj9xTIJhji2/gkwz0BaawxicGgoPJq9jVSgLkAsZx8w/0p55RfrHpAhLMB7Y/u5CnH3PCHhjROiE5GGhCsQTbGzY0mDqYUDW9FWwdEac4YOcyIggkrgvBBloUNh7IVWJ1Znx/5RSykIYZh8WIu97Tns7CQNgM430+BxGL23wIu5Mz7YLKQtM24PPOrIcRvvZxhRFxJOanlILBmM66M2bNLwSyjnEFQA3w9I9aeZUsbeZ0BEJzpupi+m/cmz9S8hgbaLs4c7ExmkDOJF8Kv2RGM3Nhz4boScmL1M4VLQwbCpd86/M1qaP/sbjJMlw2yrzSN/qQ4jOxGQ1x65xSqa2qsYMSmqSD4+DuLpkEGJgvAa05QXD/II5svvI9pCjVg/2GSyLVa5o5YSuucCTxRw/XlpmVJOKO+7VIXcQKmoJZJbMyZiAiCLIGoDX1FITAWKzmQ/ozt5+PmH/NjamYeHknEavGSACLgYdnqhUGvGDXqtnuI6xEC4r0FAVvMRUy56m0h06YOY1DrGtUgp9JLEZPIlF4My2j65T+sxosEqtRmLAAAAABJRU5ErkJggg==",
+    "iconColor": "#fff0b90a",
+    "contributorName": "Illustar0",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
