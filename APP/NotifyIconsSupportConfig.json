@@ -5598,5 +5598,14 @@
     "contributorName": "zzyym",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "萌娘百科",
+    "packageName": "org.moegirl.moegirlview",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAQAAAC0NkA6AAADY0lEQVR42u3WT2QjURzA8cfSQ1nKHkIIOZRSQg4hLDmUEEIOIYQ9lFJ6CEspeyih9FBCCTmEUHooIfQQQgk5lFJyKKGUHkIpPYQQegjhu89M3pPZeTOTzW4vaz8/c8nvmV/y/uUn/vtrCJMiIj4SmzwCE3Z9R0W4YyajRmiVIrvYxmz4jCqgbK1S5ACl5DlmjTrKjvBHlArn1GhwYcUVbZ5QRvRocUFVRt3K16nMR6PdcmVlalZcU6XkmEKe+Rgni0UmfIzhYpEHPkbNuSYNrmjRoUfXigEdnkC759b6/EZGiybXdBk5VqQ3z7etaNHlhKgIwjptbH3TNibJFFuTLbEqTlEihmwRpShWRxwlbsj+0Md1U/wuNogSkhEnge1xcceTYocSZTr6HH0nwQafl78Ujxng9MKezn+ihZc+l6RZDyoRY4jJGxl9owVpEPMrkWSIl1f7G9ImWM9nr9HHzw1f5Jh70MYM5TNhKsPpkjVziWOUCSXihOWT5Ay0HCF9AK/YJrywCzMc0V0oljEXeVTLvLhdCZFHqRJDKQecq5YpnWaGRe8kXUZP0YAkyqF58+v7/NmUPtPznPD8+3rnCKUgjChhm6nFN93DHeFCHqWOkgm8I9LupuENW0O4sIXSRxnzwjND3qx45YEym44iWXfPoXQpcECRPXbJsjU/osorZroXIOFdJIzZmB3rkCoj/NT9i0Tw0pTZbZYxYVuOzaFkli9yLrM7uFU55JQKJ5St58jelWRRUssWGbGtpsChT1gYkUaJe6/JOWliMpIyEtarTNPVEh7I6MnbdCfvdKfkYvgll4F956sp2fA5J3l+NeSYQ4rk5fONAnlyZK1zUsE28LuDH92zzTnLGZGnh+3GVGRfX5AJ1wV5i21KkDbPeuubMFEDnb+FLEqXIF3esVXNRXooZUK6s8zwhHKMk/3CGVMmMqBNnqkaay6SA21Ck5aMe9AGFFAqxEixRoQoEfufRMY6UWa+7R4btPFTJKVfse/V7RjOu2uJrzGbkROSviC/iqDZCPu1dme43ZGef8/xvGRcGFHR5yjk3959ZZ82vXnUyBBz7jOmwoPe7F2xKnKBRYbYLlYvkgoqotdsd/UiEWYAzIQHvWZfxKp0IzsMKNIUf4I4DTpkPfNFmlRIiH/UT0nInqwhGwRjAAAAAElFTkSuQmCC",
+    "iconColor": "#ff25962b",
+    "contributorName": "zzyym",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
