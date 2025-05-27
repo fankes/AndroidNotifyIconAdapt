@@ -5590,5 +5590,13 @@
     "contributorName": "zzyym",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "米家眼镜",
+    "packageName": "com.xiaomi.superhexa",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAQAAAC0NkA6AAAB8klEQVR42u3WXWSWYRzH8V+rJCVqitGbxIyNKNFoB5VW0kRSscSyo4rY8eosbT018Wisk95FlNRB2hK9kHZQTAdFHSQZKZ6Tau3lO27u58/l3nPf93U/99nzOfv//fmeXS7V1Ih11KkqaFQ0hpjmM63KiJW8BN5QLxddhPYoAzbyHQIFuShijsgTWygRuiEXFwBzSh7YwTTmalwEepUSBwAqR/pw9SkFuiF55D9mUAnRC2kit+jG3FMCFCBd5IHEScwI81UR1yBppB8Cz4PpBOYdSzQnHkL6yDMFOIT5yCpFYBGvwDcSYCdThH7TJgf1jIFfZFhlbKZEqNO538A3yBAxNPIDgA7nehMl4gzGRAxreEy7s9vOJGSLxKADINcIXeAfuZgkQg/kHOEc5BxhALJGCpUj3IScIzyBXCMs5DXmIO1Vj7Cc95jDwW4XM36RS1ER1vMFs7u838qfKkVo5iehCbZJhibG/SMj5U0rfwn9olkOGviUMcJ+zFfWKgJLGfWLvAimY5gxVmgO1DHsE3nk/KHeslgVcTd95DbHMU+Zp1gUk0YuQ+Af5o4S4ny6iCkqBXp8Iv1Kic74yABgzsoD++IiQ5jT8kQbE4Suy8UZQkeVAS3lp+iKXCzgPjDOXmXEakaBDzQoCk0sU1XQopqaWVjDv9qE9ycGAAAAAElFTkSuQmCC",
+    "contributorName": "zzyym",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
