@@ -5651,5 +5651,14 @@
     "contributorName": "uselessbug",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "钱迹",
+    "packageName": "com.mutangtech.qianji",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAABiVBMVEUAAADf39/X19fe3t7////////////Ozs7+/v7i4uLz8/P////Q0ND6+vrk5OSpqan////////j4+P////////9/f3Kysr8/Pz///+cnJy5ubnBwcHd3d339/f////////////z8/P////////////////8/PzNzc3R0dH7+/v+/v7v7+/v7+/u7u6Pj4/d3d3l5eXIyMiEhIT4+Pj////////09PT29vb////////l5eXc3Nz////////R0dHW1tbNzc3MzMzNzc3////W1tba2trFxcX09PS3t7fw8PD6+vr29vb8/Pzc3NzHx8fq6urf39/f39/q6uqUlJTExMTp6emSkpKtra3o6OiJiYmJiYno6Ojy8vL////k5OTp6ent7e3q6ur////X19f8/PzDw8O9vb2/v7/8/Pz8/PzCwsLm5ub////Jycnl5eX9/f3Dw8POzs7r6+vv7+/w8PCvr6+enp6UlJTBwcG2trbOzs7KysrFxcWkpKTv7+/////4+Pj8/Pz19fWrYTkNAAAAf3RSTlMAGxEF8t79nIsv6eOeaSgF+u3ZxJyRiIByRDAeFff29Onj2czIt52We3dmV1VKJyQZCwn+7+vq5dvQ0LW0o6GcmZSDgH95dnBoY1xXVkdDPTw4Ny0nIyAeHREODfbh39O9vbikm5qUiISDfn18e3h0ZlhORENBPjUsKykhIRwN3v/hGwAAAldJREFUSMeNlXdTIkEQxVuSLjmIiIIoAkoGcw7nnTmnM1zOOefUcJ/cnUUotuld+P3V9V692pmenR7gCEnZzVRqMyuFoCX2AnGbGxXctnhgD5rQlhxEwuD7NtDG8GIcGfpfGkCDLTNqMLUFHMZO1KHTyOzCh7r4GnZ0YsYmmE/IN0iCzai+Y2xobdlkslAtVr+feep6c5fFnJeq81BjGyk3hHwTKdu1E+wnjnXhttB77QP0UKtn2kGM9nO45qKdWB3X3epTy3aow672IgUQBMiqQAVZW0Bp8BRZlhB7dne/BntEtax2o6LRn1HNsEj8L5XKWDqSy3fE/sJs/rWIVMpvcnmLaYCP+YrrgagsQbl8SmwfQMGDzF5GZkU58+Hj8zCxxwtwgMh2rAs1OIAMUoZAYR15MuBoFLtAITjJRhzQzaiPR0BwOsNFutkI3j8FgWuRjTiQYzKo2QQHpJFnHRSGkJKGfaLQJlipvg9nJiKFn62+8opiVmnCErHHzgBizLF8V6qHLuYfi8man2ir4gpXpssvuXxDbL+sfSLaW1n7HS6Pjpbu9MrlMLGzsla0Mff478/j4x9/REVu/90iMy2sLqjDNcHNi7xbrS7pjAt3viLTV2L5oho4b6dvRnWGR4gxsFgZfQsTxIjUJrmj1QGbghqPqHcvd/nvyEvVeP27akYK81iYVa+scwyb4nGCikNP08QhEKSofiIqQQOhOb3EXAg41kxaAdMaaOBMWLiAJZEHbSS/jQZsfgn0MWQS07VnrW/6SdoALWB07mwkV1aSGztOI2NfARZGC24Qhsx1AAAAAElFTkSuQmCC",
+    "iconColor": "#ff3792fa",
+    "contributorName": "Illustar0",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
