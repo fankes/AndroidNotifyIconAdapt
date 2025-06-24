@@ -1,7 +1,8 @@
 # Android 通知图标规范适配计划
 
-![Blank](https://img.shields.io/badge/license-AGPL3.0-blue)
-[![Telegram](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/XiaofangInternet)
+[![GitHub license](https://img.shields.io/github/license/fankes/AndroidNotifyIconAdapt?color=blue&style=flat-square)](https://github.com/HighCapable/YukiHookAPI/blob/master/LICENSE)
+[![Telegram](https://img.shields.io/badge/discussion-Telegram-blue.svg?logo=telegram&style=flat-square)](https://t.me/XiaofangInternet)
+[![Telegram](https://img.shields.io/badge/discussion%20dev-Telegram-blue.svg?logo=telegram&style=flat-square)](https://t.me/HighCapable_Dev)
 
 这是一个在线规则平台，为国内 Android 不规范的 APP 和厂商适配原生通知图标与规范图标修复。
 
