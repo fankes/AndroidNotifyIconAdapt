@@ -1,8 +1,9 @@
 const markdownPageContents = {
     home:
         '# Android 通知图标规范适配计划\n\n' +
-        '![Blank](https://img.shields.io/badge/license-AGPL3.0-blue)\n' +
-        '[![Telegram](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/XiaofangInternet)\n\n' +
+        '[![GitHub license](https://img.shields.io/github/license/fankes/AndroidNotifyIconAdapt?color=blue&style=flat-square)](https://github.com/HighCapable/YukiHookAPI/blob/master/LICENSE)\n' +
+        '[![Telegram](https://img.shields.io/badge/discussion-Telegram-blue.svg?logo=telegram&style=flat-square)](https://t.me/XiaofangInternet)\n' +
+        '[![Telegram](https://img.shields.io/badge/discussion%20dev-Telegram-blue.svg?logo=telegram&style=flat-square)](https://t.me/HighCapable_Dev)\n\n' +
         '这是一个在线规则平台，为国内 Android 不规范的 APP 和厂商适配原生通知图标与规范图标修复。\n\n' +
         '## Developers\n\n' +
         '- <b>发起人</b> [酷安 @星夜不荟](http://www.coolapk.com/u/876977)\n\n' +
