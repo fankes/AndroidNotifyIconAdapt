@@ -5720,5 +5720,22 @@
     "iconColor": "#ffcf0003",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "亚马逊购物",
+    "packageName": "cn.amazon.mShop.android",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAACLUlEQVR4nO3ZO4sTURiH8R8IKlYKgmgjiquNCBaCoO6C61rpJxAtRBBsxErERvwM3ta1EXuxErxF3Vos10WtFGy8IQnaaI4MnEAYkmVmMpMJyzzwbybkvO8z55zJzISGhoaGFMexgGV0EFIpSnqcDt7hLuaUyB4sDihYlUhI5TV2jyoxg58ZilUpEvAD06PMRFaJqkVClJkqUiDLcsoqknesMCQv80rMFSiyEn9LEgmYzSNyryKRNX3HrhUUmc8jslyxSFGJEC/NmWlXKDKKRIi9ZSZUJHK9pH2SmSKDHx7TZg/ZNcotWkUyU3ejoRFJUXejoRFJUXejoRFJ0f+lP/EWelxNvsWp+BixAVtxugyRThz4Ej6NQWQeD/AED7EPG8taWl3cxuZ4dl7gXwUSXbRwBgfisfPxrqEUkV6+4BzWYlucpcW4/Io2/xvPcQU7+l50fIyf78eNskV6+YyLcQ0nrMMhXMb9eFbfR8FO3GNJPuApbsWTMBO/2+MgHvfVSWS24FdVIr18i6+ITmC9YiQzewFvBoyfLOdnA46XLpK+KDzCVZzE3rinerO2CdtxBGdxM16hugVqZSZMeDJTd6OhEUlRd6OhEUmxakTaE9BsGJLkx7HSF3TjylIekYUJaDgMyZ08IscmoOEwJEflpDUBTYdUXinATnydgOZDzHfsUpDpMT/mhhUkkpvNkZiK/xTVJdEaZSYGMRufp5cq/p1pxxrzRTZ2Q0PDKuc/jMdE92n4ObQAAAAASUVORK5CYII=",
+    "iconColor": "#ff000000",
+    "contributorName": "cybaijie",
+    "isEnabled": true,
+    "isEnabledAll": false
+  },
+  {
+    "appName": "亚马逊购物",
+    "packageName": "com.amazon.mShop.android.shopping",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAACLUlEQVR4nO3ZO4sTURiH8R8IKlYKgmgjiquNCBaCoO6C61rpJxAtRBBsxErERvwM3ta1EXuxErxF3Vos10WtFGy8IQnaaI4MnEAYkmVmMpMJyzzwbybkvO8z55zJzISGhoaGFMexgGV0EFIpSnqcDt7hLuaUyB4sDihYlUhI5TV2jyoxg58ZilUpEvAD06PMRFaJqkVClJkqUiDLcsoqknesMCQv80rMFSiyEn9LEgmYzSNyryKRNX3HrhUUmc8jslyxSFGJEC/NmWlXKDKKRIi9ZSZUJHK9pH2SmSKDHx7TZg/ZNcotWkUyU3ejoRFJUXejoRFJUXejoRFJ0f+lP/EWelxNvsWp+BixAVtxugyRThz4Ej6NQWQeD/AED7EPG8taWl3cxuZ4dl7gXwUSXbRwBgfisfPxrqEUkV6+4BzWYlucpcW4/Io2/xvPcQU7+l50fIyf78eNskV6+YyLcQ0nrMMhXMb9eFbfR8FO3GNJPuApbsWTMBO/2+MgHvfVSWS24FdVIr18i6+ITmC9YiQzewFvBoyfLOdnA46XLpK+KDzCVZzE3rinerO2CdtxBGdxM16hugVqZSZMeDJTd6OhEUlRd6OhEUmxakTaE9BsGJLkx7HSF3TjylIekYUJaDgMyZ08IscmoOEwJEflpDUBTYdUXinATnydgOZDzHfsUpDpMT/mhhUkkpvNkZiK/xTVJdEaZSYGMRufp5cq/p1pxxrzRTZ2Q0PDKuc/jMdE92n4ObQAAAAASUVORK5CYII=",
+    "contributorName": "cybaijie",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
