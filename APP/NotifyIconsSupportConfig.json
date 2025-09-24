@@ -901,7 +901,7 @@
     "isEnabledAll": false
   },
   {
-    "appName": "腾讯会议"
+    "appName": "腾讯会议",
     "packageName": "com.tencent.wemeet.app",
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAQAAAC0NkA6AAABT0lEQVR42uzNA7BWURSA0Z1t27Zt241yw0YZg2zbtm3b7mTbNr+m86z99N9Rd425xI/L5XLRQkRHAfJKZLAU9IaiXMVEomE+gNZQklsAGPJIRDATQGsoxz18GLJIeDEZQGuozGP8M6SW8GAcgNZQnRcEZkgsYcUIAK2hDm8IjiGWhAWDALSGhnwkJCYsRX90LWjGNzQmkoX1G9AZvfAU43hhGccLyzheWOccL6xjjhfWOhGhGk7rJ7THacuEHmgMAwDdSlaj2SY0VYu8IgzRCxGisoGQTRIRrimFxUilsIjFVoL3mlLyD9+VwmKcUljEZxfBaSliEYvXSmExWSkskrCfwFqLHxJyXyksZiiFRUqO4F9HCYgUXFYKi7lKYZGOE/joJEGRnjNKYbFIKSwycxaALhI8sqmFxTKlsMjOJfpIyGwRaeQRl8v13/u7oQ8A5ilKijVyFEMAAAAASUVORK5CYII=",
     "iconColor": "#ff2f77ff",
