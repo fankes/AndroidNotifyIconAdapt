@@ -5796,5 +5796,14 @@
     "contributorName": "fankes、Kaeisol",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "红果免费短剧",
+    "packageName": "com.phoenix.read",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAQAAAC0NkA6AAACsElEQVR42u3WW0gUURzH8a92xpKM0gQtsUKKDCLtAiVhL0KYWlGSZQhGVyIJCRcf7OKLQT6FTxJWQkgiFhSG2B0MoSzKFCMozbB0LY0kSan21NOwumfmzO74VH1+r//Dbw9zdubwD1nJXqpoppMH1FBKJhFMqySqxaiQk8M9jhHJtMilgxEh1WGAm+QyBxdmUi6GhdSF2xSGWhTLdUMKBzH+hGdsI2gGt4QMJoxRwRKCck6xC+2ORA/7mIVDeUKGnKdsAL0w6lyUSPpYilaVkO7CBFewlY5PSPehkUVYKjWsH6wUY2JCSMNZTRPzsHDJYtEvajlIuthNBQ1iwFFNOykopIhe5QIfJ/GXyA3xWX+oeckKAnjU4xQTSHCcT7oiHjNFDBeUoyMkoLaFPk2NjzwmSaZVNUgbYVjLFz/sjgJDpOEnjW7lWBn2UmmxfTKNxPhvvkcx9o2N6IRTYV3Da5Ix7eC9YuQdC9ALp1x8tajxkoGpgEHFZjuYjTMlFiUTHMVUiDdwhIc4d0BdwxnbEkNyF+ey+K4sOY0pn4+Kkk6icGY1XcqdjHMY03b6FCXdzMWZJiGVGSYH02beBo7gZRl68bywPMLdJGNaR4dy6Aj2ZlBMu83/pJooTMtpVX5HGrETTpmQNvnCevzEiovKsVcYqBls0t0I8DDFIdRv0gxUovX3Ae4QYDHPlcMfWMNka6kVP3UVoo04FC4bynGekGDekZPwmO8p27ATJY/lkjHuU0kD/WLc4UUiHgurGBbSfagjDhtn3VfQjMZ8WlwVDFFELFqZLiq6yMShUyEVeDlBJI5F8ybokn6yCVICDVYXHeUneg8hCadIDOoKkFwjm2hcyGHQkIbV75c8YisRuJZIAefpFT7/Akapp4RdxDKNFpIlKrlKHfXUsJ9U/vsL/AbFb4JxpXdmKAAAAABJRU5ErkJggg==",
+    "iconColor": "#fff69845",
+    "contributorName": "lamprose",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
