@@ -5972,5 +5972,14 @@
     "contributorName": "Charles112",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "Nintendo Today!",
+    "packageName": "com.nintendo.znsa",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAQAAAD/5HvMAAADP0lEQVR42u3ZA5TDWBiA0axt27Zt27Zt27Zt27Zt28bYuOMsX086bZJFv39YvHMrJVGlSpWyzmI+Uacqo2m1v+ELcRbyvaw7JEiyqK/l0YEh0DdyKgRqJe4jV7tdlfJX525Xeoe4thDoVwAvmz+KDGMrPylv9fYwQhSZzaMAWkOgKkCzHePDbtapnD0Wr7ye2qSgRmvFh51fZtDN8cpL+j4pqNMF/YdM7DXi7nakYx1X5Bzpcq0APjFd/9rHak0Kot7FlrKmJ7QD2h1lXEMbtugZ2mi28jOg00s2spjTVJMcRIefVBFzjjF8NOgMZXO1AGr8qI3iQL+v1aGGjUrKUDb6HQmDB7U6wtBRyRnCxmrLATrBEFGZspO2UkFNxorKllG8UCqoytiDu4H+9tARXFkq6GfjBE49na3tYgfb2bZ7tumdrWzR+z1LEHRNqaBfjBNY+l7hnjNq1qCJfClci4WzB70rXJ2V/lmgWstlDZrUBwVBy2YNmkxh0AppgX41Zu/T/h8mikzovYKgpdMCtZjKMIb2+xnK0Jb0o3DfmyotEC853XH9c7zjHOVQJ3pHJ3FVXvaYh9zvIY+4zSZRVH5Q8r61dRSofC8dyfvaGkW8K7ohbdDX1ooSZ06fpQv63qpFcGbyPGmCqm1RBGdGz5Eu6J6iOM+QNuisxJzZYk6qoDNC7xXNbTu72aV7drWzo7xJXqDuzO5rdRr6p14b2YBOD6yzlkBpg04NrLN2XqAzA+usIVBe96FV8wKdE1hn9bxADxvtb9c5JC9Qk8tsbwsb2MgmvbOFrRzsixxAiaqAOtxpf3va2572snf37GUfF2nLC/S48QzxN5tczvinPQ+tkhfo9H/aS8ep/7SXjlOzfKb+ym0eUaNQZw3qtazeE27xic5iQK+Zv/eQrf2i8KNseMPGM1z3DGsURxfk7BV1Z2ZPJge12iE+7BadQnV6wCmOdkz/HO9YR7tQVaK9QeuqTwpqsFZ82AWp7Q1ayvdJQZxv2N5DJvWq8hbvDXK8tuSgOmdZydru16ncPWUDyznOL8U+7L/3q3Sq9W2yh31uhUAHy6cHQqDhHSj7HjdRFMrwDtaa6Txg4qhSpf9yXZAwVawX0zZ1AAAAAElFTkSuQmCC",
+    "iconColor": "#ffe40210",
+    "contributorName": "Giresharu",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
