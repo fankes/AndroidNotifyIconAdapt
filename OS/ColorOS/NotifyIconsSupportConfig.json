@@ -455,5 +455,13 @@
     "contributorName": "oosl",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "小布记忆",
+    "packageName": "com.oplus.aimemory",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAQAAAD/5HvMAAAECElEQVR42u3ZA5zjWhTH8bO2bdu2bdu2bdu2bdu2bdvm7O+5u0mbNJm5z/3OtP0ouvz3VDw8PHTwSxbyUpkOjGY702lNKfKSVv56hKMKczmJK14sJepf2SoF2cxTzB3DrzgQh7aEkz8DpdiPNVUdx/jmADBdVCMLm7ButOO4THgBD4gsKlGfT9gx2HFkewCgpqhCaKZjzwviyK8IyBUAYBd+RAUCsg57XlPIcXRpvsslKrAaI5+5yCh604c+9P71s++vf9kdxwbmIt8dVjN2XDtNUxIRwM0SsRKtSeIzZOADzk7SCv/iBn6YibMe4n0E4BDO5hJR3MIXU3FtFP7Fe6iAnhdtxS38UZAjGDtIbgKIXfjnMnqNxQ0i0p+juHea4SQSO8iP3noxRVo2cBfrPrCLlGIVS9F6QnQxRV/s6yVWEJR+TvOrn4XuGsU7rHvOSAsThCi04zJOrAUv4lCDDbjznjVUIZq4QxgG8QhXjtmZF2RjK8ZWk1isoA73MDLH9g44gI84e0sni+sQnTFTRGyjDnpeFBRrqIaZseItzEarm1hDWK5h5CR1xJsIpFkkV+PXp+1zjEoEFh+gMN/4Q6ofRlh2EuFbjNAcZ9dpRkDxIQJxEwDY+kdipCpXgPccJLnRYaPRW0BwUYJ2AEA1F0P9qcHWQSv0eooipOAj8Izw8jNCcp8fTRBXqIzeUxKKIswBRsivyInWZXGFCNxBbyN+RAmCkOuP0Ug+tK4YHdQRvY/EEOXIi9Y640B+Gr28ohw50OotRtiB1nuii3J0sRhqiM1LHDTrhlIctfgthD4G26lShNGFm09kMEqIF9Da+6e0TxG0XhBKXKE0Wl6UlT8BK9Fab7CfMRitM39K+6TjK1ptxTX2OY195fDrdJW3RBDX2K/rsCyiHP3Qm4svay30jYyiGPX5ArqrJBEj7EZroSiEL7rjbLK+fczjxyayq6k2E585OHtoenYy8AVnT9jGcMoTT7yJkHTiPa5UEXPsxth7ZpBKbCI5vbiMa52sxILPmPlMO3yJRURkJl8xMlKsYBjubCKcxQXwFsZmEcpqgWoW7uwgmIX62SGMNRY7aMEzzI0WN2iGkQc0EbuIxWiuY6aamCAUD3DlA+OI6P1QXpoB7DVorZtEEkOE4xV6XqwjlZrfOPIwlE/odTCtEjxHaz8ZRCVy8RStJ4Q3aaF3aC0R1cjOR6tthD8mo/UZ9WGYOWidMa5cEJUnaF0iuKhFIt26+5Gktmpx40UtfLHN+uTHHyfQ+kRuUYvqaC0QE2RySg+zRS2S6Dqtic2q/jxRjQV894DwYooAnORHw0Q1orHVsVYXE7fIxBP+cIYw8megAv1pTnixhFTs4RKXWEI08fDw+Af4CRoALkxcIURBAAAAAElFTkSuQmCC",
+    "contributorName": "giresharu",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
