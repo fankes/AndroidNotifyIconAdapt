@@ -1,20 +1,23 @@
-# Android 通知图标规范适配计划
+# AndroidNotifyIconAdapt (Deprecated)
 
-[![GitHub license](https://img.shields.io/github/license/fankes/AndroidNotifyIconAdapt?color=blue&style=flat-square)](https://github.com/HighCapable/YukiHookAPI/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/fankes/AndroidNotifyIconAdapt?color=blue&style=flat-square)](https://github.com/fankes/AndroidNotifyIconAdapt/blob/main/LICENSE)
 [![Telegram](https://img.shields.io/badge/discussion-Telegram-blue.svg?logo=telegram&style=flat-square)](https://t.me/XiaofangInternet)
-[![Telegram](https://img.shields.io/badge/discussion%20dev-Telegram-blue.svg?logo=telegram&style=flat-square)](https://t.me/HighCapable_Dev)
+
+This is an online rule platform for adapting native and standard notification icons for non-standard Android apps and vendors in Mainland China.
 
 这是一个在线规则平台，为国内 Android 不规范的 APP 和厂商适配原生通知图标与规范图标修复。
 
-## For Non-Chinese Users
+## 🚨 Maintenance of this project has been stopped
 
-This project will not be adapted i18n for now, please stay tuned in the future.
+This project has been discontinued and the documentation page has been removed. The resources in this repository will continue to be available so that projects that previously used this repository can still access its raw resources.
 
-## 开始使用
+This repository has completed its mission for the year, and the original repository has been migrated to the organization [BetterAndroid](https://github.com/BetterAndroid). All contributors have been retained, and future maintenance rights belong to **BetterAndroid**. Please visit the new [Android Notification Icon Project](https://github.com/BetterAndroid/android-notification-icon-project) project.
 
-- [点击这里](https://fankes.github.io/AndroidNotifyIconAdapt) 打开在线规则平台查看项目介绍、通知图标优化名单的全部内容以及调试、生成、贡献通知图标规则。
+此项目已停止维护并移除了文档页面，此仓库的资源将继续保留以便之前使用此仓库的项目能够继续访问其 Raw 资源。
 
-## 许可证
+此仓库已完成了当年的使命，原名称所在仓库已完成迁移到组织 [BetterAndroid](https://github.com/BetterAndroid)，所有贡献者均得以保留，后续维护权限归 **BetterAndroid** 所有，现在请前往全新的 [Android Notification Icon Project](https://github.com/BetterAndroid/android-notification-icon-project) 项目。
+
+## License
 
 - [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html)
 
@@ -35,4 +38,4 @@ You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ```
 
-版权所有 © 2017 Fankes Studio(qzmmcn@163.com)
+Copyright © 2017 Fankes Studio(qzmmcn@163.com)
